@@ -1,0 +1,12 @@
+{
+  "default": {
+    "layers": {
+      "membrane-09034FB7F0_lynEGFP": {
+        "contrastLimits": [
+          0.0,
+          255.0
+        ]
+      }
+    }
+  }
+}

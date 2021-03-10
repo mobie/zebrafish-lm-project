@@ -1,0 +1,15 @@
+{
+  "datasets": [
+    "membrane",
+    "nuclei",
+    "actin",
+    "atoh1a",
+    "cisgolgi",
+    "early_endosomes",
+    "lysosomes",
+    "recycling_endosomes",
+    "tgn_and_late_endosomes",
+    "trans_golgi"
+  ],
+  "defaultDataset": "membrane"
+}

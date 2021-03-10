@@ -1,0 +1,372 @@
+{
+  "membrane-0AF10D7E72_lynEGFP": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-0AF10D7E72_lynEGFP.xml",
+      "remote": "remote/membrane-0AF10D7E72_lynEGFP.xml"
+    },
+    "type": "image"
+  },
+  "membrane-0AF10D7E72_lynEGFP_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-0AF10D7E72_lynEGFP_seg.xml",
+      "remote": "remote/membrane-0AF10D7E72_lynEGFP_seg.xml"
+    },
+    "tableFolder": "tables/membrane-0AF10D7E72_lynEGFP_seg",
+    "type": "segmentation"
+  },
+  "membrane-0BC19C020F_lynEGFP": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-0BC19C020F_lynEGFP.xml",
+      "remote": "remote/membrane-0BC19C020F_lynEGFP.xml"
+    },
+    "type": "image"
+  },
+  "membrane-0BC19C020F_lynEGFP_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-0BC19C020F_lynEGFP_seg.xml",
+      "remote": "remote/membrane-0BC19C020F_lynEGFP_seg.xml"
+    },
+    "tableFolder": "tables/membrane-0BC19C020F_lynEGFP_seg",
+    "type": "segmentation"
+  },
+  "membrane-1648A8CC34_lynEGFP": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-1648A8CC34_lynEGFP.xml",
+      "remote": "remote/membrane-1648A8CC34_lynEGFP.xml"
+    },
+    "type": "image"
+  },
+  "membrane-1648A8CC34_lynEGFP_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-1648A8CC34_lynEGFP_seg.xml",
+      "remote": "remote/membrane-1648A8CC34_lynEGFP_seg.xml"
+    },
+    "tableFolder": "tables/membrane-1648A8CC34_lynEGFP_seg",
+    "type": "segmentation"
+  },
+  "membrane-32DC08CA03_lynEGFP": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-32DC08CA03_lynEGFP.xml",
+      "remote": "remote/membrane-32DC08CA03_lynEGFP.xml"
+    },
+    "type": "image"
+  },
+  "membrane-32DC08CA03_lynEGFP_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-32DC08CA03_lynEGFP_seg.xml",
+      "remote": "remote/membrane-32DC08CA03_lynEGFP_seg.xml"
+    },
+    "tableFolder": "tables/membrane-32DC08CA03_lynEGFP_seg",
+    "type": "segmentation"
+  },
+  "membrane-43665D3AE9_lynEGFP": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-43665D3AE9_lynEGFP.xml",
+      "remote": "remote/membrane-43665D3AE9_lynEGFP.xml"
+    },
+    "type": "image"
+  },
+  "membrane-43665D3AE9_lynEGFP_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-43665D3AE9_lynEGFP_seg.xml",
+      "remote": "remote/membrane-43665D3AE9_lynEGFP_seg.xml"
+    },
+    "tableFolder": "tables/membrane-43665D3AE9_lynEGFP_seg",
+    "type": "segmentation"
+  },
+  "membrane-67FD8A06DA_lynEGFP": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-67FD8A06DA_lynEGFP.xml",
+      "remote": "remote/membrane-67FD8A06DA_lynEGFP.xml"
+    },
+    "type": "image"
+  },
+  "membrane-67FD8A06DA_lynEGFP_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-67FD8A06DA_lynEGFP_seg.xml",
+      "remote": "remote/membrane-67FD8A06DA_lynEGFP_seg.xml"
+    },
+    "tableFolder": "tables/membrane-67FD8A06DA_lynEGFP_seg",
+    "type": "segmentation"
+  },
+  "membrane-9169ADF9A0_lynEGFP": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-9169ADF9A0_lynEGFP.xml",
+      "remote": "remote/membrane-9169ADF9A0_lynEGFP.xml"
+    },
+    "type": "image"
+  },
+  "membrane-9169ADF9A0_lynEGFP_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-9169ADF9A0_lynEGFP_seg.xml",
+      "remote": "remote/membrane-9169ADF9A0_lynEGFP_seg.xml"
+    },
+    "tableFolder": "tables/membrane-9169ADF9A0_lynEGFP_seg",
+    "type": "segmentation"
+  },
+  "membrane-9B3C4C613D_lynEGFP": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-9B3C4C613D_lynEGFP.xml",
+      "remote": "remote/membrane-9B3C4C613D_lynEGFP.xml"
+    },
+    "type": "image"
+  },
+  "membrane-9B3C4C613D_lynEGFP_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-9B3C4C613D_lynEGFP_seg.xml",
+      "remote": "remote/membrane-9B3C4C613D_lynEGFP_seg.xml"
+    },
+    "tableFolder": "tables/membrane-9B3C4C613D_lynEGFP_seg",
+    "type": "segmentation"
+  },
+  "membrane-C11B3A3777_lynEGFP": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-C11B3A3777_lynEGFP.xml",
+      "remote": "remote/membrane-C11B3A3777_lynEGFP.xml"
+    },
+    "type": "image"
+  },
+  "membrane-C11B3A3777_lynEGFP_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-C11B3A3777_lynEGFP_seg.xml",
+      "remote": "remote/membrane-C11B3A3777_lynEGFP_seg.xml"
+    },
+    "tableFolder": "tables/membrane-C11B3A3777_lynEGFP_seg",
+    "type": "segmentation"
+  },
+  "membrane-DE267BC41F_lynEGFP": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-DE267BC41F_lynEGFP.xml",
+      "remote": "remote/membrane-DE267BC41F_lynEGFP.xml"
+    },
+    "type": "image"
+  },
+  "membrane-DE267BC41F_lynEGFP_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-DE267BC41F_lynEGFP_seg.xml",
+      "remote": "remote/membrane-DE267BC41F_lynEGFP_seg.xml"
+    },
+    "tableFolder": "tables/membrane-DE267BC41F_lynEGFP_seg",
+    "type": "segmentation"
+  },
+  "trans_golgi-0AF10D7E72_b4galT1tagRFPt": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/trans_golgi-0AF10D7E72_b4galT1tagRFPt.xml",
+      "remote": "remote/trans_golgi-0AF10D7E72_b4galT1tagRFPt.xml"
+    },
+    "type": "image"
+  },
+  "trans_golgi-0BC19C020F_b4galT1tagRFPt": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/trans_golgi-0BC19C020F_b4galT1tagRFPt.xml",
+      "remote": "remote/trans_golgi-0BC19C020F_b4galT1tagRFPt.xml"
+    },
+    "type": "image"
+  },
+  "trans_golgi-1648A8CC34_b4galT1tagRFPt": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/trans_golgi-1648A8CC34_b4galT1tagRFPt.xml",
+      "remote": "remote/trans_golgi-1648A8CC34_b4galT1tagRFPt.xml"
+    },
+    "type": "image"
+  },
+  "trans_golgi-32DC08CA03_b4galT1tagRFPt": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/trans_golgi-32DC08CA03_b4galT1tagRFPt.xml",
+      "remote": "remote/trans_golgi-32DC08CA03_b4galT1tagRFPt.xml"
+    },
+    "type": "image"
+  },
+  "trans_golgi-43665D3AE9_b4galT1tagRFPt": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/trans_golgi-43665D3AE9_b4galT1tagRFPt.xml",
+      "remote": "remote/trans_golgi-43665D3AE9_b4galT1tagRFPt.xml"
+    },
+    "type": "image"
+  },
+  "trans_golgi-67FD8A06DA_b4galT1tagRFPt": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/trans_golgi-67FD8A06DA_b4galT1tagRFPt.xml",
+      "remote": "remote/trans_golgi-67FD8A06DA_b4galT1tagRFPt.xml"
+    },
+    "type": "image"
+  },
+  "trans_golgi-9169ADF9A0_b4galT1tagRFPt": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/trans_golgi-9169ADF9A0_b4galT1tagRFPt.xml",
+      "remote": "remote/trans_golgi-9169ADF9A0_b4galT1tagRFPt.xml"
+    },
+    "type": "image"
+  },
+  "trans_golgi-9B3C4C613D_b4galT1tagRFPt": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/trans_golgi-9B3C4C613D_b4galT1tagRFPt.xml",
+      "remote": "remote/trans_golgi-9B3C4C613D_b4galT1tagRFPt.xml"
+    },
+    "type": "image"
+  },
+  "trans_golgi-C11B3A3777_b4galT1tagRFPt": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/trans_golgi-C11B3A3777_b4galT1tagRFPt.xml",
+      "remote": "remote/trans_golgi-C11B3A3777_b4galT1tagRFPt.xml"
+    },
+    "type": "image"
+  },
+  "trans_golgi-DE267BC41F_b4galT1tagRFPt": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/trans_golgi-DE267BC41F_b4galT1tagRFPt.xml",
+      "remote": "remote/trans_golgi-DE267BC41F_b4galT1tagRFPt.xml"
+    },
+    "type": "image"
+  }
+}

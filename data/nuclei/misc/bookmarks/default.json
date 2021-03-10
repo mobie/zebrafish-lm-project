@@ -1,0 +1,12 @@
+{
+  "default": {
+    "layers": {
+      "membrane-03887B26C1_lynEGFP_linUnmix": {
+        "contrastLimits": [
+          0.0,
+          255.0
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,742 @@
+{
+  "membrane-03887B26C1_lynEGFP_linUnmix": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-03887B26C1_lynEGFP_linUnmix.xml",
+      "remote": "remote/membrane-03887B26C1_lynEGFP_linUnmix.xml"
+    },
+    "type": "image"
+  },
+  "membrane-03887B26C1_lynEGFP_linUnmix_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-03887B26C1_lynEGFP_linUnmix_seg.xml",
+      "remote": "remote/membrane-03887B26C1_lynEGFP_linUnmix_seg.xml"
+    },
+    "tableFolder": "tables/membrane-03887B26C1_lynEGFP_linUnmix_seg",
+    "type": "segmentation"
+  },
+  "membrane-15999C80F3_lynEGFP_linUnmix": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-15999C80F3_lynEGFP_linUnmix.xml",
+      "remote": "remote/membrane-15999C80F3_lynEGFP_linUnmix.xml"
+    },
+    "type": "image"
+  },
+  "membrane-15999C80F3_lynEGFP_linUnmix_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-15999C80F3_lynEGFP_linUnmix_seg.xml",
+      "remote": "remote/membrane-15999C80F3_lynEGFP_linUnmix_seg.xml"
+    },
+    "tableFolder": "tables/membrane-15999C80F3_lynEGFP_linUnmix_seg",
+    "type": "segmentation"
+  },
+  "membrane-3BD50B1F34_lynEGFP_linUnmix": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-3BD50B1F34_lynEGFP_linUnmix.xml",
+      "remote": "remote/membrane-3BD50B1F34_lynEGFP_linUnmix.xml"
+    },
+    "type": "image"
+  },
+  "membrane-3BD50B1F34_lynEGFP_linUnmix_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-3BD50B1F34_lynEGFP_linUnmix_seg.xml",
+      "remote": "remote/membrane-3BD50B1F34_lynEGFP_linUnmix_seg.xml"
+    },
+    "tableFolder": "tables/membrane-3BD50B1F34_lynEGFP_linUnmix_seg",
+    "type": "segmentation"
+  },
+  "membrane-492B944A71_lynEGFP_linUnmix": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-492B944A71_lynEGFP_linUnmix.xml",
+      "remote": "remote/membrane-492B944A71_lynEGFP_linUnmix.xml"
+    },
+    "type": "image"
+  },
+  "membrane-492B944A71_lynEGFP_linUnmix_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-492B944A71_lynEGFP_linUnmix_seg.xml",
+      "remote": "remote/membrane-492B944A71_lynEGFP_linUnmix_seg.xml"
+    },
+    "tableFolder": "tables/membrane-492B944A71_lynEGFP_linUnmix_seg",
+    "type": "segmentation"
+  },
+  "membrane-4A644B6C69_lynEGFP_linUnmix": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-4A644B6C69_lynEGFP_linUnmix.xml",
+      "remote": "remote/membrane-4A644B6C69_lynEGFP_linUnmix.xml"
+    },
+    "type": "image"
+  },
+  "membrane-4A644B6C69_lynEGFP_linUnmix_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-4A644B6C69_lynEGFP_linUnmix_seg.xml",
+      "remote": "remote/membrane-4A644B6C69_lynEGFP_linUnmix_seg.xml"
+    },
+    "tableFolder": "tables/membrane-4A644B6C69_lynEGFP_linUnmix_seg",
+    "type": "segmentation"
+  },
+  "membrane-4BDFE7B8D2_lynEGFP_linUnmix": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-4BDFE7B8D2_lynEGFP_linUnmix.xml",
+      "remote": "remote/membrane-4BDFE7B8D2_lynEGFP_linUnmix.xml"
+    },
+    "type": "image"
+  },
+  "membrane-4BDFE7B8D2_lynEGFP_linUnmix_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-4BDFE7B8D2_lynEGFP_linUnmix_seg.xml",
+      "remote": "remote/membrane-4BDFE7B8D2_lynEGFP_linUnmix_seg.xml"
+    },
+    "tableFolder": "tables/membrane-4BDFE7B8D2_lynEGFP_linUnmix_seg",
+    "type": "segmentation"
+  },
+  "membrane-4C059E69BC_lynEGFP_linUnmix": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-4C059E69BC_lynEGFP_linUnmix.xml",
+      "remote": "remote/membrane-4C059E69BC_lynEGFP_linUnmix.xml"
+    },
+    "type": "image"
+  },
+  "membrane-4C059E69BC_lynEGFP_linUnmix_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-4C059E69BC_lynEGFP_linUnmix_seg.xml",
+      "remote": "remote/membrane-4C059E69BC_lynEGFP_linUnmix_seg.xml"
+    },
+    "tableFolder": "tables/membrane-4C059E69BC_lynEGFP_linUnmix_seg",
+    "type": "segmentation"
+  },
+  "membrane-77135D126D_lynEGFP_linUnmix": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-77135D126D_lynEGFP_linUnmix.xml",
+      "remote": "remote/membrane-77135D126D_lynEGFP_linUnmix.xml"
+    },
+    "type": "image"
+  },
+  "membrane-77135D126D_lynEGFP_linUnmix_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-77135D126D_lynEGFP_linUnmix_seg.xml",
+      "remote": "remote/membrane-77135D126D_lynEGFP_linUnmix_seg.xml"
+    },
+    "tableFolder": "tables/membrane-77135D126D_lynEGFP_linUnmix_seg",
+    "type": "segmentation"
+  },
+  "membrane-7ADFA42907_lynEGFP_linUnmix": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-7ADFA42907_lynEGFP_linUnmix.xml",
+      "remote": "remote/membrane-7ADFA42907_lynEGFP_linUnmix.xml"
+    },
+    "type": "image"
+  },
+  "membrane-7ADFA42907_lynEGFP_linUnmix_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-7ADFA42907_lynEGFP_linUnmix_seg.xml",
+      "remote": "remote/membrane-7ADFA42907_lynEGFP_linUnmix_seg.xml"
+    },
+    "tableFolder": "tables/membrane-7ADFA42907_lynEGFP_linUnmix_seg",
+    "type": "segmentation"
+  },
+  "membrane-8179A86D76_lynEGFP_linUnmix": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-8179A86D76_lynEGFP_linUnmix.xml",
+      "remote": "remote/membrane-8179A86D76_lynEGFP_linUnmix.xml"
+    },
+    "type": "image"
+  },
+  "membrane-8179A86D76_lynEGFP_linUnmix_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-8179A86D76_lynEGFP_linUnmix_seg.xml",
+      "remote": "remote/membrane-8179A86D76_lynEGFP_linUnmix_seg.xml"
+    },
+    "tableFolder": "tables/membrane-8179A86D76_lynEGFP_linUnmix_seg",
+    "type": "segmentation"
+  },
+  "membrane-9CB73DC13A_lynEGFP_linUnmix": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-9CB73DC13A_lynEGFP_linUnmix.xml",
+      "remote": "remote/membrane-9CB73DC13A_lynEGFP_linUnmix.xml"
+    },
+    "type": "image"
+  },
+  "membrane-9CB73DC13A_lynEGFP_linUnmix_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-9CB73DC13A_lynEGFP_linUnmix_seg.xml",
+      "remote": "remote/membrane-9CB73DC13A_lynEGFP_linUnmix_seg.xml"
+    },
+    "tableFolder": "tables/membrane-9CB73DC13A_lynEGFP_linUnmix_seg",
+    "type": "segmentation"
+  },
+  "membrane-A921B80A44_lynEGFP_linUnmix": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-A921B80A44_lynEGFP_linUnmix.xml",
+      "remote": "remote/membrane-A921B80A44_lynEGFP_linUnmix.xml"
+    },
+    "type": "image"
+  },
+  "membrane-A921B80A44_lynEGFP_linUnmix_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-A921B80A44_lynEGFP_linUnmix_seg.xml",
+      "remote": "remote/membrane-A921B80A44_lynEGFP_linUnmix_seg.xml"
+    },
+    "tableFolder": "tables/membrane-A921B80A44_lynEGFP_linUnmix_seg",
+    "type": "segmentation"
+  },
+  "membrane-B154DF856B_lynEGFP_linUnmix": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-B154DF856B_lynEGFP_linUnmix.xml",
+      "remote": "remote/membrane-B154DF856B_lynEGFP_linUnmix.xml"
+    },
+    "type": "image"
+  },
+  "membrane-B154DF856B_lynEGFP_linUnmix_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-B154DF856B_lynEGFP_linUnmix_seg.xml",
+      "remote": "remote/membrane-B154DF856B_lynEGFP_linUnmix_seg.xml"
+    },
+    "tableFolder": "tables/membrane-B154DF856B_lynEGFP_linUnmix_seg",
+    "type": "segmentation"
+  },
+  "membrane-C22FC95129_lynEGFP_linUnmix": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-C22FC95129_lynEGFP_linUnmix.xml",
+      "remote": "remote/membrane-C22FC95129_lynEGFP_linUnmix.xml"
+    },
+    "type": "image"
+  },
+  "membrane-C22FC95129_lynEGFP_linUnmix_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-C22FC95129_lynEGFP_linUnmix_seg.xml",
+      "remote": "remote/membrane-C22FC95129_lynEGFP_linUnmix_seg.xml"
+    },
+    "tableFolder": "tables/membrane-C22FC95129_lynEGFP_linUnmix_seg",
+    "type": "segmentation"
+  },
+  "membrane-D2470961E8_lynEGFP_linUnmix": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-D2470961E8_lynEGFP_linUnmix.xml",
+      "remote": "remote/membrane-D2470961E8_lynEGFP_linUnmix.xml"
+    },
+    "type": "image"
+  },
+  "membrane-D2470961E8_lynEGFP_linUnmix_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-D2470961E8_lynEGFP_linUnmix_seg.xml",
+      "remote": "remote/membrane-D2470961E8_lynEGFP_linUnmix_seg.xml"
+    },
+    "tableFolder": "tables/membrane-D2470961E8_lynEGFP_linUnmix_seg",
+    "type": "segmentation"
+  },
+  "membrane-D34B941004_lynEGFP_linUnmix": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-D34B941004_lynEGFP_linUnmix.xml",
+      "remote": "remote/membrane-D34B941004_lynEGFP_linUnmix.xml"
+    },
+    "type": "image"
+  },
+  "membrane-D34B941004_lynEGFP_linUnmix_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-D34B941004_lynEGFP_linUnmix_seg.xml",
+      "remote": "remote/membrane-D34B941004_lynEGFP_linUnmix_seg.xml"
+    },
+    "tableFolder": "tables/membrane-D34B941004_lynEGFP_linUnmix_seg",
+    "type": "segmentation"
+  },
+  "membrane-D486DD3904_lynEGFP_linUnmix": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-D486DD3904_lynEGFP_linUnmix.xml",
+      "remote": "remote/membrane-D486DD3904_lynEGFP_linUnmix.xml"
+    },
+    "type": "image"
+  },
+  "membrane-D486DD3904_lynEGFP_linUnmix_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-D486DD3904_lynEGFP_linUnmix_seg.xml",
+      "remote": "remote/membrane-D486DD3904_lynEGFP_linUnmix_seg.xml"
+    },
+    "tableFolder": "tables/membrane-D486DD3904_lynEGFP_linUnmix_seg",
+    "type": "segmentation"
+  },
+  "membrane-D9314261C0_lynEGFP_linUnmix": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-D9314261C0_lynEGFP_linUnmix.xml",
+      "remote": "remote/membrane-D9314261C0_lynEGFP_linUnmix.xml"
+    },
+    "type": "image"
+  },
+  "membrane-D9314261C0_lynEGFP_linUnmix_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-D9314261C0_lynEGFP_linUnmix_seg.xml",
+      "remote": "remote/membrane-D9314261C0_lynEGFP_linUnmix_seg.xml"
+    },
+    "tableFolder": "tables/membrane-D9314261C0_lynEGFP_linUnmix_seg",
+    "type": "segmentation"
+  },
+  "membrane-F8346191C7_lynEGFP_linUnmix": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-F8346191C7_lynEGFP_linUnmix.xml",
+      "remote": "remote/membrane-F8346191C7_lynEGFP_linUnmix.xml"
+    },
+    "type": "image"
+  },
+  "membrane-F8346191C7_lynEGFP_linUnmix_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-F8346191C7_lynEGFP_linUnmix_seg.xml",
+      "remote": "remote/membrane-F8346191C7_lynEGFP_linUnmix_seg.xml"
+    },
+    "tableFolder": "tables/membrane-F8346191C7_lynEGFP_linUnmix_seg",
+    "type": "segmentation"
+  },
+  "membrane-FDE484C778_lynEGFP_linUnmix": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/membrane-FDE484C778_lynEGFP_linUnmix.xml",
+      "remote": "remote/membrane-FDE484C778_lynEGFP_linUnmix.xml"
+    },
+    "type": "image"
+  },
+  "membrane-FDE484C778_lynEGFP_linUnmix_seg": {
+    "color": "randomFromGlasbey",
+    "contrastLimits": [
+      0.0,
+      1000.0
+    ],
+    "storage": {
+      "local": "local/membrane-FDE484C778_lynEGFP_linUnmix_seg.xml",
+      "remote": "remote/membrane-FDE484C778_lynEGFP_linUnmix_seg.xml"
+    },
+    "tableFolder": "tables/membrane-FDE484C778_lynEGFP_linUnmix_seg",
+    "type": "segmentation"
+  },
+  "nuclei-03887B26C1_NLStdTomato": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/nuclei-03887B26C1_NLStdTomato.xml",
+      "remote": "remote/nuclei-03887B26C1_NLStdTomato.xml"
+    },
+    "type": "image"
+  },
+  "nuclei-15999C80F3_NLStdTomato": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/nuclei-15999C80F3_NLStdTomato.xml",
+      "remote": "remote/nuclei-15999C80F3_NLStdTomato.xml"
+    },
+    "type": "image"
+  },
+  "nuclei-3BD50B1F34_NLStdTomato": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/nuclei-3BD50B1F34_NLStdTomato.xml",
+      "remote": "remote/nuclei-3BD50B1F34_NLStdTomato.xml"
+    },
+    "type": "image"
+  },
+  "nuclei-492B944A71_NLStdTomato": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/nuclei-492B944A71_NLStdTomato.xml",
+      "remote": "remote/nuclei-492B944A71_NLStdTomato.xml"
+    },
+    "type": "image"
+  },
+  "nuclei-4A644B6C69_NLStdTomato": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/nuclei-4A644B6C69_NLStdTomato.xml",
+      "remote": "remote/nuclei-4A644B6C69_NLStdTomato.xml"
+    },
+    "type": "image"
+  },
+  "nuclei-4BDFE7B8D2_NLStdTomato": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/nuclei-4BDFE7B8D2_NLStdTomato.xml",
+      "remote": "remote/nuclei-4BDFE7B8D2_NLStdTomato.xml"
+    },
+    "type": "image"
+  },
+  "nuclei-4C059E69BC_NLStdTomato": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/nuclei-4C059E69BC_NLStdTomato.xml",
+      "remote": "remote/nuclei-4C059E69BC_NLStdTomato.xml"
+    },
+    "type": "image"
+  },
+  "nuclei-77135D126D_NLStdTomato": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/nuclei-77135D126D_NLStdTomato.xml",
+      "remote": "remote/nuclei-77135D126D_NLStdTomato.xml"
+    },
+    "type": "image"
+  },
+  "nuclei-7ADFA42907_NLStdTomato": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/nuclei-7ADFA42907_NLStdTomato.xml",
+      "remote": "remote/nuclei-7ADFA42907_NLStdTomato.xml"
+    },
+    "type": "image"
+  },
+  "nuclei-8179A86D76_NLStdTomato": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/nuclei-8179A86D76_NLStdTomato.xml",
+      "remote": "remote/nuclei-8179A86D76_NLStdTomato.xml"
+    },
+    "type": "image"
+  },
+  "nuclei-9CB73DC13A_NLStdTomato": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/nuclei-9CB73DC13A_NLStdTomato.xml",
+      "remote": "remote/nuclei-9CB73DC13A_NLStdTomato.xml"
+    },
+    "type": "image"
+  },
+  "nuclei-A921B80A44_NLStdTomato": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/nuclei-A921B80A44_NLStdTomato.xml",
+      "remote": "remote/nuclei-A921B80A44_NLStdTomato.xml"
+    },
+    "type": "image"
+  },
+  "nuclei-B154DF856B_NLStdTomato": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/nuclei-B154DF856B_NLStdTomato.xml",
+      "remote": "remote/nuclei-B154DF856B_NLStdTomato.xml"
+    },
+    "type": "image"
+  },
+  "nuclei-C22FC95129_NLStdTomato": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/nuclei-C22FC95129_NLStdTomato.xml",
+      "remote": "remote/nuclei-C22FC95129_NLStdTomato.xml"
+    },
+    "type": "image"
+  },
+  "nuclei-D2470961E8_NLStdTomato": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/nuclei-D2470961E8_NLStdTomato.xml",
+      "remote": "remote/nuclei-D2470961E8_NLStdTomato.xml"
+    },
+    "type": "image"
+  },
+  "nuclei-D34B941004_NLStdTomato": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/nuclei-D34B941004_NLStdTomato.xml",
+      "remote": "remote/nuclei-D34B941004_NLStdTomato.xml"
+    },
+    "type": "image"
+  },
+  "nuclei-D486DD3904_NLStdTomato": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/nuclei-D486DD3904_NLStdTomato.xml",
+      "remote": "remote/nuclei-D486DD3904_NLStdTomato.xml"
+    },
+    "type": "image"
+  },
+  "nuclei-D9314261C0_NLStdTomato": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/nuclei-D9314261C0_NLStdTomato.xml",
+      "remote": "remote/nuclei-D9314261C0_NLStdTomato.xml"
+    },
+    "type": "image"
+  },
+  "nuclei-F8346191C7_NLStdTomato": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/nuclei-F8346191C7_NLStdTomato.xml",
+      "remote": "remote/nuclei-F8346191C7_NLStdTomato.xml"
+    },
+    "type": "image"
+  },
+  "nuclei-FDE484C778_NLStdTomato": {
+    "color": "white",
+    "contrastLimits": [
+      0.0,
+      255.0
+    ],
+    "storage": {
+      "local": "local/nuclei-FDE484C778_NLStdTomato.xml",
+      "remote": "remote/nuclei-FDE484C778_NLStdTomato.xml"
+    },
+    "type": "image"
+  }
+}

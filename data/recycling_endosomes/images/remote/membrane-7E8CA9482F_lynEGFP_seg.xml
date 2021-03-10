@@ -1,0 +1,42 @@
+<SpimData version="0.2">
+  <BasePath type="relative">.</BasePath>
+  <SequenceDescription>
+    <ViewSetups>
+      <Attributes name="channel">
+        <Channel>
+          <id>0</id>
+        </Channel>
+      </Attributes>
+      <ViewSetup>
+        <id>0</id>
+        <name>Setup0</name>
+        <size>1636 816 164</size>
+        <voxelSize>
+          <unit>micrometer</unit>
+          <size>0.09921030580783081 0.09921030580783081 0.2245383</size>
+        </voxelSize>
+        <attributes>
+          <channel>0</channel>
+        </attributes>
+      </ViewSetup>
+    </ViewSetups>
+    <Timepoints type="range">
+      <first>0</first>
+      <last>0</last>
+    </Timepoints>
+    <ImageLoader format="bdv.n5.s3">
+      <Key>recycling_endosomes/images/local/membrane-7E8CA9482F_lynEGFP_seg.n5</Key>
+      <SigningRegion>us-west-2</SigningRegion>
+      <ServiceEndpoint>https://s3.embl.de</ServiceEndpoint>
+      <BucketName>zebrafish-lm</BucketName>
+      <Authentication>Anonymous</Authentication>
+    </ImageLoader>
+  </SequenceDescription>
+  <ViewRegistrations>
+    <ViewRegistration timepoint="0" setup="0">
+      <ViewTransform type="affine">
+        <affine>0.09921030580783081 0.0 0.0 0.0 0.0 0.09921030580783081 0.0 0.0 0.0 0.0 0.2245383 0.0</affine>
+      </ViewTransform>
+    </ViewRegistration>
+  </ViewRegistrations>
+</SpimData>
