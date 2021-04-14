@@ -913,6 +913,144 @@
         }
       ],
       "uiSelectionGroup": "bookmark"
+    },
+    "grid-view": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "membrane",
+            "opacity": 1.0,
+            "sources": [
+              "1A3F9F428A_lynEGFP",
+              "544D6C59FD_lynEGFP",
+              "655E9D7D39_lynEGFP",
+              "6565C3193C_lynEGFP",
+              "8494E67C25_lynEGFP",
+              "BACFB0475A_lynEGFP",
+              "D6B1A93BDE_lynEGFP",
+              "DBD0449625_lynEGFP",
+              "E63DB08265_lynEGFP",
+              "E99A87B085_lynEGFP",
+              "EE11691237_lynEGFP"
+            ]
+          }
+        },
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "membrane-segmentation",
+            "opacity": 0.5,
+            "sources": [
+              "1A3F9F428A_lynEGFP_seg",
+              "544D6C59FD_lynEGFP_seg",
+              "655E9D7D39_lynEGFP_seg",
+              "6565C3193C_lynEGFP_seg",
+              "8494E67C25_lynEGFP_seg",
+              "BACFB0475A_lynEGFP_seg",
+              "D6B1A93BDE_lynEGFP_seg",
+              "DBD0449625_lynEGFP_seg",
+              "E63DB08265_lynEGFP_seg",
+              "E99A87B085_lynEGFP_seg",
+              "EE11691237_lynEGFP_seg"
+            ]
+          }
+        },
+        {
+          "imageDisplay": {
+            "color": "green",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "cisgolgi",
+            "opacity": 1.0,
+            "sources": [
+              "1A3F9F428A_mKate2GM130",
+              "544D6C59FD_mKate2GM130",
+              "655E9D7D39_mKate2GM130",
+              "6565C3193C_mKate2GM130",
+              "8494E67C25_mKate2GM130",
+              "BACFB0475A_mKate2GM130",
+              "D6B1A93BDE_mKate2GM130",
+              "DBD0449625_mKate2GM130",
+              "E63DB08265_mKate2GM130",
+              "E99A87B085_mKate2GM130",
+              "EE11691237_mKate2GM130"
+            ]
+          }
+        }
+      ],
+      "sourceTransforms": [
+        {
+          "grid": {
+            "sources": [
+              [
+                "1A3F9F428A_lynEGFP",
+                "1A3F9F428A_lynEGFP_seg",
+                "1A3F9F428A_mKate2GM130"
+              ],
+              [
+                "544D6C59FD_lynEGFP",
+                "544D6C59FD_lynEGFP_seg",
+                "544D6C59FD_mKate2GM130"
+              ],
+              [
+                "655E9D7D39_lynEGFP",
+                "655E9D7D39_lynEGFP_seg",
+                "655E9D7D39_mKate2GM130"
+              ],
+              [
+                "6565C3193C_lynEGFP",
+                "6565C3193C_lynEGFP_seg",
+                "6565C3193C_mKate2GM130"
+              ],
+              [
+                "8494E67C25_lynEGFP",
+                "8494E67C25_lynEGFP_seg",
+                "8494E67C25_mKate2GM130"
+              ],
+              [
+                "BACFB0475A_lynEGFP",
+                "BACFB0475A_lynEGFP_seg",
+                "BACFB0475A_mKate2GM130"
+              ],
+              [
+                "D6B1A93BDE_lynEGFP",
+                "D6B1A93BDE_lynEGFP_seg",
+                "D6B1A93BDE_mKate2GM130"
+              ],
+              [
+                "DBD0449625_lynEGFP",
+                "DBD0449625_lynEGFP_seg",
+                "DBD0449625_mKate2GM130"
+              ],
+              [
+                "E63DB08265_lynEGFP",
+                "E63DB08265_lynEGFP_seg",
+                "E63DB08265_mKate2GM130"
+              ],
+              [
+                "E99A87B085_lynEGFP",
+                "E99A87B085_lynEGFP_seg",
+                "E99A87B085_mKate2GM130"
+              ],
+              [
+                "EE11691237_lynEGFP",
+                "EE11691237_lynEGFP_seg",
+                "EE11691237_mKate2GM130"
+              ]
+            ],
+            "tableDataLocation": "tables/grid-view"
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark"
     }
   }
 }

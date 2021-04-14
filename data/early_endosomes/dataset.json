@@ -1156,6 +1156,168 @@
         }
       ],
       "uiSelectionGroup": "bookmark"
+    },
+    "grid-view": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "membrane",
+            "opacity": 1.0,
+            "sources": [
+              "02ED8CA0B9_lynEGFP",
+              "26A9D7093E_lynEGFP",
+              "3E0EE13177_lynEGFP",
+              "47B31836B0_lynEGFP",
+              "61E7CD2F27_lynEGFP",
+              "81E0137C14_lynEGFP",
+              "828AAFF38C_lynEGFP",
+              "86AEB2E414_lynEGFP",
+              "889D6DDB1F_lynEGFP",
+              "D050E92E38_lynEGFP",
+              "D4846901BC_lynEGFP",
+              "D4974C20CF_lynEGFP",
+              "E75A7F5AE7_lynEGFP",
+              "E794F7AE68_lynEGFP"
+            ]
+          }
+        },
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "membrane-segmentation",
+            "opacity": 0.5,
+            "sources": [
+              "02ED8CA0B9_lynEGFP_seg",
+              "26A9D7093E_lynEGFP_seg",
+              "3E0EE13177_lynEGFP_seg",
+              "47B31836B0_lynEGFP_seg",
+              "61E7CD2F27_lynEGFP_seg",
+              "81E0137C14_lynEGFP_seg",
+              "828AAFF38C_lynEGFP_seg",
+              "86AEB2E414_lynEGFP_seg",
+              "889D6DDB1F_lynEGFP_seg",
+              "D050E92E38_lynEGFP_seg",
+              "D4846901BC_lynEGFP_seg",
+              "D4974C20CF_lynEGFP_seg",
+              "E75A7F5AE7_lynEGFP_seg",
+              "E794F7AE68_lynEGFP_seg"
+            ]
+          }
+        },
+        {
+          "imageDisplay": {
+            "color": "green",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "early_endosomes",
+            "opacity": 1.0,
+            "sources": [
+              "02ED8CA0B9_mKate2rab5",
+              "26A9D7093E_mKate2rab5",
+              "3E0EE13177_mKate2rab5",
+              "47B31836B0_mKate2rab5",
+              "61E7CD2F27_mKate2rab5",
+              "81E0137C14_mKate2rab5",
+              "828AAFF38C_mKate2rab5",
+              "86AEB2E414_mKate2rab5",
+              "889D6DDB1F_mKate2rab5",
+              "D050E92E38_mKate2rab5",
+              "D4846901BC_mKate2rab5",
+              "D4974C20CF_mKate2rab5",
+              "E75A7F5AE7_mKate2rab5",
+              "E794F7AE68_mKate2rab5"
+            ]
+          }
+        }
+      ],
+      "sourceTransforms": [
+        {
+          "grid": {
+            "sources": [
+              [
+                "02ED8CA0B9_lynEGFP",
+                "02ED8CA0B9_lynEGFP_seg",
+                "02ED8CA0B9_mKate2rab5"
+              ],
+              [
+                "26A9D7093E_lynEGFP",
+                "26A9D7093E_lynEGFP_seg",
+                "26A9D7093E_mKate2rab5"
+              ],
+              [
+                "3E0EE13177_lynEGFP",
+                "3E0EE13177_lynEGFP_seg",
+                "3E0EE13177_mKate2rab5"
+              ],
+              [
+                "47B31836B0_lynEGFP",
+                "47B31836B0_lynEGFP_seg",
+                "47B31836B0_mKate2rab5"
+              ],
+              [
+                "61E7CD2F27_lynEGFP",
+                "61E7CD2F27_lynEGFP_seg",
+                "61E7CD2F27_mKate2rab5"
+              ],
+              [
+                "81E0137C14_lynEGFP",
+                "81E0137C14_lynEGFP_seg",
+                "81E0137C14_mKate2rab5"
+              ],
+              [
+                "828AAFF38C_lynEGFP",
+                "828AAFF38C_lynEGFP_seg",
+                "828AAFF38C_mKate2rab5"
+              ],
+              [
+                "86AEB2E414_lynEGFP",
+                "86AEB2E414_lynEGFP_seg",
+                "86AEB2E414_mKate2rab5"
+              ],
+              [
+                "889D6DDB1F_lynEGFP",
+                "889D6DDB1F_lynEGFP_seg",
+                "889D6DDB1F_mKate2rab5"
+              ],
+              [
+                "D050E92E38_lynEGFP",
+                "D050E92E38_lynEGFP_seg",
+                "D050E92E38_mKate2rab5"
+              ],
+              [
+                "D4846901BC_lynEGFP",
+                "D4846901BC_lynEGFP_seg",
+                "D4846901BC_mKate2rab5"
+              ],
+              [
+                "D4974C20CF_lynEGFP",
+                "D4974C20CF_lynEGFP_seg",
+                "D4974C20CF_mKate2rab5"
+              ],
+              [
+                "E75A7F5AE7_lynEGFP",
+                "E75A7F5AE7_lynEGFP_seg",
+                "E75A7F5AE7_mKate2rab5"
+              ],
+              [
+                "E794F7AE68_lynEGFP",
+                "E794F7AE68_lynEGFP_seg",
+                "E794F7AE68_mKate2rab5"
+              ]
+            ],
+            "tableDataLocation": "tables/grid-view"
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark"
     }
   }
 }
