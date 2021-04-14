@@ -3,6 +3,10 @@ import os
 import pandas as pd
 
 
+#
+# TODO update to new spec and implement convenience function in mobie-utils
+#
+
 def create_image_table(table_path, source_names):
     modalities = ["segmentation" if "seg" in name else name.split('-')[0] for name in source_names]
     data = [

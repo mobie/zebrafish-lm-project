@@ -12,7 +12,7 @@
       </Attributes>
       <ViewSetup>
         <id>0</id>
-        <name>Setup0</name>
+        <name>2FC33D7301_lynEGFP_seg</name>
         <size>1584 788 122</size>
         <voxelSize>
           <unit>micrometer</unit>
@@ -29,7 +29,7 @@
     </Timepoints>
   </SequenceDescription>
   <ViewRegistrations>
-    <ViewRegistration timepoint="0" setup="0">
+    <ViewRegistration setup="0" timepoint="0">
       <ViewTransform type="affine">
         <affine>0.09921030580783081 0.0 0.0 0.0 0.0 0.09921030580783081 0.0 0.0 0.0 0.0 0.2245383 0.0</affine>
       </ViewTransform>

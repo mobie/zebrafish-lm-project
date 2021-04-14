@@ -1,0 +1,1728 @@
+{
+  "is2d": false,
+  "sources": {
+    "128F6F3122_lynEGFP": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-128F6F3122_lynEGFP.xml",
+          "s3store": "images/remote/membrane-128F6F3122_lynEGFP.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "128F6F3122_lynEGFP",
+                "opacity": 1.0,
+                "sources": [
+                  "128F6F3122_lynEGFP"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane"
+        }
+      }
+    },
+    "128F6F3122_lynEGFP_seg": {
+      "segmentation": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-128F6F3122_lynEGFP_seg.xml",
+          "s3store": "images/remote/membrane-128F6F3122_lynEGFP_seg.xml"
+        },
+        "tableDataLocation": "tables/membrane-128F6F3122_lynEGFP_seg",
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "segmentationDisplay": {
+                "lut": "glasbey",
+                "name": "128F6F3122_lynEGFP_seg",
+                "opacity": 0.5,
+                "sources": [
+                  "128F6F3122_lynEGFP_seg"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane-segmentation"
+        }
+      }
+    },
+    "128F6F3122_lysotrackerdeepred": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/lysosomes-128F6F3122_lysotrackerdeepred.xml",
+          "s3store": "images/remote/lysosomes-128F6F3122_lysotrackerdeepred.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "128F6F3122_lysotrackerdeepred",
+                "opacity": 1.0,
+                "sources": [
+                  "128F6F3122_lysotrackerdeepred"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "lysosomes"
+        }
+      }
+    },
+    "17F755A430_lynEGFP": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-17F755A430_lynEGFP.xml",
+          "s3store": "images/remote/membrane-17F755A430_lynEGFP.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "17F755A430_lynEGFP",
+                "opacity": 1.0,
+                "sources": [
+                  "17F755A430_lynEGFP"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane"
+        }
+      }
+    },
+    "17F755A430_lynEGFP_seg": {
+      "segmentation": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-17F755A430_lynEGFP_seg.xml",
+          "s3store": "images/remote/membrane-17F755A430_lynEGFP_seg.xml"
+        },
+        "tableDataLocation": "tables/membrane-17F755A430_lynEGFP_seg",
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "segmentationDisplay": {
+                "lut": "glasbey",
+                "name": "17F755A430_lynEGFP_seg",
+                "opacity": 0.5,
+                "sources": [
+                  "17F755A430_lynEGFP_seg"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane-segmentation"
+        }
+      }
+    },
+    "17F755A430_lysotrackerdeepred": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/lysosomes-17F755A430_lysotrackerdeepred.xml",
+          "s3store": "images/remote/lysosomes-17F755A430_lysotrackerdeepred.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "17F755A430_lysotrackerdeepred",
+                "opacity": 1.0,
+                "sources": [
+                  "17F755A430_lysotrackerdeepred"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "lysosomes"
+        }
+      }
+    },
+    "2140A358CC_lynEGFP": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-2140A358CC_lynEGFP.xml",
+          "s3store": "images/remote/membrane-2140A358CC_lynEGFP.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "2140A358CC_lynEGFP",
+                "opacity": 1.0,
+                "sources": [
+                  "2140A358CC_lynEGFP"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane"
+        }
+      }
+    },
+    "2140A358CC_lynEGFP_seg": {
+      "segmentation": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-2140A358CC_lynEGFP_seg.xml",
+          "s3store": "images/remote/membrane-2140A358CC_lynEGFP_seg.xml"
+        },
+        "tableDataLocation": "tables/membrane-2140A358CC_lynEGFP_seg",
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "segmentationDisplay": {
+                "lut": "glasbey",
+                "name": "2140A358CC_lynEGFP_seg",
+                "opacity": 0.5,
+                "sources": [
+                  "2140A358CC_lynEGFP_seg"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane-segmentation"
+        }
+      }
+    },
+    "2140A358CC_lysotrackerdeepred": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/lysosomes-2140A358CC_lysotrackerdeepred.xml",
+          "s3store": "images/remote/lysosomes-2140A358CC_lysotrackerdeepred.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "2140A358CC_lysotrackerdeepred",
+                "opacity": 1.0,
+                "sources": [
+                  "2140A358CC_lysotrackerdeepred"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "lysosomes"
+        }
+      }
+    },
+    "23BA70245C_lynEGFP": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-23BA70245C_lynEGFP.xml",
+          "s3store": "images/remote/membrane-23BA70245C_lynEGFP.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "23BA70245C_lynEGFP",
+                "opacity": 1.0,
+                "sources": [
+                  "23BA70245C_lynEGFP"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane"
+        }
+      }
+    },
+    "23BA70245C_lynEGFP_seg": {
+      "segmentation": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-23BA70245C_lynEGFP_seg.xml",
+          "s3store": "images/remote/membrane-23BA70245C_lynEGFP_seg.xml"
+        },
+        "tableDataLocation": "tables/membrane-23BA70245C_lynEGFP_seg",
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "segmentationDisplay": {
+                "lut": "glasbey",
+                "name": "23BA70245C_lynEGFP_seg",
+                "opacity": 0.5,
+                "sources": [
+                  "23BA70245C_lynEGFP_seg"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane-segmentation"
+        }
+      }
+    },
+    "23BA70245C_lysotrackerdeepred": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/lysosomes-23BA70245C_lysotrackerdeepred.xml",
+          "s3store": "images/remote/lysosomes-23BA70245C_lysotrackerdeepred.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "23BA70245C_lysotrackerdeepred",
+                "opacity": 1.0,
+                "sources": [
+                  "23BA70245C_lysotrackerdeepred"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "lysosomes"
+        }
+      }
+    },
+    "4CFD671A2E_lynEGFP": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-4CFD671A2E_lynEGFP.xml",
+          "s3store": "images/remote/membrane-4CFD671A2E_lynEGFP.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "4CFD671A2E_lynEGFP",
+                "opacity": 1.0,
+                "sources": [
+                  "4CFD671A2E_lynEGFP"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane"
+        }
+      }
+    },
+    "4CFD671A2E_lynEGFP_seg": {
+      "segmentation": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-4CFD671A2E_lynEGFP_seg.xml",
+          "s3store": "images/remote/membrane-4CFD671A2E_lynEGFP_seg.xml"
+        },
+        "tableDataLocation": "tables/membrane-4CFD671A2E_lynEGFP_seg",
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "segmentationDisplay": {
+                "lut": "glasbey",
+                "name": "4CFD671A2E_lynEGFP_seg",
+                "opacity": 0.5,
+                "sources": [
+                  "4CFD671A2E_lynEGFP_seg"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane-segmentation"
+        }
+      }
+    },
+    "4CFD671A2E_lysotrackerdeepred": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/lysosomes-4CFD671A2E_lysotrackerdeepred.xml",
+          "s3store": "images/remote/lysosomes-4CFD671A2E_lysotrackerdeepred.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "4CFD671A2E_lysotrackerdeepred",
+                "opacity": 1.0,
+                "sources": [
+                  "4CFD671A2E_lysotrackerdeepred"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "lysosomes"
+        }
+      }
+    },
+    "5485505C8F_lynEGFP": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-5485505C8F_lynEGFP.xml",
+          "s3store": "images/remote/membrane-5485505C8F_lynEGFP.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "5485505C8F_lynEGFP",
+                "opacity": 1.0,
+                "sources": [
+                  "5485505C8F_lynEGFP"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane"
+        }
+      }
+    },
+    "5485505C8F_lynEGFP_seg": {
+      "segmentation": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-5485505C8F_lynEGFP_seg.xml",
+          "s3store": "images/remote/membrane-5485505C8F_lynEGFP_seg.xml"
+        },
+        "tableDataLocation": "tables/membrane-5485505C8F_lynEGFP_seg",
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "segmentationDisplay": {
+                "lut": "glasbey",
+                "name": "5485505C8F_lynEGFP_seg",
+                "opacity": 0.5,
+                "sources": [
+                  "5485505C8F_lynEGFP_seg"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane-segmentation"
+        }
+      }
+    },
+    "5485505C8F_lysotrackerdeepred": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/lysosomes-5485505C8F_lysotrackerdeepred.xml",
+          "s3store": "images/remote/lysosomes-5485505C8F_lysotrackerdeepred.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "5485505C8F_lysotrackerdeepred",
+                "opacity": 1.0,
+                "sources": [
+                  "5485505C8F_lysotrackerdeepred"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "lysosomes"
+        }
+      }
+    },
+    "63BC284B28_lynEGFP": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-63BC284B28_lynEGFP.xml",
+          "s3store": "images/remote/membrane-63BC284B28_lynEGFP.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "63BC284B28_lynEGFP",
+                "opacity": 1.0,
+                "sources": [
+                  "63BC284B28_lynEGFP"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane"
+        }
+      }
+    },
+    "63BC284B28_lynEGFP_seg": {
+      "segmentation": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-63BC284B28_lynEGFP_seg.xml",
+          "s3store": "images/remote/membrane-63BC284B28_lynEGFP_seg.xml"
+        },
+        "tableDataLocation": "tables/membrane-63BC284B28_lynEGFP_seg",
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "segmentationDisplay": {
+                "lut": "glasbey",
+                "name": "63BC284B28_lynEGFP_seg",
+                "opacity": 0.5,
+                "sources": [
+                  "63BC284B28_lynEGFP_seg"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane-segmentation"
+        }
+      }
+    },
+    "63BC284B28_lysotrackerdeepred": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/lysosomes-63BC284B28_lysotrackerdeepred.xml",
+          "s3store": "images/remote/lysosomes-63BC284B28_lysotrackerdeepred.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "63BC284B28_lysotrackerdeepred",
+                "opacity": 1.0,
+                "sources": [
+                  "63BC284B28_lysotrackerdeepred"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "lysosomes"
+        }
+      }
+    },
+    "65B83F355D_lynEGFP": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-65B83F355D_lynEGFP.xml",
+          "s3store": "images/remote/membrane-65B83F355D_lynEGFP.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "65B83F355D_lynEGFP",
+                "opacity": 1.0,
+                "sources": [
+                  "65B83F355D_lynEGFP"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane"
+        }
+      }
+    },
+    "65B83F355D_lynEGFP_seg": {
+      "segmentation": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-65B83F355D_lynEGFP_seg.xml",
+          "s3store": "images/remote/membrane-65B83F355D_lynEGFP_seg.xml"
+        },
+        "tableDataLocation": "tables/membrane-65B83F355D_lynEGFP_seg",
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "segmentationDisplay": {
+                "lut": "glasbey",
+                "name": "65B83F355D_lynEGFP_seg",
+                "opacity": 0.5,
+                "sources": [
+                  "65B83F355D_lynEGFP_seg"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane-segmentation"
+        }
+      }
+    },
+    "65B83F355D_lysotrackerdeepred": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/lysosomes-65B83F355D_lysotrackerdeepred.xml",
+          "s3store": "images/remote/lysosomes-65B83F355D_lysotrackerdeepred.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "65B83F355D_lysotrackerdeepred",
+                "opacity": 1.0,
+                "sources": [
+                  "65B83F355D_lysotrackerdeepred"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "lysosomes"
+        }
+      }
+    },
+    "69DCD8A8EA_lynEGFP": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-69DCD8A8EA_lynEGFP.xml",
+          "s3store": "images/remote/membrane-69DCD8A8EA_lynEGFP.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "69DCD8A8EA_lynEGFP",
+                "opacity": 1.0,
+                "sources": [
+                  "69DCD8A8EA_lynEGFP"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane"
+        }
+      }
+    },
+    "69DCD8A8EA_lynEGFP_seg": {
+      "segmentation": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-69DCD8A8EA_lynEGFP_seg.xml",
+          "s3store": "images/remote/membrane-69DCD8A8EA_lynEGFP_seg.xml"
+        },
+        "tableDataLocation": "tables/membrane-69DCD8A8EA_lynEGFP_seg",
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "segmentationDisplay": {
+                "lut": "glasbey",
+                "name": "69DCD8A8EA_lynEGFP_seg",
+                "opacity": 0.5,
+                "sources": [
+                  "69DCD8A8EA_lynEGFP_seg"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane-segmentation"
+        }
+      }
+    },
+    "69DCD8A8EA_lysotrackerdeepred": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/lysosomes-69DCD8A8EA_lysotrackerdeepred.xml",
+          "s3store": "images/remote/lysosomes-69DCD8A8EA_lysotrackerdeepred.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "69DCD8A8EA_lysotrackerdeepred",
+                "opacity": 1.0,
+                "sources": [
+                  "69DCD8A8EA_lysotrackerdeepred"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "lysosomes"
+        }
+      }
+    },
+    "6B76772EDD_lynEGFP": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-6B76772EDD_lynEGFP.xml",
+          "s3store": "images/remote/membrane-6B76772EDD_lynEGFP.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "6B76772EDD_lynEGFP",
+                "opacity": 1.0,
+                "sources": [
+                  "6B76772EDD_lynEGFP"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane"
+        }
+      }
+    },
+    "6B76772EDD_lynEGFP_seg": {
+      "segmentation": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-6B76772EDD_lynEGFP_seg.xml",
+          "s3store": "images/remote/membrane-6B76772EDD_lynEGFP_seg.xml"
+        },
+        "tableDataLocation": "tables/membrane-6B76772EDD_lynEGFP_seg",
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "segmentationDisplay": {
+                "lut": "glasbey",
+                "name": "6B76772EDD_lynEGFP_seg",
+                "opacity": 0.5,
+                "sources": [
+                  "6B76772EDD_lynEGFP_seg"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane-segmentation"
+        }
+      }
+    },
+    "6B76772EDD_lysotrackerdeepred": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/lysosomes-6B76772EDD_lysotrackerdeepred.xml",
+          "s3store": "images/remote/lysosomes-6B76772EDD_lysotrackerdeepred.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "6B76772EDD_lysotrackerdeepred",
+                "opacity": 1.0,
+                "sources": [
+                  "6B76772EDD_lysotrackerdeepred"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "lysosomes"
+        }
+      }
+    },
+    "72966B3C13_lynEGFP": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-72966B3C13_lynEGFP.xml",
+          "s3store": "images/remote/membrane-72966B3C13_lynEGFP.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "72966B3C13_lynEGFP",
+                "opacity": 1.0,
+                "sources": [
+                  "72966B3C13_lynEGFP"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane"
+        }
+      }
+    },
+    "72966B3C13_lynEGFP_seg": {
+      "segmentation": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-72966B3C13_lynEGFP_seg.xml",
+          "s3store": "images/remote/membrane-72966B3C13_lynEGFP_seg.xml"
+        },
+        "tableDataLocation": "tables/membrane-72966B3C13_lynEGFP_seg",
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "segmentationDisplay": {
+                "lut": "glasbey",
+                "name": "72966B3C13_lynEGFP_seg",
+                "opacity": 0.5,
+                "sources": [
+                  "72966B3C13_lynEGFP_seg"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane-segmentation"
+        }
+      }
+    },
+    "72966B3C13_lysotrackerdeepred": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/lysosomes-72966B3C13_lysotrackerdeepred.xml",
+          "s3store": "images/remote/lysosomes-72966B3C13_lysotrackerdeepred.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "72966B3C13_lysotrackerdeepred",
+                "opacity": 1.0,
+                "sources": [
+                  "72966B3C13_lysotrackerdeepred"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "lysosomes"
+        }
+      }
+    },
+    "87AA6901DC_lynEGFP": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-87AA6901DC_lynEGFP.xml",
+          "s3store": "images/remote/membrane-87AA6901DC_lynEGFP.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "87AA6901DC_lynEGFP",
+                "opacity": 1.0,
+                "sources": [
+                  "87AA6901DC_lynEGFP"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane"
+        }
+      }
+    },
+    "87AA6901DC_lynEGFP_seg": {
+      "segmentation": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-87AA6901DC_lynEGFP_seg.xml",
+          "s3store": "images/remote/membrane-87AA6901DC_lynEGFP_seg.xml"
+        },
+        "tableDataLocation": "tables/membrane-87AA6901DC_lynEGFP_seg",
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "segmentationDisplay": {
+                "lut": "glasbey",
+                "name": "87AA6901DC_lynEGFP_seg",
+                "opacity": 0.5,
+                "sources": [
+                  "87AA6901DC_lynEGFP_seg"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane-segmentation"
+        }
+      }
+    },
+    "87AA6901DC_lysotrackerdeepred": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/lysosomes-87AA6901DC_lysotrackerdeepred.xml",
+          "s3store": "images/remote/lysosomes-87AA6901DC_lysotrackerdeepred.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "87AA6901DC_lysotrackerdeepred",
+                "opacity": 1.0,
+                "sources": [
+                  "87AA6901DC_lysotrackerdeepred"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "lysosomes"
+        }
+      }
+    },
+    "8E0B101116_lynEGFP": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-8E0B101116_lynEGFP.xml",
+          "s3store": "images/remote/membrane-8E0B101116_lynEGFP.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "8E0B101116_lynEGFP",
+                "opacity": 1.0,
+                "sources": [
+                  "8E0B101116_lynEGFP"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane"
+        }
+      }
+    },
+    "8E0B101116_lynEGFP_seg": {
+      "segmentation": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-8E0B101116_lynEGFP_seg.xml",
+          "s3store": "images/remote/membrane-8E0B101116_lynEGFP_seg.xml"
+        },
+        "tableDataLocation": "tables/membrane-8E0B101116_lynEGFP_seg",
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "segmentationDisplay": {
+                "lut": "glasbey",
+                "name": "8E0B101116_lynEGFP_seg",
+                "opacity": 0.5,
+                "sources": [
+                  "8E0B101116_lynEGFP_seg"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane-segmentation"
+        }
+      }
+    },
+    "8E0B101116_lysotrackerdeepred": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/lysosomes-8E0B101116_lysotrackerdeepred.xml",
+          "s3store": "images/remote/lysosomes-8E0B101116_lysotrackerdeepred.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "8E0B101116_lysotrackerdeepred",
+                "opacity": 1.0,
+                "sources": [
+                  "8E0B101116_lysotrackerdeepred"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "lysosomes"
+        }
+      }
+    },
+    "9134C9CCA6_lynEGFP": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-9134C9CCA6_lynEGFP.xml",
+          "s3store": "images/remote/membrane-9134C9CCA6_lynEGFP.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "9134C9CCA6_lynEGFP",
+                "opacity": 1.0,
+                "sources": [
+                  "9134C9CCA6_lynEGFP"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane"
+        }
+      }
+    },
+    "9134C9CCA6_lynEGFP_seg": {
+      "segmentation": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-9134C9CCA6_lynEGFP_seg.xml",
+          "s3store": "images/remote/membrane-9134C9CCA6_lynEGFP_seg.xml"
+        },
+        "tableDataLocation": "tables/membrane-9134C9CCA6_lynEGFP_seg",
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "segmentationDisplay": {
+                "lut": "glasbey",
+                "name": "9134C9CCA6_lynEGFP_seg",
+                "opacity": 0.5,
+                "sources": [
+                  "9134C9CCA6_lynEGFP_seg"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane-segmentation"
+        }
+      }
+    },
+    "9134C9CCA6_lysotrackerdeepred": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/lysosomes-9134C9CCA6_lysotrackerdeepred.xml",
+          "s3store": "images/remote/lysosomes-9134C9CCA6_lysotrackerdeepred.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "9134C9CCA6_lysotrackerdeepred",
+                "opacity": 1.0,
+                "sources": [
+                  "9134C9CCA6_lysotrackerdeepred"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "lysosomes"
+        }
+      }
+    },
+    "91C50915A3_lynEGFP": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-91C50915A3_lynEGFP.xml",
+          "s3store": "images/remote/membrane-91C50915A3_lynEGFP.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "91C50915A3_lynEGFP",
+                "opacity": 1.0,
+                "sources": [
+                  "91C50915A3_lynEGFP"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane"
+        }
+      }
+    },
+    "91C50915A3_lynEGFP_seg": {
+      "segmentation": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-91C50915A3_lynEGFP_seg.xml",
+          "s3store": "images/remote/membrane-91C50915A3_lynEGFP_seg.xml"
+        },
+        "tableDataLocation": "tables/membrane-91C50915A3_lynEGFP_seg",
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "segmentationDisplay": {
+                "lut": "glasbey",
+                "name": "91C50915A3_lynEGFP_seg",
+                "opacity": 0.5,
+                "sources": [
+                  "91C50915A3_lynEGFP_seg"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane-segmentation"
+        }
+      }
+    },
+    "91C50915A3_lysotrackerdeepred": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/lysosomes-91C50915A3_lysotrackerdeepred.xml",
+          "s3store": "images/remote/lysosomes-91C50915A3_lysotrackerdeepred.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "91C50915A3_lysotrackerdeepred",
+                "opacity": 1.0,
+                "sources": [
+                  "91C50915A3_lysotrackerdeepred"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "lysosomes"
+        }
+      }
+    },
+    "DA5B48D528_lynEGFP": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-DA5B48D528_lynEGFP.xml",
+          "s3store": "images/remote/membrane-DA5B48D528_lynEGFP.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "DA5B48D528_lynEGFP",
+                "opacity": 1.0,
+                "sources": [
+                  "DA5B48D528_lynEGFP"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane"
+        }
+      }
+    },
+    "DA5B48D528_lynEGFP_seg": {
+      "segmentation": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-DA5B48D528_lynEGFP_seg.xml",
+          "s3store": "images/remote/membrane-DA5B48D528_lynEGFP_seg.xml"
+        },
+        "tableDataLocation": "tables/membrane-DA5B48D528_lynEGFP_seg",
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "segmentationDisplay": {
+                "lut": "glasbey",
+                "name": "DA5B48D528_lynEGFP_seg",
+                "opacity": 0.5,
+                "sources": [
+                  "DA5B48D528_lynEGFP_seg"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane-segmentation"
+        }
+      }
+    },
+    "DA5B48D528_lysotrackerdeepred": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/lysosomes-DA5B48D528_lysotrackerdeepred.xml",
+          "s3store": "images/remote/lysosomes-DA5B48D528_lysotrackerdeepred.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "DA5B48D528_lysotrackerdeepred",
+                "opacity": 1.0,
+                "sources": [
+                  "DA5B48D528_lysotrackerdeepred"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "lysosomes"
+        }
+      }
+    },
+    "E536464063_lynEGFP": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-E536464063_lynEGFP.xml",
+          "s3store": "images/remote/membrane-E536464063_lynEGFP.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "E536464063_lynEGFP",
+                "opacity": 1.0,
+                "sources": [
+                  "E536464063_lynEGFP"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane"
+        }
+      }
+    },
+    "E536464063_lynEGFP_seg": {
+      "segmentation": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-E536464063_lynEGFP_seg.xml",
+          "s3store": "images/remote/membrane-E536464063_lynEGFP_seg.xml"
+        },
+        "tableDataLocation": "tables/membrane-E536464063_lynEGFP_seg",
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "segmentationDisplay": {
+                "lut": "glasbey",
+                "name": "E536464063_lynEGFP_seg",
+                "opacity": 0.5,
+                "sources": [
+                  "E536464063_lynEGFP_seg"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane-segmentation"
+        }
+      }
+    },
+    "E536464063_lysotrackerdeepred": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/lysosomes-E536464063_lysotrackerdeepred.xml",
+          "s3store": "images/remote/lysosomes-E536464063_lysotrackerdeepred.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "E536464063_lysotrackerdeepred",
+                "opacity": 1.0,
+                "sources": [
+                  "E536464063_lysotrackerdeepred"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "lysosomes"
+        }
+      }
+    },
+    "E5821032EA_lynEGFP": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-E5821032EA_lynEGFP.xml",
+          "s3store": "images/remote/membrane-E5821032EA_lynEGFP.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "E5821032EA_lynEGFP",
+                "opacity": 1.0,
+                "sources": [
+                  "E5821032EA_lynEGFP"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane"
+        }
+      }
+    },
+    "E5821032EA_lynEGFP_seg": {
+      "segmentation": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-E5821032EA_lynEGFP_seg.xml",
+          "s3store": "images/remote/membrane-E5821032EA_lynEGFP_seg.xml"
+        },
+        "tableDataLocation": "tables/membrane-E5821032EA_lynEGFP_seg",
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "segmentationDisplay": {
+                "lut": "glasbey",
+                "name": "E5821032EA_lynEGFP_seg",
+                "opacity": 0.5,
+                "sources": [
+                  "E5821032EA_lynEGFP_seg"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane-segmentation"
+        }
+      }
+    },
+    "E5821032EA_lysotrackerdeepred": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/lysosomes-E5821032EA_lysotrackerdeepred.xml",
+          "s3store": "images/remote/lysosomes-E5821032EA_lysotrackerdeepred.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "E5821032EA_lysotrackerdeepred",
+                "opacity": 1.0,
+                "sources": [
+                  "E5821032EA_lysotrackerdeepred"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "lysosomes"
+        }
+      }
+    },
+    "E641CD81AC_lynEGFP": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-E641CD81AC_lynEGFP.xml",
+          "s3store": "images/remote/membrane-E641CD81AC_lynEGFP.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "E641CD81AC_lynEGFP",
+                "opacity": 1.0,
+                "sources": [
+                  "E641CD81AC_lynEGFP"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane"
+        }
+      }
+    },
+    "E641CD81AC_lynEGFP_seg": {
+      "segmentation": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-E641CD81AC_lynEGFP_seg.xml",
+          "s3store": "images/remote/membrane-E641CD81AC_lynEGFP_seg.xml"
+        },
+        "tableDataLocation": "tables/membrane-E641CD81AC_lynEGFP_seg",
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "segmentationDisplay": {
+                "lut": "glasbey",
+                "name": "E641CD81AC_lynEGFP_seg",
+                "opacity": 0.5,
+                "sources": [
+                  "E641CD81AC_lynEGFP_seg"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane-segmentation"
+        }
+      }
+    },
+    "E641CD81AC_lysotrackerdeepred": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/lysosomes-E641CD81AC_lysotrackerdeepred.xml",
+          "s3store": "images/remote/lysosomes-E641CD81AC_lysotrackerdeepred.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "E641CD81AC_lysotrackerdeepred",
+                "opacity": 1.0,
+                "sources": [
+                  "E641CD81AC_lysotrackerdeepred"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "lysosomes"
+        }
+      }
+    },
+    "F6B5B972FB_lynEGFP": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-F6B5B972FB_lynEGFP.xml",
+          "s3store": "images/remote/membrane-F6B5B972FB_lynEGFP.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "F6B5B972FB_lynEGFP",
+                "opacity": 1.0,
+                "sources": [
+                  "F6B5B972FB_lynEGFP"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane"
+        }
+      }
+    },
+    "F6B5B972FB_lynEGFP_seg": {
+      "segmentation": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-F6B5B972FB_lynEGFP_seg.xml",
+          "s3store": "images/remote/membrane-F6B5B972FB_lynEGFP_seg.xml"
+        },
+        "tableDataLocation": "tables/membrane-F6B5B972FB_lynEGFP_seg",
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "segmentationDisplay": {
+                "lut": "glasbey",
+                "name": "F6B5B972FB_lynEGFP_seg",
+                "opacity": 0.5,
+                "sources": [
+                  "F6B5B972FB_lynEGFP_seg"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane-segmentation"
+        }
+      }
+    },
+    "F6B5B972FB_lysotrackerdeepred": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/lysosomes-F6B5B972FB_lysotrackerdeepred.xml",
+          "s3store": "images/remote/lysosomes-F6B5B972FB_lysotrackerdeepred.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "F6B5B972FB_lysotrackerdeepred",
+                "opacity": 1.0,
+                "sources": [
+                  "F6B5B972FB_lysotrackerdeepred"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "lysosomes"
+        }
+      }
+    },
+    "FEE47C8063_lynEGFP": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-FEE47C8063_lynEGFP.xml",
+          "s3store": "images/remote/membrane-FEE47C8063_lynEGFP.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "FEE47C8063_lynEGFP",
+                "opacity": 1.0,
+                "sources": [
+                  "FEE47C8063_lynEGFP"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane"
+        }
+      }
+    },
+    "FEE47C8063_lynEGFP_seg": {
+      "segmentation": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/membrane-FEE47C8063_lynEGFP_seg.xml",
+          "s3store": "images/remote/membrane-FEE47C8063_lynEGFP_seg.xml"
+        },
+        "tableDataLocation": "tables/membrane-FEE47C8063_lynEGFP_seg",
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "segmentationDisplay": {
+                "lut": "glasbey",
+                "name": "FEE47C8063_lynEGFP_seg",
+                "opacity": 0.5,
+                "sources": [
+                  "FEE47C8063_lynEGFP_seg"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "membrane-segmentation"
+        }
+      }
+    },
+    "FEE47C8063_lysotrackerdeepred": {
+      "image": {
+        "imageDataLocations": {
+          "fileSystem": "images/local/lysosomes-FEE47C8063_lysotrackerdeepred.xml",
+          "s3store": "images/remote/lysosomes-FEE47C8063_lysotrackerdeepred.xml"
+        },
+        "view": {
+          "isExclusive": false,
+          "sourceDisplays": [
+            {
+              "imageDisplay": {
+                "color": "white",
+                "contrastLimits": [
+                  0.0,
+                  255.0
+                ],
+                "name": "FEE47C8063_lysotrackerdeepred",
+                "opacity": 1.0,
+                "sources": [
+                  "FEE47C8063_lysotrackerdeepred"
+                ]
+              }
+            }
+          ],
+          "uiSelectionGroup": "lysosomes"
+        }
+      }
+    }
+  },
+  "views": {
+    "default": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "128F6F3122_lynEGFP",
+            "opacity": 1.0,
+            "sources": [
+              "128F6F3122_lynEGFP"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark"
+    }
+  }
+}

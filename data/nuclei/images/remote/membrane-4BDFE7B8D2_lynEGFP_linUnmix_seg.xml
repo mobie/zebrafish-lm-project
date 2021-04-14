@@ -9,7 +9,7 @@
       </Attributes>
       <ViewSetup>
         <id>0</id>
-        <name>Setup0</name>
+        <name>4BDFE7B8D2_lynEGFP_linUnmix_seg</name>
         <size>1584 788 126</size>
         <voxelSize>
           <unit>micrometer</unit>
@@ -33,7 +33,7 @@
     </ImageLoader>
   </SequenceDescription>
   <ViewRegistrations>
-    <ViewRegistration timepoint="0" setup="0">
+    <ViewRegistration setup="0" timepoint="0">
       <ViewTransform type="affine">
         <affine>0.10244270533154864 0.0 0.0 0.0 0.0 0.10244270533154864 0.0 0.0 0.0 0.0 0.2245383 0.0</affine>
       </ViewTransform>
