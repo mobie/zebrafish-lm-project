@@ -23,7 +23,7 @@ def update_settings(settings, last_color, source_type, group_name):
         return settings, color
 
 
-def create_grid_bookmark(dataset):
+def create_grid_bookmark(dataset, small):
     ds_folder = f'./data/{dataset}'
     ds_meta = read_dataset_metadata(ds_folder)
     sources = ds_meta['sources']
@@ -51,21 +51,25 @@ def create_grid_bookmark(dataset):
             grid_id = base_name_positions.index(base_name)
             grid_sources[grid_id].append(source_name)
         except ValueError:
+            n_pos = len(base_name_positions)
+            if small and n_pos >= 2:
+                continue
             base_name_positions.append(base_name)
             grid_sources.append([source_name])
 
-    name = 'grid-view'
+    name = 'small-grid-view' if small else 'grid-view'
     add_grid_bookmark(ds_folder, name, grid_sources,
                       display_groups=display_groups,
                       display_group_settings=display_group_settings)
 
 
-def create_grid_bookmarks():
+def create_grid_bookmarks(small=False):
     datasets = read_project_metadata('./data')['datasets']
     for ds in datasets:
         print(ds)
-        create_grid_bookmark(ds)
+        create_grid_bookmark(ds, small=small)
 
 
 if __name__ == '__main__':
-    create_grid_bookmarks()
+    # create_grid_bookmarks()
+    create_grid_bookmarks(small=True)

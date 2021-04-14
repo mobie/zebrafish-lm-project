@@ -1852,6 +1852,72 @@
         }
       ],
       "uiSelectionGroup": "bookmark"
+    },
+    "small-grid-view": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "green",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "nuclei",
+            "opacity": 1.0,
+            "sources": [
+              "03887B26C1_NLStdTomato",
+              "15999C80F3_NLStdTomato"
+            ]
+          }
+        },
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "membrane",
+            "opacity": 1.0,
+            "sources": [
+              "03887B26C1_lynEGFP_linUnmix",
+              "15999C80F3_lynEGFP_linUnmix"
+            ]
+          }
+        },
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "membrane-segmentation",
+            "opacity": 0.5,
+            "sources": [
+              "03887B26C1_lynEGFP_linUnmix_seg",
+              "15999C80F3_lynEGFP_linUnmix_seg"
+            ]
+          }
+        }
+      ],
+      "sourceTransforms": [
+        {
+          "grid": {
+            "sources": [
+              [
+                "03887B26C1_NLStdTomato",
+                "03887B26C1_lynEGFP_linUnmix",
+                "03887B26C1_lynEGFP_linUnmix_seg"
+              ],
+              [
+                "15999C80F3_NLStdTomato",
+                "15999C80F3_lynEGFP_linUnmix",
+                "15999C80F3_lynEGFP_linUnmix_seg"
+              ]
+            ],
+            "tableDataLocation": "tables/small-grid-view"
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark"
     }
   }
 }

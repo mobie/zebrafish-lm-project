@@ -1229,6 +1229,72 @@
         }
       ],
       "uiSelectionGroup": "bookmark"
+    },
+    "small-grid-view": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "green",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "tgn_and_late_endosomes",
+            "opacity": 1.0,
+            "sources": [
+              "09034FB7F0_CDMPRtagRFPt",
+              "13BE29A615_CDMPRtagRFPt"
+            ]
+          }
+        },
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "membrane",
+            "opacity": 1.0,
+            "sources": [
+              "09034FB7F0_lynEGFP",
+              "13BE29A615_lynEGFP"
+            ]
+          }
+        },
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "membrane-segmentation",
+            "opacity": 0.5,
+            "sources": [
+              "09034FB7F0_lynEGFP_seg",
+              "13BE29A615_lynEGFP_seg"
+            ]
+          }
+        }
+      ],
+      "sourceTransforms": [
+        {
+          "grid": {
+            "sources": [
+              [
+                "09034FB7F0_CDMPRtagRFPt",
+                "09034FB7F0_lynEGFP",
+                "09034FB7F0_lynEGFP_seg"
+              ],
+              [
+                "13BE29A615_CDMPRtagRFPt",
+                "13BE29A615_lynEGFP",
+                "13BE29A615_lynEGFP_seg"
+              ]
+            ],
+            "tableDataLocation": "tables/small-grid-view"
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark"
     }
   }
 }

@@ -1823,6 +1823,72 @@
         }
       ],
       "uiSelectionGroup": "bookmark"
+    },
+    "small-grid-view": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "membrane",
+            "opacity": 1.0,
+            "sources": [
+              "00E41C184C_lynEGFP",
+              "296696DB86_lynEGFP"
+            ]
+          }
+        },
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "membrane-segmentation",
+            "opacity": 0.5,
+            "sources": [
+              "00E41C184C_lynEGFP_seg",
+              "296696DB86_lynEGFP_seg"
+            ]
+          }
+        },
+        {
+          "imageDisplay": {
+            "color": "green",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "actin",
+            "opacity": 1.0,
+            "sources": [
+              "00E41C184C_tagRFPtUtrCH",
+              "296696DB86_tagRFPtUtrCH"
+            ]
+          }
+        }
+      ],
+      "sourceTransforms": [
+        {
+          "grid": {
+            "sources": [
+              [
+                "00E41C184C_lynEGFP",
+                "00E41C184C_lynEGFP_seg",
+                "00E41C184C_tagRFPtUtrCH"
+              ],
+              [
+                "296696DB86_lynEGFP",
+                "296696DB86_lynEGFP_seg",
+                "296696DB86_tagRFPtUtrCH"
+              ]
+            ],
+            "tableDataLocation": "tables/small-grid-view"
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark"
     }
   }
 }

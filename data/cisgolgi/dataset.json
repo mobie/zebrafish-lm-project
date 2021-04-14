@@ -1051,6 +1051,72 @@
         }
       ],
       "uiSelectionGroup": "bookmark"
+    },
+    "small-grid-view": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "membrane",
+            "opacity": 1.0,
+            "sources": [
+              "1A3F9F428A_lynEGFP",
+              "544D6C59FD_lynEGFP"
+            ]
+          }
+        },
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "membrane-segmentation",
+            "opacity": 0.5,
+            "sources": [
+              "1A3F9F428A_lynEGFP_seg",
+              "544D6C59FD_lynEGFP_seg"
+            ]
+          }
+        },
+        {
+          "imageDisplay": {
+            "color": "green",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "cisgolgi",
+            "opacity": 1.0,
+            "sources": [
+              "1A3F9F428A_mKate2GM130",
+              "544D6C59FD_mKate2GM130"
+            ]
+          }
+        }
+      ],
+      "sourceTransforms": [
+        {
+          "grid": {
+            "sources": [
+              [
+                "1A3F9F428A_lynEGFP",
+                "1A3F9F428A_lynEGFP_seg",
+                "1A3F9F428A_mKate2GM130"
+              ],
+              [
+                "544D6C59FD_lynEGFP",
+                "544D6C59FD_lynEGFP_seg",
+                "544D6C59FD_mKate2GM130"
+              ]
+            ],
+            "tableDataLocation": "tables/small-grid-view"
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark"
     }
   }
 }

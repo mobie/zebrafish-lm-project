@@ -1763,6 +1763,72 @@
         }
       ],
       "uiSelectionGroup": "bookmark"
+    },
+    "small-grid-view": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "membrane",
+            "opacity": 1.0,
+            "sources": [
+              "0C7E6EE381_lynEGFP",
+              "0F6C27F441_lynEGFP"
+            ]
+          }
+        },
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "membrane-segmentation",
+            "opacity": 0.5,
+            "sources": [
+              "0C7E6EE381_lynEGFP_seg",
+              "0F6C27F441_lynEGFP_seg"
+            ]
+          }
+        },
+        {
+          "imageDisplay": {
+            "color": "green",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "recycling_endosomes",
+            "opacity": 1.0,
+            "sources": [
+              "0C7E6EE381_mKate2rab11",
+              "0F6C27F441_mKate2rab11"
+            ]
+          }
+        }
+      ],
+      "sourceTransforms": [
+        {
+          "grid": {
+            "sources": [
+              [
+                "0C7E6EE381_lynEGFP",
+                "0C7E6EE381_lynEGFP_seg",
+                "0C7E6EE381_mKate2rab11"
+              ],
+              [
+                "0F6C27F441_lynEGFP",
+                "0F6C27F441_lynEGFP_seg",
+                "0F6C27F441_mKate2rab11"
+              ]
+            ],
+            "tableDataLocation": "tables/small-grid-view"
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark"
     }
   }
 }
