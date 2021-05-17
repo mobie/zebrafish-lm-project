@@ -6,26 +6,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/nuclei-03887B26C1_NLStdTomato.xml",
           "s3store": "images/remote/nuclei-03887B26C1_NLStdTomato.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "03887B26C1_NLStdTomato",
-                "opacity": 1.0,
-                "sources": [
-                  "03887B26C1_NLStdTomato"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "nuclei"
         }
       }
     },
@@ -34,26 +14,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/membrane-03887B26C1_lynEGFP_linUnmix.xml",
           "s3store": "images/remote/membrane-03887B26C1_lynEGFP_linUnmix.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "03887B26C1_lynEGFP_linUnmix",
-                "opacity": 1.0,
-                "sources": [
-                  "03887B26C1_lynEGFP_linUnmix"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane"
         }
       }
     },
@@ -63,23 +23,7 @@
           "fileSystem": "images/local/membrane-03887B26C1_lynEGFP_linUnmix_seg.xml",
           "s3store": "images/remote/membrane-03887B26C1_lynEGFP_linUnmix_seg.xml"
         },
-        "tableDataLocation": "tables/membrane-03887B26C1_lynEGFP_linUnmix_seg",
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "segmentationDisplay": {
-                "lut": "glasbey",
-                "name": "03887B26C1_lynEGFP_linUnmix_seg",
-                "opacity": 0.5,
-                "sources": [
-                  "03887B26C1_lynEGFP_linUnmix_seg"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane-segmentation"
-        }
+        "tableDataLocation": "tables/membrane-03887B26C1_lynEGFP_linUnmix_seg"
       }
     },
     "15999C80F3_NLStdTomato": {
@@ -87,26 +31,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/nuclei-15999C80F3_NLStdTomato.xml",
           "s3store": "images/remote/nuclei-15999C80F3_NLStdTomato.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "15999C80F3_NLStdTomato",
-                "opacity": 1.0,
-                "sources": [
-                  "15999C80F3_NLStdTomato"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "nuclei"
         }
       }
     },
@@ -115,26 +39,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/membrane-15999C80F3_lynEGFP_linUnmix.xml",
           "s3store": "images/remote/membrane-15999C80F3_lynEGFP_linUnmix.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "15999C80F3_lynEGFP_linUnmix",
-                "opacity": 1.0,
-                "sources": [
-                  "15999C80F3_lynEGFP_linUnmix"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane"
         }
       }
     },
@@ -144,23 +48,7 @@
           "fileSystem": "images/local/membrane-15999C80F3_lynEGFP_linUnmix_seg.xml",
           "s3store": "images/remote/membrane-15999C80F3_lynEGFP_linUnmix_seg.xml"
         },
-        "tableDataLocation": "tables/membrane-15999C80F3_lynEGFP_linUnmix_seg",
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "segmentationDisplay": {
-                "lut": "glasbey",
-                "name": "15999C80F3_lynEGFP_linUnmix_seg",
-                "opacity": 0.5,
-                "sources": [
-                  "15999C80F3_lynEGFP_linUnmix_seg"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane-segmentation"
-        }
+        "tableDataLocation": "tables/membrane-15999C80F3_lynEGFP_linUnmix_seg"
       }
     },
     "3BD50B1F34_NLStdTomato": {
@@ -168,26 +56,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/nuclei-3BD50B1F34_NLStdTomato.xml",
           "s3store": "images/remote/nuclei-3BD50B1F34_NLStdTomato.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "3BD50B1F34_NLStdTomato",
-                "opacity": 1.0,
-                "sources": [
-                  "3BD50B1F34_NLStdTomato"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "nuclei"
         }
       }
     },
@@ -196,26 +64,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/membrane-3BD50B1F34_lynEGFP_linUnmix.xml",
           "s3store": "images/remote/membrane-3BD50B1F34_lynEGFP_linUnmix.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "3BD50B1F34_lynEGFP_linUnmix",
-                "opacity": 1.0,
-                "sources": [
-                  "3BD50B1F34_lynEGFP_linUnmix"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane"
         }
       }
     },
@@ -225,23 +73,7 @@
           "fileSystem": "images/local/membrane-3BD50B1F34_lynEGFP_linUnmix_seg.xml",
           "s3store": "images/remote/membrane-3BD50B1F34_lynEGFP_linUnmix_seg.xml"
         },
-        "tableDataLocation": "tables/membrane-3BD50B1F34_lynEGFP_linUnmix_seg",
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "segmentationDisplay": {
-                "lut": "glasbey",
-                "name": "3BD50B1F34_lynEGFP_linUnmix_seg",
-                "opacity": 0.5,
-                "sources": [
-                  "3BD50B1F34_lynEGFP_linUnmix_seg"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane-segmentation"
-        }
+        "tableDataLocation": "tables/membrane-3BD50B1F34_lynEGFP_linUnmix_seg"
       }
     },
     "492B944A71_NLStdTomato": {
@@ -249,26 +81,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/nuclei-492B944A71_NLStdTomato.xml",
           "s3store": "images/remote/nuclei-492B944A71_NLStdTomato.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "492B944A71_NLStdTomato",
-                "opacity": 1.0,
-                "sources": [
-                  "492B944A71_NLStdTomato"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "nuclei"
         }
       }
     },
@@ -277,26 +89,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/membrane-492B944A71_lynEGFP_linUnmix.xml",
           "s3store": "images/remote/membrane-492B944A71_lynEGFP_linUnmix.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "492B944A71_lynEGFP_linUnmix",
-                "opacity": 1.0,
-                "sources": [
-                  "492B944A71_lynEGFP_linUnmix"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane"
         }
       }
     },
@@ -306,23 +98,7 @@
           "fileSystem": "images/local/membrane-492B944A71_lynEGFP_linUnmix_seg.xml",
           "s3store": "images/remote/membrane-492B944A71_lynEGFP_linUnmix_seg.xml"
         },
-        "tableDataLocation": "tables/membrane-492B944A71_lynEGFP_linUnmix_seg",
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "segmentationDisplay": {
-                "lut": "glasbey",
-                "name": "492B944A71_lynEGFP_linUnmix_seg",
-                "opacity": 0.5,
-                "sources": [
-                  "492B944A71_lynEGFP_linUnmix_seg"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane-segmentation"
-        }
+        "tableDataLocation": "tables/membrane-492B944A71_lynEGFP_linUnmix_seg"
       }
     },
     "4A644B6C69_NLStdTomato": {
@@ -330,26 +106,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/nuclei-4A644B6C69_NLStdTomato.xml",
           "s3store": "images/remote/nuclei-4A644B6C69_NLStdTomato.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "4A644B6C69_NLStdTomato",
-                "opacity": 1.0,
-                "sources": [
-                  "4A644B6C69_NLStdTomato"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "nuclei"
         }
       }
     },
@@ -358,26 +114,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/membrane-4A644B6C69_lynEGFP_linUnmix.xml",
           "s3store": "images/remote/membrane-4A644B6C69_lynEGFP_linUnmix.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "4A644B6C69_lynEGFP_linUnmix",
-                "opacity": 1.0,
-                "sources": [
-                  "4A644B6C69_lynEGFP_linUnmix"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane"
         }
       }
     },
@@ -387,23 +123,7 @@
           "fileSystem": "images/local/membrane-4A644B6C69_lynEGFP_linUnmix_seg.xml",
           "s3store": "images/remote/membrane-4A644B6C69_lynEGFP_linUnmix_seg.xml"
         },
-        "tableDataLocation": "tables/membrane-4A644B6C69_lynEGFP_linUnmix_seg",
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "segmentationDisplay": {
-                "lut": "glasbey",
-                "name": "4A644B6C69_lynEGFP_linUnmix_seg",
-                "opacity": 0.5,
-                "sources": [
-                  "4A644B6C69_lynEGFP_linUnmix_seg"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane-segmentation"
-        }
+        "tableDataLocation": "tables/membrane-4A644B6C69_lynEGFP_linUnmix_seg"
       }
     },
     "4BDFE7B8D2_NLStdTomato": {
@@ -411,26 +131,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/nuclei-4BDFE7B8D2_NLStdTomato.xml",
           "s3store": "images/remote/nuclei-4BDFE7B8D2_NLStdTomato.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "4BDFE7B8D2_NLStdTomato",
-                "opacity": 1.0,
-                "sources": [
-                  "4BDFE7B8D2_NLStdTomato"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "nuclei"
         }
       }
     },
@@ -439,26 +139,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/membrane-4BDFE7B8D2_lynEGFP_linUnmix.xml",
           "s3store": "images/remote/membrane-4BDFE7B8D2_lynEGFP_linUnmix.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "4BDFE7B8D2_lynEGFP_linUnmix",
-                "opacity": 1.0,
-                "sources": [
-                  "4BDFE7B8D2_lynEGFP_linUnmix"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane"
         }
       }
     },
@@ -468,23 +148,7 @@
           "fileSystem": "images/local/membrane-4BDFE7B8D2_lynEGFP_linUnmix_seg.xml",
           "s3store": "images/remote/membrane-4BDFE7B8D2_lynEGFP_linUnmix_seg.xml"
         },
-        "tableDataLocation": "tables/membrane-4BDFE7B8D2_lynEGFP_linUnmix_seg",
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "segmentationDisplay": {
-                "lut": "glasbey",
-                "name": "4BDFE7B8D2_lynEGFP_linUnmix_seg",
-                "opacity": 0.5,
-                "sources": [
-                  "4BDFE7B8D2_lynEGFP_linUnmix_seg"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane-segmentation"
-        }
+        "tableDataLocation": "tables/membrane-4BDFE7B8D2_lynEGFP_linUnmix_seg"
       }
     },
     "4C059E69BC_NLStdTomato": {
@@ -492,26 +156,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/nuclei-4C059E69BC_NLStdTomato.xml",
           "s3store": "images/remote/nuclei-4C059E69BC_NLStdTomato.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "4C059E69BC_NLStdTomato",
-                "opacity": 1.0,
-                "sources": [
-                  "4C059E69BC_NLStdTomato"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "nuclei"
         }
       }
     },
@@ -520,26 +164,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/membrane-4C059E69BC_lynEGFP_linUnmix.xml",
           "s3store": "images/remote/membrane-4C059E69BC_lynEGFP_linUnmix.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "4C059E69BC_lynEGFP_linUnmix",
-                "opacity": 1.0,
-                "sources": [
-                  "4C059E69BC_lynEGFP_linUnmix"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane"
         }
       }
     },
@@ -549,23 +173,7 @@
           "fileSystem": "images/local/membrane-4C059E69BC_lynEGFP_linUnmix_seg.xml",
           "s3store": "images/remote/membrane-4C059E69BC_lynEGFP_linUnmix_seg.xml"
         },
-        "tableDataLocation": "tables/membrane-4C059E69BC_lynEGFP_linUnmix_seg",
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "segmentationDisplay": {
-                "lut": "glasbey",
-                "name": "4C059E69BC_lynEGFP_linUnmix_seg",
-                "opacity": 0.5,
-                "sources": [
-                  "4C059E69BC_lynEGFP_linUnmix_seg"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane-segmentation"
-        }
+        "tableDataLocation": "tables/membrane-4C059E69BC_lynEGFP_linUnmix_seg"
       }
     },
     "77135D126D_NLStdTomato": {
@@ -573,26 +181,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/nuclei-77135D126D_NLStdTomato.xml",
           "s3store": "images/remote/nuclei-77135D126D_NLStdTomato.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "77135D126D_NLStdTomato",
-                "opacity": 1.0,
-                "sources": [
-                  "77135D126D_NLStdTomato"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "nuclei"
         }
       }
     },
@@ -601,26 +189,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/membrane-77135D126D_lynEGFP_linUnmix.xml",
           "s3store": "images/remote/membrane-77135D126D_lynEGFP_linUnmix.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "77135D126D_lynEGFP_linUnmix",
-                "opacity": 1.0,
-                "sources": [
-                  "77135D126D_lynEGFP_linUnmix"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane"
         }
       }
     },
@@ -630,23 +198,7 @@
           "fileSystem": "images/local/membrane-77135D126D_lynEGFP_linUnmix_seg.xml",
           "s3store": "images/remote/membrane-77135D126D_lynEGFP_linUnmix_seg.xml"
         },
-        "tableDataLocation": "tables/membrane-77135D126D_lynEGFP_linUnmix_seg",
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "segmentationDisplay": {
-                "lut": "glasbey",
-                "name": "77135D126D_lynEGFP_linUnmix_seg",
-                "opacity": 0.5,
-                "sources": [
-                  "77135D126D_lynEGFP_linUnmix_seg"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane-segmentation"
-        }
+        "tableDataLocation": "tables/membrane-77135D126D_lynEGFP_linUnmix_seg"
       }
     },
     "7ADFA42907_NLStdTomato": {
@@ -654,26 +206,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/nuclei-7ADFA42907_NLStdTomato.xml",
           "s3store": "images/remote/nuclei-7ADFA42907_NLStdTomato.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "7ADFA42907_NLStdTomato",
-                "opacity": 1.0,
-                "sources": [
-                  "7ADFA42907_NLStdTomato"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "nuclei"
         }
       }
     },
@@ -682,26 +214,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/membrane-7ADFA42907_lynEGFP_linUnmix.xml",
           "s3store": "images/remote/membrane-7ADFA42907_lynEGFP_linUnmix.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "7ADFA42907_lynEGFP_linUnmix",
-                "opacity": 1.0,
-                "sources": [
-                  "7ADFA42907_lynEGFP_linUnmix"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane"
         }
       }
     },
@@ -711,23 +223,7 @@
           "fileSystem": "images/local/membrane-7ADFA42907_lynEGFP_linUnmix_seg.xml",
           "s3store": "images/remote/membrane-7ADFA42907_lynEGFP_linUnmix_seg.xml"
         },
-        "tableDataLocation": "tables/membrane-7ADFA42907_lynEGFP_linUnmix_seg",
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "segmentationDisplay": {
-                "lut": "glasbey",
-                "name": "7ADFA42907_lynEGFP_linUnmix_seg",
-                "opacity": 0.5,
-                "sources": [
-                  "7ADFA42907_lynEGFP_linUnmix_seg"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane-segmentation"
-        }
+        "tableDataLocation": "tables/membrane-7ADFA42907_lynEGFP_linUnmix_seg"
       }
     },
     "8179A86D76_NLStdTomato": {
@@ -735,26 +231,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/nuclei-8179A86D76_NLStdTomato.xml",
           "s3store": "images/remote/nuclei-8179A86D76_NLStdTomato.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "8179A86D76_NLStdTomato",
-                "opacity": 1.0,
-                "sources": [
-                  "8179A86D76_NLStdTomato"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "nuclei"
         }
       }
     },
@@ -763,26 +239,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/membrane-8179A86D76_lynEGFP_linUnmix.xml",
           "s3store": "images/remote/membrane-8179A86D76_lynEGFP_linUnmix.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "8179A86D76_lynEGFP_linUnmix",
-                "opacity": 1.0,
-                "sources": [
-                  "8179A86D76_lynEGFP_linUnmix"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane"
         }
       }
     },
@@ -792,23 +248,7 @@
           "fileSystem": "images/local/membrane-8179A86D76_lynEGFP_linUnmix_seg.xml",
           "s3store": "images/remote/membrane-8179A86D76_lynEGFP_linUnmix_seg.xml"
         },
-        "tableDataLocation": "tables/membrane-8179A86D76_lynEGFP_linUnmix_seg",
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "segmentationDisplay": {
-                "lut": "glasbey",
-                "name": "8179A86D76_lynEGFP_linUnmix_seg",
-                "opacity": 0.5,
-                "sources": [
-                  "8179A86D76_lynEGFP_linUnmix_seg"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane-segmentation"
-        }
+        "tableDataLocation": "tables/membrane-8179A86D76_lynEGFP_linUnmix_seg"
       }
     },
     "9CB73DC13A_NLStdTomato": {
@@ -816,26 +256,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/nuclei-9CB73DC13A_NLStdTomato.xml",
           "s3store": "images/remote/nuclei-9CB73DC13A_NLStdTomato.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "9CB73DC13A_NLStdTomato",
-                "opacity": 1.0,
-                "sources": [
-                  "9CB73DC13A_NLStdTomato"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "nuclei"
         }
       }
     },
@@ -844,26 +264,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/membrane-9CB73DC13A_lynEGFP_linUnmix.xml",
           "s3store": "images/remote/membrane-9CB73DC13A_lynEGFP_linUnmix.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "9CB73DC13A_lynEGFP_linUnmix",
-                "opacity": 1.0,
-                "sources": [
-                  "9CB73DC13A_lynEGFP_linUnmix"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane"
         }
       }
     },
@@ -873,23 +273,7 @@
           "fileSystem": "images/local/membrane-9CB73DC13A_lynEGFP_linUnmix_seg.xml",
           "s3store": "images/remote/membrane-9CB73DC13A_lynEGFP_linUnmix_seg.xml"
         },
-        "tableDataLocation": "tables/membrane-9CB73DC13A_lynEGFP_linUnmix_seg",
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "segmentationDisplay": {
-                "lut": "glasbey",
-                "name": "9CB73DC13A_lynEGFP_linUnmix_seg",
-                "opacity": 0.5,
-                "sources": [
-                  "9CB73DC13A_lynEGFP_linUnmix_seg"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane-segmentation"
-        }
+        "tableDataLocation": "tables/membrane-9CB73DC13A_lynEGFP_linUnmix_seg"
       }
     },
     "A921B80A44_NLStdTomato": {
@@ -897,26 +281,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/nuclei-A921B80A44_NLStdTomato.xml",
           "s3store": "images/remote/nuclei-A921B80A44_NLStdTomato.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "A921B80A44_NLStdTomato",
-                "opacity": 1.0,
-                "sources": [
-                  "A921B80A44_NLStdTomato"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "nuclei"
         }
       }
     },
@@ -925,26 +289,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/membrane-A921B80A44_lynEGFP_linUnmix.xml",
           "s3store": "images/remote/membrane-A921B80A44_lynEGFP_linUnmix.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "A921B80A44_lynEGFP_linUnmix",
-                "opacity": 1.0,
-                "sources": [
-                  "A921B80A44_lynEGFP_linUnmix"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane"
         }
       }
     },
@@ -954,23 +298,7 @@
           "fileSystem": "images/local/membrane-A921B80A44_lynEGFP_linUnmix_seg.xml",
           "s3store": "images/remote/membrane-A921B80A44_lynEGFP_linUnmix_seg.xml"
         },
-        "tableDataLocation": "tables/membrane-A921B80A44_lynEGFP_linUnmix_seg",
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "segmentationDisplay": {
-                "lut": "glasbey",
-                "name": "A921B80A44_lynEGFP_linUnmix_seg",
-                "opacity": 0.5,
-                "sources": [
-                  "A921B80A44_lynEGFP_linUnmix_seg"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane-segmentation"
-        }
+        "tableDataLocation": "tables/membrane-A921B80A44_lynEGFP_linUnmix_seg"
       }
     },
     "B154DF856B_NLStdTomato": {
@@ -978,26 +306,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/nuclei-B154DF856B_NLStdTomato.xml",
           "s3store": "images/remote/nuclei-B154DF856B_NLStdTomato.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "B154DF856B_NLStdTomato",
-                "opacity": 1.0,
-                "sources": [
-                  "B154DF856B_NLStdTomato"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "nuclei"
         }
       }
     },
@@ -1006,26 +314,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/membrane-B154DF856B_lynEGFP_linUnmix.xml",
           "s3store": "images/remote/membrane-B154DF856B_lynEGFP_linUnmix.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "B154DF856B_lynEGFP_linUnmix",
-                "opacity": 1.0,
-                "sources": [
-                  "B154DF856B_lynEGFP_linUnmix"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane"
         }
       }
     },
@@ -1035,23 +323,7 @@
           "fileSystem": "images/local/membrane-B154DF856B_lynEGFP_linUnmix_seg.xml",
           "s3store": "images/remote/membrane-B154DF856B_lynEGFP_linUnmix_seg.xml"
         },
-        "tableDataLocation": "tables/membrane-B154DF856B_lynEGFP_linUnmix_seg",
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "segmentationDisplay": {
-                "lut": "glasbey",
-                "name": "B154DF856B_lynEGFP_linUnmix_seg",
-                "opacity": 0.5,
-                "sources": [
-                  "B154DF856B_lynEGFP_linUnmix_seg"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane-segmentation"
-        }
+        "tableDataLocation": "tables/membrane-B154DF856B_lynEGFP_linUnmix_seg"
       }
     },
     "C22FC95129_NLStdTomato": {
@@ -1059,26 +331,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/nuclei-C22FC95129_NLStdTomato.xml",
           "s3store": "images/remote/nuclei-C22FC95129_NLStdTomato.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "C22FC95129_NLStdTomato",
-                "opacity": 1.0,
-                "sources": [
-                  "C22FC95129_NLStdTomato"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "nuclei"
         }
       }
     },
@@ -1087,26 +339,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/membrane-C22FC95129_lynEGFP_linUnmix.xml",
           "s3store": "images/remote/membrane-C22FC95129_lynEGFP_linUnmix.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "C22FC95129_lynEGFP_linUnmix",
-                "opacity": 1.0,
-                "sources": [
-                  "C22FC95129_lynEGFP_linUnmix"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane"
         }
       }
     },
@@ -1116,23 +348,7 @@
           "fileSystem": "images/local/membrane-C22FC95129_lynEGFP_linUnmix_seg.xml",
           "s3store": "images/remote/membrane-C22FC95129_lynEGFP_linUnmix_seg.xml"
         },
-        "tableDataLocation": "tables/membrane-C22FC95129_lynEGFP_linUnmix_seg",
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "segmentationDisplay": {
-                "lut": "glasbey",
-                "name": "C22FC95129_lynEGFP_linUnmix_seg",
-                "opacity": 0.5,
-                "sources": [
-                  "C22FC95129_lynEGFP_linUnmix_seg"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane-segmentation"
-        }
+        "tableDataLocation": "tables/membrane-C22FC95129_lynEGFP_linUnmix_seg"
       }
     },
     "D2470961E8_NLStdTomato": {
@@ -1140,26 +356,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/nuclei-D2470961E8_NLStdTomato.xml",
           "s3store": "images/remote/nuclei-D2470961E8_NLStdTomato.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "D2470961E8_NLStdTomato",
-                "opacity": 1.0,
-                "sources": [
-                  "D2470961E8_NLStdTomato"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "nuclei"
         }
       }
     },
@@ -1168,26 +364,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/membrane-D2470961E8_lynEGFP_linUnmix.xml",
           "s3store": "images/remote/membrane-D2470961E8_lynEGFP_linUnmix.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "D2470961E8_lynEGFP_linUnmix",
-                "opacity": 1.0,
-                "sources": [
-                  "D2470961E8_lynEGFP_linUnmix"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane"
         }
       }
     },
@@ -1197,23 +373,7 @@
           "fileSystem": "images/local/membrane-D2470961E8_lynEGFP_linUnmix_seg.xml",
           "s3store": "images/remote/membrane-D2470961E8_lynEGFP_linUnmix_seg.xml"
         },
-        "tableDataLocation": "tables/membrane-D2470961E8_lynEGFP_linUnmix_seg",
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "segmentationDisplay": {
-                "lut": "glasbey",
-                "name": "D2470961E8_lynEGFP_linUnmix_seg",
-                "opacity": 0.5,
-                "sources": [
-                  "D2470961E8_lynEGFP_linUnmix_seg"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane-segmentation"
-        }
+        "tableDataLocation": "tables/membrane-D2470961E8_lynEGFP_linUnmix_seg"
       }
     },
     "D34B941004_NLStdTomato": {
@@ -1221,26 +381,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/nuclei-D34B941004_NLStdTomato.xml",
           "s3store": "images/remote/nuclei-D34B941004_NLStdTomato.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "D34B941004_NLStdTomato",
-                "opacity": 1.0,
-                "sources": [
-                  "D34B941004_NLStdTomato"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "nuclei"
         }
       }
     },
@@ -1249,26 +389,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/membrane-D34B941004_lynEGFP_linUnmix.xml",
           "s3store": "images/remote/membrane-D34B941004_lynEGFP_linUnmix.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "D34B941004_lynEGFP_linUnmix",
-                "opacity": 1.0,
-                "sources": [
-                  "D34B941004_lynEGFP_linUnmix"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane"
         }
       }
     },
@@ -1278,23 +398,7 @@
           "fileSystem": "images/local/membrane-D34B941004_lynEGFP_linUnmix_seg.xml",
           "s3store": "images/remote/membrane-D34B941004_lynEGFP_linUnmix_seg.xml"
         },
-        "tableDataLocation": "tables/membrane-D34B941004_lynEGFP_linUnmix_seg",
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "segmentationDisplay": {
-                "lut": "glasbey",
-                "name": "D34B941004_lynEGFP_linUnmix_seg",
-                "opacity": 0.5,
-                "sources": [
-                  "D34B941004_lynEGFP_linUnmix_seg"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane-segmentation"
-        }
+        "tableDataLocation": "tables/membrane-D34B941004_lynEGFP_linUnmix_seg"
       }
     },
     "D486DD3904_NLStdTomato": {
@@ -1302,26 +406,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/nuclei-D486DD3904_NLStdTomato.xml",
           "s3store": "images/remote/nuclei-D486DD3904_NLStdTomato.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "D486DD3904_NLStdTomato",
-                "opacity": 1.0,
-                "sources": [
-                  "D486DD3904_NLStdTomato"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "nuclei"
         }
       }
     },
@@ -1330,26 +414,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/membrane-D486DD3904_lynEGFP_linUnmix.xml",
           "s3store": "images/remote/membrane-D486DD3904_lynEGFP_linUnmix.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "D486DD3904_lynEGFP_linUnmix",
-                "opacity": 1.0,
-                "sources": [
-                  "D486DD3904_lynEGFP_linUnmix"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane"
         }
       }
     },
@@ -1359,23 +423,7 @@
           "fileSystem": "images/local/membrane-D486DD3904_lynEGFP_linUnmix_seg.xml",
           "s3store": "images/remote/membrane-D486DD3904_lynEGFP_linUnmix_seg.xml"
         },
-        "tableDataLocation": "tables/membrane-D486DD3904_lynEGFP_linUnmix_seg",
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "segmentationDisplay": {
-                "lut": "glasbey",
-                "name": "D486DD3904_lynEGFP_linUnmix_seg",
-                "opacity": 0.5,
-                "sources": [
-                  "D486DD3904_lynEGFP_linUnmix_seg"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane-segmentation"
-        }
+        "tableDataLocation": "tables/membrane-D486DD3904_lynEGFP_linUnmix_seg"
       }
     },
     "D9314261C0_NLStdTomato": {
@@ -1383,26 +431,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/nuclei-D9314261C0_NLStdTomato.xml",
           "s3store": "images/remote/nuclei-D9314261C0_NLStdTomato.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "D9314261C0_NLStdTomato",
-                "opacity": 1.0,
-                "sources": [
-                  "D9314261C0_NLStdTomato"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "nuclei"
         }
       }
     },
@@ -1411,26 +439,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/membrane-D9314261C0_lynEGFP_linUnmix.xml",
           "s3store": "images/remote/membrane-D9314261C0_lynEGFP_linUnmix.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "D9314261C0_lynEGFP_linUnmix",
-                "opacity": 1.0,
-                "sources": [
-                  "D9314261C0_lynEGFP_linUnmix"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane"
         }
       }
     },
@@ -1440,23 +448,7 @@
           "fileSystem": "images/local/membrane-D9314261C0_lynEGFP_linUnmix_seg.xml",
           "s3store": "images/remote/membrane-D9314261C0_lynEGFP_linUnmix_seg.xml"
         },
-        "tableDataLocation": "tables/membrane-D9314261C0_lynEGFP_linUnmix_seg",
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "segmentationDisplay": {
-                "lut": "glasbey",
-                "name": "D9314261C0_lynEGFP_linUnmix_seg",
-                "opacity": 0.5,
-                "sources": [
-                  "D9314261C0_lynEGFP_linUnmix_seg"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane-segmentation"
-        }
+        "tableDataLocation": "tables/membrane-D9314261C0_lynEGFP_linUnmix_seg"
       }
     },
     "F8346191C7_NLStdTomato": {
@@ -1464,26 +456,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/nuclei-F8346191C7_NLStdTomato.xml",
           "s3store": "images/remote/nuclei-F8346191C7_NLStdTomato.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "F8346191C7_NLStdTomato",
-                "opacity": 1.0,
-                "sources": [
-                  "F8346191C7_NLStdTomato"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "nuclei"
         }
       }
     },
@@ -1492,26 +464,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/membrane-F8346191C7_lynEGFP_linUnmix.xml",
           "s3store": "images/remote/membrane-F8346191C7_lynEGFP_linUnmix.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "F8346191C7_lynEGFP_linUnmix",
-                "opacity": 1.0,
-                "sources": [
-                  "F8346191C7_lynEGFP_linUnmix"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane"
         }
       }
     },
@@ -1521,23 +473,7 @@
           "fileSystem": "images/local/membrane-F8346191C7_lynEGFP_linUnmix_seg.xml",
           "s3store": "images/remote/membrane-F8346191C7_lynEGFP_linUnmix_seg.xml"
         },
-        "tableDataLocation": "tables/membrane-F8346191C7_lynEGFP_linUnmix_seg",
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "segmentationDisplay": {
-                "lut": "glasbey",
-                "name": "F8346191C7_lynEGFP_linUnmix_seg",
-                "opacity": 0.5,
-                "sources": [
-                  "F8346191C7_lynEGFP_linUnmix_seg"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane-segmentation"
-        }
+        "tableDataLocation": "tables/membrane-F8346191C7_lynEGFP_linUnmix_seg"
       }
     },
     "FDE484C778_NLStdTomato": {
@@ -1545,26 +481,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/nuclei-FDE484C778_NLStdTomato.xml",
           "s3store": "images/remote/nuclei-FDE484C778_NLStdTomato.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "FDE484C778_NLStdTomato",
-                "opacity": 1.0,
-                "sources": [
-                  "FDE484C778_NLStdTomato"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "nuclei"
         }
       }
     },
@@ -1573,26 +489,6 @@
         "imageDataLocations": {
           "fileSystem": "images/local/membrane-FDE484C778_lynEGFP_linUnmix.xml",
           "s3store": "images/remote/membrane-FDE484C778_lynEGFP_linUnmix.xml"
-        },
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "imageDisplay": {
-                "color": "white",
-                "contrastLimits": [
-                  0.0,
-                  255.0
-                ],
-                "name": "FDE484C778_lynEGFP_linUnmix",
-                "opacity": 1.0,
-                "sources": [
-                  "FDE484C778_lynEGFP_linUnmix"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane"
         }
       }
     },
@@ -1602,27 +498,1131 @@
           "fileSystem": "images/local/membrane-FDE484C778_lynEGFP_linUnmix_seg.xml",
           "s3store": "images/remote/membrane-FDE484C778_lynEGFP_linUnmix_seg.xml"
         },
-        "tableDataLocation": "tables/membrane-FDE484C778_lynEGFP_linUnmix_seg",
-        "view": {
-          "isExclusive": false,
-          "sourceDisplays": [
-            {
-              "segmentationDisplay": {
-                "lut": "glasbey",
-                "name": "FDE484C778_lynEGFP_linUnmix_seg",
-                "opacity": 0.5,
-                "sources": [
-                  "FDE484C778_lynEGFP_linUnmix_seg"
-                ]
-              }
-            }
-          ],
-          "uiSelectionGroup": "membrane-segmentation"
-        }
+        "tableDataLocation": "tables/membrane-FDE484C778_lynEGFP_linUnmix_seg"
       }
     }
   },
   "views": {
+    "03887B26C1_NLStdTomato": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "03887B26C1_NLStdTomato",
+            "opacity": 1.0,
+            "sources": [
+              "03887B26C1_NLStdTomato"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "nuclei"
+    },
+    "03887B26C1_lynEGFP_linUnmix": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "03887B26C1_lynEGFP_linUnmix",
+            "opacity": 1.0,
+            "sources": [
+              "03887B26C1_lynEGFP_linUnmix"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "03887B26C1_lynEGFP_linUnmix_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "03887B26C1_lynEGFP_linUnmix_seg",
+            "opacity": 0.5,
+            "sources": [
+              "03887B26C1_lynEGFP_linUnmix_seg"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "15999C80F3_NLStdTomato": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "15999C80F3_NLStdTomato",
+            "opacity": 1.0,
+            "sources": [
+              "15999C80F3_NLStdTomato"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "nuclei"
+    },
+    "15999C80F3_lynEGFP_linUnmix": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "15999C80F3_lynEGFP_linUnmix",
+            "opacity": 1.0,
+            "sources": [
+              "15999C80F3_lynEGFP_linUnmix"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "15999C80F3_lynEGFP_linUnmix_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "15999C80F3_lynEGFP_linUnmix_seg",
+            "opacity": 0.5,
+            "sources": [
+              "15999C80F3_lynEGFP_linUnmix_seg"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "3BD50B1F34_NLStdTomato": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "3BD50B1F34_NLStdTomato",
+            "opacity": 1.0,
+            "sources": [
+              "3BD50B1F34_NLStdTomato"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "nuclei"
+    },
+    "3BD50B1F34_lynEGFP_linUnmix": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "3BD50B1F34_lynEGFP_linUnmix",
+            "opacity": 1.0,
+            "sources": [
+              "3BD50B1F34_lynEGFP_linUnmix"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "3BD50B1F34_lynEGFP_linUnmix_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "3BD50B1F34_lynEGFP_linUnmix_seg",
+            "opacity": 0.5,
+            "sources": [
+              "3BD50B1F34_lynEGFP_linUnmix_seg"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "492B944A71_NLStdTomato": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "492B944A71_NLStdTomato",
+            "opacity": 1.0,
+            "sources": [
+              "492B944A71_NLStdTomato"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "nuclei"
+    },
+    "492B944A71_lynEGFP_linUnmix": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "492B944A71_lynEGFP_linUnmix",
+            "opacity": 1.0,
+            "sources": [
+              "492B944A71_lynEGFP_linUnmix"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "492B944A71_lynEGFP_linUnmix_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "492B944A71_lynEGFP_linUnmix_seg",
+            "opacity": 0.5,
+            "sources": [
+              "492B944A71_lynEGFP_linUnmix_seg"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "4A644B6C69_NLStdTomato": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "4A644B6C69_NLStdTomato",
+            "opacity": 1.0,
+            "sources": [
+              "4A644B6C69_NLStdTomato"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "nuclei"
+    },
+    "4A644B6C69_lynEGFP_linUnmix": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "4A644B6C69_lynEGFP_linUnmix",
+            "opacity": 1.0,
+            "sources": [
+              "4A644B6C69_lynEGFP_linUnmix"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "4A644B6C69_lynEGFP_linUnmix_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "4A644B6C69_lynEGFP_linUnmix_seg",
+            "opacity": 0.5,
+            "sources": [
+              "4A644B6C69_lynEGFP_linUnmix_seg"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "4BDFE7B8D2_NLStdTomato": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "4BDFE7B8D2_NLStdTomato",
+            "opacity": 1.0,
+            "sources": [
+              "4BDFE7B8D2_NLStdTomato"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "nuclei"
+    },
+    "4BDFE7B8D2_lynEGFP_linUnmix": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "4BDFE7B8D2_lynEGFP_linUnmix",
+            "opacity": 1.0,
+            "sources": [
+              "4BDFE7B8D2_lynEGFP_linUnmix"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "4BDFE7B8D2_lynEGFP_linUnmix_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "4BDFE7B8D2_lynEGFP_linUnmix_seg",
+            "opacity": 0.5,
+            "sources": [
+              "4BDFE7B8D2_lynEGFP_linUnmix_seg"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "4C059E69BC_NLStdTomato": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "4C059E69BC_NLStdTomato",
+            "opacity": 1.0,
+            "sources": [
+              "4C059E69BC_NLStdTomato"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "nuclei"
+    },
+    "4C059E69BC_lynEGFP_linUnmix": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "4C059E69BC_lynEGFP_linUnmix",
+            "opacity": 1.0,
+            "sources": [
+              "4C059E69BC_lynEGFP_linUnmix"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "4C059E69BC_lynEGFP_linUnmix_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "4C059E69BC_lynEGFP_linUnmix_seg",
+            "opacity": 0.5,
+            "sources": [
+              "4C059E69BC_lynEGFP_linUnmix_seg"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "77135D126D_NLStdTomato": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "77135D126D_NLStdTomato",
+            "opacity": 1.0,
+            "sources": [
+              "77135D126D_NLStdTomato"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "nuclei"
+    },
+    "77135D126D_lynEGFP_linUnmix": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "77135D126D_lynEGFP_linUnmix",
+            "opacity": 1.0,
+            "sources": [
+              "77135D126D_lynEGFP_linUnmix"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "77135D126D_lynEGFP_linUnmix_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "77135D126D_lynEGFP_linUnmix_seg",
+            "opacity": 0.5,
+            "sources": [
+              "77135D126D_lynEGFP_linUnmix_seg"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "7ADFA42907_NLStdTomato": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "7ADFA42907_NLStdTomato",
+            "opacity": 1.0,
+            "sources": [
+              "7ADFA42907_NLStdTomato"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "nuclei"
+    },
+    "7ADFA42907_lynEGFP_linUnmix": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "7ADFA42907_lynEGFP_linUnmix",
+            "opacity": 1.0,
+            "sources": [
+              "7ADFA42907_lynEGFP_linUnmix"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "7ADFA42907_lynEGFP_linUnmix_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "7ADFA42907_lynEGFP_linUnmix_seg",
+            "opacity": 0.5,
+            "sources": [
+              "7ADFA42907_lynEGFP_linUnmix_seg"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "8179A86D76_NLStdTomato": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "8179A86D76_NLStdTomato",
+            "opacity": 1.0,
+            "sources": [
+              "8179A86D76_NLStdTomato"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "nuclei"
+    },
+    "8179A86D76_lynEGFP_linUnmix": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "8179A86D76_lynEGFP_linUnmix",
+            "opacity": 1.0,
+            "sources": [
+              "8179A86D76_lynEGFP_linUnmix"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "8179A86D76_lynEGFP_linUnmix_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "8179A86D76_lynEGFP_linUnmix_seg",
+            "opacity": 0.5,
+            "sources": [
+              "8179A86D76_lynEGFP_linUnmix_seg"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "9CB73DC13A_NLStdTomato": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "9CB73DC13A_NLStdTomato",
+            "opacity": 1.0,
+            "sources": [
+              "9CB73DC13A_NLStdTomato"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "nuclei"
+    },
+    "9CB73DC13A_lynEGFP_linUnmix": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "9CB73DC13A_lynEGFP_linUnmix",
+            "opacity": 1.0,
+            "sources": [
+              "9CB73DC13A_lynEGFP_linUnmix"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "9CB73DC13A_lynEGFP_linUnmix_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "9CB73DC13A_lynEGFP_linUnmix_seg",
+            "opacity": 0.5,
+            "sources": [
+              "9CB73DC13A_lynEGFP_linUnmix_seg"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "A921B80A44_NLStdTomato": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "A921B80A44_NLStdTomato",
+            "opacity": 1.0,
+            "sources": [
+              "A921B80A44_NLStdTomato"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "nuclei"
+    },
+    "A921B80A44_lynEGFP_linUnmix": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "A921B80A44_lynEGFP_linUnmix",
+            "opacity": 1.0,
+            "sources": [
+              "A921B80A44_lynEGFP_linUnmix"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "A921B80A44_lynEGFP_linUnmix_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "A921B80A44_lynEGFP_linUnmix_seg",
+            "opacity": 0.5,
+            "sources": [
+              "A921B80A44_lynEGFP_linUnmix_seg"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "B154DF856B_NLStdTomato": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "B154DF856B_NLStdTomato",
+            "opacity": 1.0,
+            "sources": [
+              "B154DF856B_NLStdTomato"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "nuclei"
+    },
+    "B154DF856B_lynEGFP_linUnmix": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "B154DF856B_lynEGFP_linUnmix",
+            "opacity": 1.0,
+            "sources": [
+              "B154DF856B_lynEGFP_linUnmix"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "B154DF856B_lynEGFP_linUnmix_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "B154DF856B_lynEGFP_linUnmix_seg",
+            "opacity": 0.5,
+            "sources": [
+              "B154DF856B_lynEGFP_linUnmix_seg"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "C22FC95129_NLStdTomato": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "C22FC95129_NLStdTomato",
+            "opacity": 1.0,
+            "sources": [
+              "C22FC95129_NLStdTomato"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "nuclei"
+    },
+    "C22FC95129_lynEGFP_linUnmix": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "C22FC95129_lynEGFP_linUnmix",
+            "opacity": 1.0,
+            "sources": [
+              "C22FC95129_lynEGFP_linUnmix"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "C22FC95129_lynEGFP_linUnmix_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "C22FC95129_lynEGFP_linUnmix_seg",
+            "opacity": 0.5,
+            "sources": [
+              "C22FC95129_lynEGFP_linUnmix_seg"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "D2470961E8_NLStdTomato": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "D2470961E8_NLStdTomato",
+            "opacity": 1.0,
+            "sources": [
+              "D2470961E8_NLStdTomato"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "nuclei"
+    },
+    "D2470961E8_lynEGFP_linUnmix": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "D2470961E8_lynEGFP_linUnmix",
+            "opacity": 1.0,
+            "sources": [
+              "D2470961E8_lynEGFP_linUnmix"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "D2470961E8_lynEGFP_linUnmix_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "D2470961E8_lynEGFP_linUnmix_seg",
+            "opacity": 0.5,
+            "sources": [
+              "D2470961E8_lynEGFP_linUnmix_seg"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "D34B941004_NLStdTomato": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "D34B941004_NLStdTomato",
+            "opacity": 1.0,
+            "sources": [
+              "D34B941004_NLStdTomato"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "nuclei"
+    },
+    "D34B941004_lynEGFP_linUnmix": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "D34B941004_lynEGFP_linUnmix",
+            "opacity": 1.0,
+            "sources": [
+              "D34B941004_lynEGFP_linUnmix"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "D34B941004_lynEGFP_linUnmix_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "D34B941004_lynEGFP_linUnmix_seg",
+            "opacity": 0.5,
+            "sources": [
+              "D34B941004_lynEGFP_linUnmix_seg"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "D486DD3904_NLStdTomato": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "D486DD3904_NLStdTomato",
+            "opacity": 1.0,
+            "sources": [
+              "D486DD3904_NLStdTomato"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "nuclei"
+    },
+    "D486DD3904_lynEGFP_linUnmix": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "D486DD3904_lynEGFP_linUnmix",
+            "opacity": 1.0,
+            "sources": [
+              "D486DD3904_lynEGFP_linUnmix"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "D486DD3904_lynEGFP_linUnmix_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "D486DD3904_lynEGFP_linUnmix_seg",
+            "opacity": 0.5,
+            "sources": [
+              "D486DD3904_lynEGFP_linUnmix_seg"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "D9314261C0_NLStdTomato": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "D9314261C0_NLStdTomato",
+            "opacity": 1.0,
+            "sources": [
+              "D9314261C0_NLStdTomato"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "nuclei"
+    },
+    "D9314261C0_lynEGFP_linUnmix": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "D9314261C0_lynEGFP_linUnmix",
+            "opacity": 1.0,
+            "sources": [
+              "D9314261C0_lynEGFP_linUnmix"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "D9314261C0_lynEGFP_linUnmix_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "D9314261C0_lynEGFP_linUnmix_seg",
+            "opacity": 0.5,
+            "sources": [
+              "D9314261C0_lynEGFP_linUnmix_seg"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "F8346191C7_NLStdTomato": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "F8346191C7_NLStdTomato",
+            "opacity": 1.0,
+            "sources": [
+              "F8346191C7_NLStdTomato"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "nuclei"
+    },
+    "F8346191C7_lynEGFP_linUnmix": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "F8346191C7_lynEGFP_linUnmix",
+            "opacity": 1.0,
+            "sources": [
+              "F8346191C7_lynEGFP_linUnmix"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "F8346191C7_lynEGFP_linUnmix_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "F8346191C7_lynEGFP_linUnmix_seg",
+            "opacity": 0.5,
+            "sources": [
+              "F8346191C7_lynEGFP_linUnmix_seg"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "FDE484C778_NLStdTomato": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "FDE484C778_NLStdTomato",
+            "opacity": 1.0,
+            "sources": [
+              "FDE484C778_NLStdTomato"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "nuclei"
+    },
+    "FDE484C778_lynEGFP_linUnmix": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "FDE484C778_lynEGFP_linUnmix",
+            "opacity": 1.0,
+            "sources": [
+              "FDE484C778_lynEGFP_linUnmix"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "FDE484C778_lynEGFP_linUnmix_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "FDE484C778_lynEGFP_linUnmix_seg",
+            "opacity": 0.5,
+            "sources": [
+              "FDE484C778_lynEGFP_linUnmix_seg"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
     "default": {
       "isExclusive": true,
       "sourceDisplays": [
