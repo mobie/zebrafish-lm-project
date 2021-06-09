@@ -1,5 +1,5 @@
 {
-  "is2d": false,
+  "is2D": false,
   "sources": {
     "02ED8CA0B9_lynEGFP": {
       "image": {
@@ -607,6 +607,9 @@
             "opacity": 0.5,
             "sources": [
               "02ED8CA0B9_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -663,6 +666,9 @@
             "opacity": 0.5,
             "sources": [
               "26A9D7093E_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -719,6 +725,9 @@
             "opacity": 0.5,
             "sources": [
               "3E0EE13177_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -775,6 +784,9 @@
             "opacity": 0.5,
             "sources": [
               "47B31836B0_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -831,6 +843,9 @@
             "opacity": 0.5,
             "sources": [
               "61E7CD2F27_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -887,6 +902,9 @@
             "opacity": 0.5,
             "sources": [
               "81E0137C14_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -943,6 +961,9 @@
             "opacity": 0.5,
             "sources": [
               "828AAFF38C_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -999,6 +1020,9 @@
             "opacity": 0.5,
             "sources": [
               "86AEB2E414_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1055,6 +1079,9 @@
             "opacity": 0.5,
             "sources": [
               "889D6DDB1F_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1111,6 +1138,9 @@
             "opacity": 0.5,
             "sources": [
               "D050E92E38_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1167,6 +1197,9 @@
             "opacity": 0.5,
             "sources": [
               "D4846901BC_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1223,6 +1256,9 @@
             "opacity": 0.5,
             "sources": [
               "D4974C20CF_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1279,6 +1315,9 @@
             "opacity": 0.5,
             "sources": [
               "E75A7F5AE7_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1335,6 +1374,9 @@
             "opacity": 0.5,
             "sources": [
               "E794F7AE68_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1431,6 +1473,9 @@
               "D4974C20CF_lynEGFP_seg",
               "E75A7F5AE7_lynEGFP_seg",
               "E794F7AE68_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         },
@@ -1541,7 +1586,10 @@
               "tsv": {
                 "relativePath": "tables/grid-view"
               }
-            }
+            },
+            "tables": [
+              "default.tsv"
+            ]
           }
         }
       ],
@@ -1573,6 +1621,9 @@
             "sources": [
               "02ED8CA0B9_lynEGFP_seg",
               "26A9D7093E_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         },
@@ -1611,7 +1662,10 @@
               "tsv": {
                 "relativePath": "tables/small-grid-view"
               }
-            }
+            },
+            "tables": [
+              "default.tsv"
+            ]
           }
         }
       ],

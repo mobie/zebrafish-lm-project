@@ -1,5 +1,5 @@
 {
-  "is2d": false,
+  "is2D": false,
   "sources": {
     "0AF10D7E72_b4galT1tagRFPt": {
       "image": {
@@ -463,6 +463,9 @@
             "opacity": 0.5,
             "sources": [
               "0AF10D7E72_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -519,6 +522,9 @@
             "opacity": 0.5,
             "sources": [
               "0BC19C020F_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -575,6 +581,9 @@
             "opacity": 0.5,
             "sources": [
               "1648A8CC34_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -631,6 +640,9 @@
             "opacity": 0.5,
             "sources": [
               "32DC08CA03_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -687,6 +699,9 @@
             "opacity": 0.5,
             "sources": [
               "43665D3AE9_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -743,6 +758,9 @@
             "opacity": 0.5,
             "sources": [
               "67FD8A06DA_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -799,6 +817,9 @@
             "opacity": 0.5,
             "sources": [
               "9169ADF9A0_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -855,6 +876,9 @@
             "opacity": 0.5,
             "sources": [
               "9B3C4C613D_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -911,6 +935,9 @@
             "opacity": 0.5,
             "sources": [
               "C11B3A3777_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -967,6 +994,9 @@
             "opacity": 0.5,
             "sources": [
               "DE267BC41F_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1058,6 +1088,9 @@
               "9B3C4C613D_lynEGFP_seg",
               "C11B3A3777_lynEGFP_seg",
               "DE267BC41F_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1121,7 +1154,10 @@
               "tsv": {
                 "relativePath": "tables/grid-view"
               }
-            }
+            },
+            "tables": [
+              "default.tsv"
+            ]
           }
         }
       ],
@@ -1168,6 +1204,9 @@
             "sources": [
               "0AF10D7E72_lynEGFP_seg",
               "0BC19C020F_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1191,7 +1230,10 @@
               "tsv": {
                 "relativePath": "tables/small-grid-view"
               }
-            }
+            },
+            "tables": [
+              "default.tsv"
+            ]
           }
         }
       ],

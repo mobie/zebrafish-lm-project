@@ -1,5 +1,5 @@
 {
-  "is2d": false,
+  "is2D": false,
   "sources": {
     "056F63395C_lynEGFP": {
       "image": {
@@ -729,6 +729,9 @@
             "opacity": 0.5,
             "sources": [
               "056F63395C_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -765,6 +768,9 @@
             "opacity": 0.5,
             "sources": [
               "08B96BE794_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -801,6 +807,9 @@
             "opacity": 0.5,
             "sources": [
               "0B51F8B46C_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -837,6 +846,9 @@
             "opacity": 0.5,
             "sources": [
               "0E48AB134C_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -873,6 +885,9 @@
             "opacity": 0.5,
             "sources": [
               "1C43D83E9A_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -909,6 +924,9 @@
             "opacity": 0.5,
             "sources": [
               "22DF2AE1A0_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -945,6 +963,9 @@
             "opacity": 0.5,
             "sources": [
               "2902E38204_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -981,6 +1002,9 @@
             "opacity": 0.5,
             "sources": [
               "2B23352582_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1017,6 +1041,9 @@
             "opacity": 0.5,
             "sources": [
               "3612A6CEF5_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1053,6 +1080,9 @@
             "opacity": 0.5,
             "sources": [
               "4DC24FC301_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1089,6 +1119,9 @@
             "opacity": 0.5,
             "sources": [
               "673A65D087_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1125,6 +1158,9 @@
             "opacity": 0.5,
             "sources": [
               "6F18162F4C_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1161,6 +1197,9 @@
             "opacity": 0.5,
             "sources": [
               "8713481504_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1197,6 +1236,9 @@
             "opacity": 0.5,
             "sources": [
               "8C633380D2_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1233,6 +1275,9 @@
             "opacity": 0.5,
             "sources": [
               "8C83D4387F_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1269,6 +1314,9 @@
             "opacity": 0.5,
             "sources": [
               "8CA33561B5_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1305,6 +1353,9 @@
             "opacity": 0.5,
             "sources": [
               "AB98466077_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1341,6 +1392,9 @@
             "opacity": 0.5,
             "sources": [
               "B95A4F6D95_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1377,6 +1431,9 @@
             "opacity": 0.5,
             "sources": [
               "C95F528559_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1413,6 +1470,9 @@
             "opacity": 0.5,
             "sources": [
               "CB87D7CBC9_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1449,6 +1509,9 @@
             "opacity": 0.5,
             "sources": [
               "E013272A99_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1485,6 +1548,9 @@
             "opacity": 0.5,
             "sources": [
               "E6E56C3F42_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1521,6 +1587,9 @@
             "opacity": 0.5,
             "sources": [
               "EC77708A51_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1557,6 +1626,9 @@
             "opacity": 0.5,
             "sources": [
               "FC90367714_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1653,6 +1725,9 @@
               "E6E56C3F42_lynEGFP_seg",
               "EC77708A51_lynEGFP_seg",
               "FC90367714_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1762,7 +1837,10 @@
               "tsv": {
                 "relativePath": "tables/grid-view"
               }
-            }
+            },
+            "tables": [
+              "default.tsv"
+            ]
           }
         }
       ],
@@ -1796,8 +1874,9 @@
               "08B96BE794_lynEGFP_seg"
             ],
             "tables": [
-                "shape_CFOR_pca_measured.tsv",
-                "shape_TFOR_pca_measured.tsv"
+              "default.tsv",
+              "shape_CFOR_pca_measured.tsv",
+              "shape_TFOR_pca_measured.tsv"
             ]
           }
         }
@@ -1819,7 +1898,10 @@
               "tsv": {
                 "relativePath": "tables/small-grid-view"
               }
-            }
+            },
+            "tables": [
+              "default.tsv"
+            ]
           }
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "is2d": false,
+  "is2D": false,
   "sources": {
     "128F6F3122_lynEGFP": {
       "image": {
@@ -894,6 +894,9 @@
             "opacity": 0.5,
             "sources": [
               "128F6F3122_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -950,6 +953,9 @@
             "opacity": 0.5,
             "sources": [
               "17F755A430_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1006,6 +1012,9 @@
             "opacity": 0.5,
             "sources": [
               "2140A358CC_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1062,6 +1071,9 @@
             "opacity": 0.5,
             "sources": [
               "23BA70245C_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1118,6 +1130,9 @@
             "opacity": 0.5,
             "sources": [
               "4CFD671A2E_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1174,6 +1189,9 @@
             "opacity": 0.5,
             "sources": [
               "5485505C8F_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1230,6 +1248,9 @@
             "opacity": 0.5,
             "sources": [
               "63BC284B28_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1286,6 +1307,9 @@
             "opacity": 0.5,
             "sources": [
               "65B83F355D_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1342,6 +1366,9 @@
             "opacity": 0.5,
             "sources": [
               "69DCD8A8EA_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1398,6 +1425,9 @@
             "opacity": 0.5,
             "sources": [
               "6B76772EDD_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1454,6 +1484,9 @@
             "opacity": 0.5,
             "sources": [
               "72966B3C13_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1510,6 +1543,9 @@
             "opacity": 0.5,
             "sources": [
               "87AA6901DC_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1566,6 +1602,9 @@
             "opacity": 0.5,
             "sources": [
               "8E0B101116_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1622,6 +1661,9 @@
             "opacity": 0.5,
             "sources": [
               "9134C9CCA6_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1678,6 +1720,9 @@
             "opacity": 0.5,
             "sources": [
               "91C50915A3_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1734,6 +1779,9 @@
             "opacity": 0.5,
             "sources": [
               "DA5B48D528_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1790,6 +1838,9 @@
             "opacity": 0.5,
             "sources": [
               "E536464063_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1846,6 +1897,9 @@
             "opacity": 0.5,
             "sources": [
               "E5821032EA_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1902,6 +1956,9 @@
             "opacity": 0.5,
             "sources": [
               "E641CD81AC_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -1958,6 +2015,9 @@
             "opacity": 0.5,
             "sources": [
               "F6B5B972FB_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -2014,6 +2074,9 @@
             "opacity": 0.5,
             "sources": [
               "FEE47C8063_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         }
@@ -2124,6 +2187,9 @@
               "E641CD81AC_lynEGFP_seg",
               "F6B5B972FB_lynEGFP_seg",
               "FEE47C8063_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         },
@@ -2276,7 +2342,10 @@
               "tsv": {
                 "relativePath": "tables/grid-view"
               }
-            }
+            },
+            "tables": [
+              "default.tsv"
+            ]
           }
         }
       ],
@@ -2308,6 +2377,9 @@
             "sources": [
               "128F6F3122_lynEGFP_seg",
               "17F755A430_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
             ]
           }
         },
@@ -2346,7 +2418,10 @@
               "tsv": {
                 "relativePath": "tables/small-grid-view"
               }
-            }
+            },
+            "tables": [
+              "default.tsv"
+            ]
           }
         }
       ],
