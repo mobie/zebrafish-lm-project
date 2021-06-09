@@ -12,5 +12,9 @@
     "trans_golgi"
   ],
   "defaultDataset": "membrane",
+  "imageDataFormats": [
+    "bdv.n5.s3",
+    "bdv.n5"
+  ],
   "specVersion": "0.2.0"
 }

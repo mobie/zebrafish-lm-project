@@ -3,252 +3,412 @@
   "sources": {
     "0AF10D7E72_b4galT1tagRFPt": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/trans_golgi-0AF10D7E72_b4galT1tagRFPt.xml",
-          "s3store": "images/remote/trans_golgi-0AF10D7E72_b4galT1tagRFPt.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/trans_golgi-0AF10D7E72_b4galT1tagRFPt.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/trans_golgi-0AF10D7E72_b4galT1tagRFPt.xml"
+          }
         }
       }
     },
     "0AF10D7E72_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-0AF10D7E72_lynEGFP.xml",
-          "s3store": "images/remote/membrane-0AF10D7E72_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-0AF10D7E72_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-0AF10D7E72_lynEGFP.xml"
+          }
         }
       }
     },
     "0AF10D7E72_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-0AF10D7E72_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-0AF10D7E72_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-0AF10D7E72_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-0AF10D7E72_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-0AF10D7E72_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-0AF10D7E72_lynEGFP_seg"
+          }
+        }
       }
     },
     "0BC19C020F_b4galT1tagRFPt": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/trans_golgi-0BC19C020F_b4galT1tagRFPt.xml",
-          "s3store": "images/remote/trans_golgi-0BC19C020F_b4galT1tagRFPt.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/trans_golgi-0BC19C020F_b4galT1tagRFPt.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/trans_golgi-0BC19C020F_b4galT1tagRFPt.xml"
+          }
         }
       }
     },
     "0BC19C020F_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-0BC19C020F_lynEGFP.xml",
-          "s3store": "images/remote/membrane-0BC19C020F_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-0BC19C020F_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-0BC19C020F_lynEGFP.xml"
+          }
         }
       }
     },
     "0BC19C020F_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-0BC19C020F_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-0BC19C020F_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-0BC19C020F_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-0BC19C020F_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-0BC19C020F_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-0BC19C020F_lynEGFP_seg"
+          }
+        }
       }
     },
     "1648A8CC34_b4galT1tagRFPt": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/trans_golgi-1648A8CC34_b4galT1tagRFPt.xml",
-          "s3store": "images/remote/trans_golgi-1648A8CC34_b4galT1tagRFPt.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/trans_golgi-1648A8CC34_b4galT1tagRFPt.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/trans_golgi-1648A8CC34_b4galT1tagRFPt.xml"
+          }
         }
       }
     },
     "1648A8CC34_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-1648A8CC34_lynEGFP.xml",
-          "s3store": "images/remote/membrane-1648A8CC34_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-1648A8CC34_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-1648A8CC34_lynEGFP.xml"
+          }
         }
       }
     },
     "1648A8CC34_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-1648A8CC34_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-1648A8CC34_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-1648A8CC34_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-1648A8CC34_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-1648A8CC34_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-1648A8CC34_lynEGFP_seg"
+          }
+        }
       }
     },
     "32DC08CA03_b4galT1tagRFPt": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/trans_golgi-32DC08CA03_b4galT1tagRFPt.xml",
-          "s3store": "images/remote/trans_golgi-32DC08CA03_b4galT1tagRFPt.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/trans_golgi-32DC08CA03_b4galT1tagRFPt.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/trans_golgi-32DC08CA03_b4galT1tagRFPt.xml"
+          }
         }
       }
     },
     "32DC08CA03_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-32DC08CA03_lynEGFP.xml",
-          "s3store": "images/remote/membrane-32DC08CA03_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-32DC08CA03_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-32DC08CA03_lynEGFP.xml"
+          }
         }
       }
     },
     "32DC08CA03_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-32DC08CA03_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-32DC08CA03_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-32DC08CA03_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-32DC08CA03_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-32DC08CA03_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-32DC08CA03_lynEGFP_seg"
+          }
+        }
       }
     },
     "43665D3AE9_b4galT1tagRFPt": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/trans_golgi-43665D3AE9_b4galT1tagRFPt.xml",
-          "s3store": "images/remote/trans_golgi-43665D3AE9_b4galT1tagRFPt.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/trans_golgi-43665D3AE9_b4galT1tagRFPt.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/trans_golgi-43665D3AE9_b4galT1tagRFPt.xml"
+          }
         }
       }
     },
     "43665D3AE9_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-43665D3AE9_lynEGFP.xml",
-          "s3store": "images/remote/membrane-43665D3AE9_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-43665D3AE9_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-43665D3AE9_lynEGFP.xml"
+          }
         }
       }
     },
     "43665D3AE9_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-43665D3AE9_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-43665D3AE9_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-43665D3AE9_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-43665D3AE9_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-43665D3AE9_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-43665D3AE9_lynEGFP_seg"
+          }
+        }
       }
     },
     "67FD8A06DA_b4galT1tagRFPt": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/trans_golgi-67FD8A06DA_b4galT1tagRFPt.xml",
-          "s3store": "images/remote/trans_golgi-67FD8A06DA_b4galT1tagRFPt.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/trans_golgi-67FD8A06DA_b4galT1tagRFPt.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/trans_golgi-67FD8A06DA_b4galT1tagRFPt.xml"
+          }
         }
       }
     },
     "67FD8A06DA_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-67FD8A06DA_lynEGFP.xml",
-          "s3store": "images/remote/membrane-67FD8A06DA_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-67FD8A06DA_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-67FD8A06DA_lynEGFP.xml"
+          }
         }
       }
     },
     "67FD8A06DA_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-67FD8A06DA_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-67FD8A06DA_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-67FD8A06DA_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-67FD8A06DA_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-67FD8A06DA_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-67FD8A06DA_lynEGFP_seg"
+          }
+        }
       }
     },
     "9169ADF9A0_b4galT1tagRFPt": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/trans_golgi-9169ADF9A0_b4galT1tagRFPt.xml",
-          "s3store": "images/remote/trans_golgi-9169ADF9A0_b4galT1tagRFPt.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/trans_golgi-9169ADF9A0_b4galT1tagRFPt.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/trans_golgi-9169ADF9A0_b4galT1tagRFPt.xml"
+          }
         }
       }
     },
     "9169ADF9A0_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-9169ADF9A0_lynEGFP.xml",
-          "s3store": "images/remote/membrane-9169ADF9A0_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-9169ADF9A0_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-9169ADF9A0_lynEGFP.xml"
+          }
         }
       }
     },
     "9169ADF9A0_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-9169ADF9A0_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-9169ADF9A0_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-9169ADF9A0_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-9169ADF9A0_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-9169ADF9A0_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-9169ADF9A0_lynEGFP_seg"
+          }
+        }
       }
     },
     "9B3C4C613D_b4galT1tagRFPt": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/trans_golgi-9B3C4C613D_b4galT1tagRFPt.xml",
-          "s3store": "images/remote/trans_golgi-9B3C4C613D_b4galT1tagRFPt.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/trans_golgi-9B3C4C613D_b4galT1tagRFPt.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/trans_golgi-9B3C4C613D_b4galT1tagRFPt.xml"
+          }
         }
       }
     },
     "9B3C4C613D_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-9B3C4C613D_lynEGFP.xml",
-          "s3store": "images/remote/membrane-9B3C4C613D_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-9B3C4C613D_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-9B3C4C613D_lynEGFP.xml"
+          }
         }
       }
     },
     "9B3C4C613D_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-9B3C4C613D_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-9B3C4C613D_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-9B3C4C613D_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-9B3C4C613D_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-9B3C4C613D_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-9B3C4C613D_lynEGFP_seg"
+          }
+        }
       }
     },
     "C11B3A3777_b4galT1tagRFPt": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/trans_golgi-C11B3A3777_b4galT1tagRFPt.xml",
-          "s3store": "images/remote/trans_golgi-C11B3A3777_b4galT1tagRFPt.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/trans_golgi-C11B3A3777_b4galT1tagRFPt.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/trans_golgi-C11B3A3777_b4galT1tagRFPt.xml"
+          }
         }
       }
     },
     "C11B3A3777_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-C11B3A3777_lynEGFP.xml",
-          "s3store": "images/remote/membrane-C11B3A3777_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-C11B3A3777_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-C11B3A3777_lynEGFP.xml"
+          }
         }
       }
     },
     "C11B3A3777_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-C11B3A3777_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-C11B3A3777_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-C11B3A3777_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-C11B3A3777_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-C11B3A3777_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-C11B3A3777_lynEGFP_seg"
+          }
+        }
       }
     },
     "DE267BC41F_b4galT1tagRFPt": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/trans_golgi-DE267BC41F_b4galT1tagRFPt.xml",
-          "s3store": "images/remote/trans_golgi-DE267BC41F_b4galT1tagRFPt.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/trans_golgi-DE267BC41F_b4galT1tagRFPt.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/trans_golgi-DE267BC41F_b4galT1tagRFPt.xml"
+          }
         }
       }
     },
     "DE267BC41F_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-DE267BC41F_lynEGFP.xml",
-          "s3store": "images/remote/membrane-DE267BC41F_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-DE267BC41F_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-DE267BC41F_lynEGFP.xml"
+          }
         }
       }
     },
     "DE267BC41F_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-DE267BC41F_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-DE267BC41F_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-DE267BC41F_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-DE267BC41F_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-DE267BC41F_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-DE267BC41F_lynEGFP_seg"
+          }
+        }
       }
     }
   },
@@ -957,7 +1117,11 @@
                 "DE267BC41F_lynEGFP_seg"
               ]
             ],
-            "tableDataLocation": "tables/grid-view"
+            "tableData": {
+              "tsv": {
+                "relativePath": "tables/grid-view"
+              }
+            }
           }
         }
       ],
@@ -1023,7 +1187,11 @@
                 "0BC19C020F_lynEGFP_seg"
               ]
             ],
-            "tableDataLocation": "tables/small-grid-view"
+            "tableData": {
+              "tsv": {
+                "relativePath": "tables/small-grid-view"
+              }
+            }
           }
         }
       ],

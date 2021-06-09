@@ -3,351 +3,575 @@
   "sources": {
     "02ED8CA0B9_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-02ED8CA0B9_lynEGFP.xml",
-          "s3store": "images/remote/membrane-02ED8CA0B9_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-02ED8CA0B9_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-02ED8CA0B9_lynEGFP.xml"
+          }
         }
       }
     },
     "02ED8CA0B9_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-02ED8CA0B9_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-02ED8CA0B9_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-02ED8CA0B9_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-02ED8CA0B9_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-02ED8CA0B9_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-02ED8CA0B9_lynEGFP_seg"
+          }
+        }
       }
     },
     "02ED8CA0B9_mKate2rab5": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/early_endosomes-02ED8CA0B9_mKate2rab5.xml",
-          "s3store": "images/remote/early_endosomes-02ED8CA0B9_mKate2rab5.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/early_endosomes-02ED8CA0B9_mKate2rab5.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/early_endosomes-02ED8CA0B9_mKate2rab5.xml"
+          }
         }
       }
     },
     "26A9D7093E_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-26A9D7093E_lynEGFP.xml",
-          "s3store": "images/remote/membrane-26A9D7093E_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-26A9D7093E_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-26A9D7093E_lynEGFP.xml"
+          }
         }
       }
     },
     "26A9D7093E_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-26A9D7093E_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-26A9D7093E_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-26A9D7093E_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-26A9D7093E_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-26A9D7093E_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-26A9D7093E_lynEGFP_seg"
+          }
+        }
       }
     },
     "26A9D7093E_mKate2rab5": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/early_endosomes-26A9D7093E_mKate2rab5.xml",
-          "s3store": "images/remote/early_endosomes-26A9D7093E_mKate2rab5.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/early_endosomes-26A9D7093E_mKate2rab5.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/early_endosomes-26A9D7093E_mKate2rab5.xml"
+          }
         }
       }
     },
     "3E0EE13177_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-3E0EE13177_lynEGFP.xml",
-          "s3store": "images/remote/membrane-3E0EE13177_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-3E0EE13177_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-3E0EE13177_lynEGFP.xml"
+          }
         }
       }
     },
     "3E0EE13177_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-3E0EE13177_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-3E0EE13177_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-3E0EE13177_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-3E0EE13177_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-3E0EE13177_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-3E0EE13177_lynEGFP_seg"
+          }
+        }
       }
     },
     "3E0EE13177_mKate2rab5": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/early_endosomes-3E0EE13177_mKate2rab5.xml",
-          "s3store": "images/remote/early_endosomes-3E0EE13177_mKate2rab5.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/early_endosomes-3E0EE13177_mKate2rab5.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/early_endosomes-3E0EE13177_mKate2rab5.xml"
+          }
         }
       }
     },
     "47B31836B0_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-47B31836B0_lynEGFP.xml",
-          "s3store": "images/remote/membrane-47B31836B0_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-47B31836B0_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-47B31836B0_lynEGFP.xml"
+          }
         }
       }
     },
     "47B31836B0_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-47B31836B0_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-47B31836B0_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-47B31836B0_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-47B31836B0_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-47B31836B0_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-47B31836B0_lynEGFP_seg"
+          }
+        }
       }
     },
     "47B31836B0_mKate2rab5": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/early_endosomes-47B31836B0_mKate2rab5.xml",
-          "s3store": "images/remote/early_endosomes-47B31836B0_mKate2rab5.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/early_endosomes-47B31836B0_mKate2rab5.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/early_endosomes-47B31836B0_mKate2rab5.xml"
+          }
         }
       }
     },
     "61E7CD2F27_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-61E7CD2F27_lynEGFP.xml",
-          "s3store": "images/remote/membrane-61E7CD2F27_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-61E7CD2F27_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-61E7CD2F27_lynEGFP.xml"
+          }
         }
       }
     },
     "61E7CD2F27_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-61E7CD2F27_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-61E7CD2F27_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-61E7CD2F27_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-61E7CD2F27_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-61E7CD2F27_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-61E7CD2F27_lynEGFP_seg"
+          }
+        }
       }
     },
     "61E7CD2F27_mKate2rab5": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/early_endosomes-61E7CD2F27_mKate2rab5.xml",
-          "s3store": "images/remote/early_endosomes-61E7CD2F27_mKate2rab5.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/early_endosomes-61E7CD2F27_mKate2rab5.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/early_endosomes-61E7CD2F27_mKate2rab5.xml"
+          }
         }
       }
     },
     "81E0137C14_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-81E0137C14_lynEGFP.xml",
-          "s3store": "images/remote/membrane-81E0137C14_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-81E0137C14_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-81E0137C14_lynEGFP.xml"
+          }
         }
       }
     },
     "81E0137C14_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-81E0137C14_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-81E0137C14_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-81E0137C14_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-81E0137C14_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-81E0137C14_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-81E0137C14_lynEGFP_seg"
+          }
+        }
       }
     },
     "81E0137C14_mKate2rab5": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/early_endosomes-81E0137C14_mKate2rab5.xml",
-          "s3store": "images/remote/early_endosomes-81E0137C14_mKate2rab5.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/early_endosomes-81E0137C14_mKate2rab5.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/early_endosomes-81E0137C14_mKate2rab5.xml"
+          }
         }
       }
     },
     "828AAFF38C_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-828AAFF38C_lynEGFP.xml",
-          "s3store": "images/remote/membrane-828AAFF38C_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-828AAFF38C_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-828AAFF38C_lynEGFP.xml"
+          }
         }
       }
     },
     "828AAFF38C_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-828AAFF38C_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-828AAFF38C_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-828AAFF38C_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-828AAFF38C_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-828AAFF38C_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-828AAFF38C_lynEGFP_seg"
+          }
+        }
       }
     },
     "828AAFF38C_mKate2rab5": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/early_endosomes-828AAFF38C_mKate2rab5.xml",
-          "s3store": "images/remote/early_endosomes-828AAFF38C_mKate2rab5.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/early_endosomes-828AAFF38C_mKate2rab5.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/early_endosomes-828AAFF38C_mKate2rab5.xml"
+          }
         }
       }
     },
     "86AEB2E414_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-86AEB2E414_lynEGFP.xml",
-          "s3store": "images/remote/membrane-86AEB2E414_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-86AEB2E414_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-86AEB2E414_lynEGFP.xml"
+          }
         }
       }
     },
     "86AEB2E414_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-86AEB2E414_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-86AEB2E414_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-86AEB2E414_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-86AEB2E414_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-86AEB2E414_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-86AEB2E414_lynEGFP_seg"
+          }
+        }
       }
     },
     "86AEB2E414_mKate2rab5": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/early_endosomes-86AEB2E414_mKate2rab5.xml",
-          "s3store": "images/remote/early_endosomes-86AEB2E414_mKate2rab5.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/early_endosomes-86AEB2E414_mKate2rab5.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/early_endosomes-86AEB2E414_mKate2rab5.xml"
+          }
         }
       }
     },
     "889D6DDB1F_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-889D6DDB1F_lynEGFP.xml",
-          "s3store": "images/remote/membrane-889D6DDB1F_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-889D6DDB1F_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-889D6DDB1F_lynEGFP.xml"
+          }
         }
       }
     },
     "889D6DDB1F_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-889D6DDB1F_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-889D6DDB1F_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-889D6DDB1F_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-889D6DDB1F_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-889D6DDB1F_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-889D6DDB1F_lynEGFP_seg"
+          }
+        }
       }
     },
     "889D6DDB1F_mKate2rab5": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/early_endosomes-889D6DDB1F_mKate2rab5.xml",
-          "s3store": "images/remote/early_endosomes-889D6DDB1F_mKate2rab5.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/early_endosomes-889D6DDB1F_mKate2rab5.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/early_endosomes-889D6DDB1F_mKate2rab5.xml"
+          }
         }
       }
     },
     "D050E92E38_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-D050E92E38_lynEGFP.xml",
-          "s3store": "images/remote/membrane-D050E92E38_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-D050E92E38_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-D050E92E38_lynEGFP.xml"
+          }
         }
       }
     },
     "D050E92E38_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-D050E92E38_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-D050E92E38_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-D050E92E38_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-D050E92E38_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-D050E92E38_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-D050E92E38_lynEGFP_seg"
+          }
+        }
       }
     },
     "D050E92E38_mKate2rab5": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/early_endosomes-D050E92E38_mKate2rab5.xml",
-          "s3store": "images/remote/early_endosomes-D050E92E38_mKate2rab5.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/early_endosomes-D050E92E38_mKate2rab5.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/early_endosomes-D050E92E38_mKate2rab5.xml"
+          }
         }
       }
     },
     "D4846901BC_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-D4846901BC_lynEGFP.xml",
-          "s3store": "images/remote/membrane-D4846901BC_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-D4846901BC_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-D4846901BC_lynEGFP.xml"
+          }
         }
       }
     },
     "D4846901BC_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-D4846901BC_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-D4846901BC_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-D4846901BC_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-D4846901BC_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-D4846901BC_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-D4846901BC_lynEGFP_seg"
+          }
+        }
       }
     },
     "D4846901BC_mKate2rab5": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/early_endosomes-D4846901BC_mKate2rab5.xml",
-          "s3store": "images/remote/early_endosomes-D4846901BC_mKate2rab5.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/early_endosomes-D4846901BC_mKate2rab5.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/early_endosomes-D4846901BC_mKate2rab5.xml"
+          }
         }
       }
     },
     "D4974C20CF_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-D4974C20CF_lynEGFP.xml",
-          "s3store": "images/remote/membrane-D4974C20CF_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-D4974C20CF_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-D4974C20CF_lynEGFP.xml"
+          }
         }
       }
     },
     "D4974C20CF_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-D4974C20CF_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-D4974C20CF_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-D4974C20CF_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-D4974C20CF_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-D4974C20CF_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-D4974C20CF_lynEGFP_seg"
+          }
+        }
       }
     },
     "D4974C20CF_mKate2rab5": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/early_endosomes-D4974C20CF_mKate2rab5.xml",
-          "s3store": "images/remote/early_endosomes-D4974C20CF_mKate2rab5.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/early_endosomes-D4974C20CF_mKate2rab5.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/early_endosomes-D4974C20CF_mKate2rab5.xml"
+          }
         }
       }
     },
     "E75A7F5AE7_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-E75A7F5AE7_lynEGFP.xml",
-          "s3store": "images/remote/membrane-E75A7F5AE7_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-E75A7F5AE7_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-E75A7F5AE7_lynEGFP.xml"
+          }
         }
       }
     },
     "E75A7F5AE7_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-E75A7F5AE7_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-E75A7F5AE7_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-E75A7F5AE7_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-E75A7F5AE7_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-E75A7F5AE7_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-E75A7F5AE7_lynEGFP_seg"
+          }
+        }
       }
     },
     "E75A7F5AE7_mKate2rab5": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/early_endosomes-E75A7F5AE7_mKate2rab5.xml",
-          "s3store": "images/remote/early_endosomes-E75A7F5AE7_mKate2rab5.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/early_endosomes-E75A7F5AE7_mKate2rab5.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/early_endosomes-E75A7F5AE7_mKate2rab5.xml"
+          }
         }
       }
     },
     "E794F7AE68_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-E794F7AE68_lynEGFP.xml",
-          "s3store": "images/remote/membrane-E794F7AE68_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-E794F7AE68_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-E794F7AE68_lynEGFP.xml"
+          }
         }
       }
     },
     "E794F7AE68_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-E794F7AE68_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-E794F7AE68_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-E794F7AE68_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-E794F7AE68_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-E794F7AE68_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-E794F7AE68_lynEGFP_seg"
+          }
+        }
       }
     },
     "E794F7AE68_mKate2rab5": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/early_endosomes-E794F7AE68_mKate2rab5.xml",
-          "s3store": "images/remote/early_endosomes-E794F7AE68_mKate2rab5.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/early_endosomes-E794F7AE68_mKate2rab5.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/early_endosomes-E794F7AE68_mKate2rab5.xml"
+          }
         }
       }
     }
@@ -1313,7 +1537,11 @@
                 "E794F7AE68_mKate2rab5"
               ]
             ],
-            "tableDataLocation": "tables/grid-view"
+            "tableData": {
+              "tsv": {
+                "relativePath": "tables/grid-view"
+              }
+            }
           }
         }
       ],
@@ -1379,7 +1607,11 @@
                 "26A9D7093E_mKate2rab5"
               ]
             ],
-            "tableDataLocation": "tables/small-grid-view"
+            "tableData": {
+              "tsv": {
+                "relativePath": "tables/small-grid-view"
+              }
+            }
           }
         }
       ],

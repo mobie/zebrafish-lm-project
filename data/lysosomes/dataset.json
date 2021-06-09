@@ -3,526 +3,862 @@
   "sources": {
     "128F6F3122_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-128F6F3122_lynEGFP.xml",
-          "s3store": "images/remote/membrane-128F6F3122_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-128F6F3122_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-128F6F3122_lynEGFP.xml"
+          }
         }
       }
     },
     "128F6F3122_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-128F6F3122_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-128F6F3122_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-128F6F3122_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-128F6F3122_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-128F6F3122_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-128F6F3122_lynEGFP_seg"
+          }
+        }
       }
     },
     "128F6F3122_lysotrackerdeepred": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/lysosomes-128F6F3122_lysotrackerdeepred.xml",
-          "s3store": "images/remote/lysosomes-128F6F3122_lysotrackerdeepred.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/lysosomes-128F6F3122_lysotrackerdeepred.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/lysosomes-128F6F3122_lysotrackerdeepred.xml"
+          }
         }
       }
     },
     "17F755A430_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-17F755A430_lynEGFP.xml",
-          "s3store": "images/remote/membrane-17F755A430_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-17F755A430_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-17F755A430_lynEGFP.xml"
+          }
         }
       }
     },
     "17F755A430_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-17F755A430_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-17F755A430_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-17F755A430_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-17F755A430_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-17F755A430_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-17F755A430_lynEGFP_seg"
+          }
+        }
       }
     },
     "17F755A430_lysotrackerdeepred": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/lysosomes-17F755A430_lysotrackerdeepred.xml",
-          "s3store": "images/remote/lysosomes-17F755A430_lysotrackerdeepred.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/lysosomes-17F755A430_lysotrackerdeepred.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/lysosomes-17F755A430_lysotrackerdeepred.xml"
+          }
         }
       }
     },
     "2140A358CC_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-2140A358CC_lynEGFP.xml",
-          "s3store": "images/remote/membrane-2140A358CC_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-2140A358CC_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-2140A358CC_lynEGFP.xml"
+          }
         }
       }
     },
     "2140A358CC_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-2140A358CC_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-2140A358CC_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-2140A358CC_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-2140A358CC_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-2140A358CC_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-2140A358CC_lynEGFP_seg"
+          }
+        }
       }
     },
     "2140A358CC_lysotrackerdeepred": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/lysosomes-2140A358CC_lysotrackerdeepred.xml",
-          "s3store": "images/remote/lysosomes-2140A358CC_lysotrackerdeepred.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/lysosomes-2140A358CC_lysotrackerdeepred.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/lysosomes-2140A358CC_lysotrackerdeepred.xml"
+          }
         }
       }
     },
     "23BA70245C_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-23BA70245C_lynEGFP.xml",
-          "s3store": "images/remote/membrane-23BA70245C_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-23BA70245C_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-23BA70245C_lynEGFP.xml"
+          }
         }
       }
     },
     "23BA70245C_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-23BA70245C_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-23BA70245C_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-23BA70245C_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-23BA70245C_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-23BA70245C_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-23BA70245C_lynEGFP_seg"
+          }
+        }
       }
     },
     "23BA70245C_lysotrackerdeepred": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/lysosomes-23BA70245C_lysotrackerdeepred.xml",
-          "s3store": "images/remote/lysosomes-23BA70245C_lysotrackerdeepred.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/lysosomes-23BA70245C_lysotrackerdeepred.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/lysosomes-23BA70245C_lysotrackerdeepred.xml"
+          }
         }
       }
     },
     "4CFD671A2E_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-4CFD671A2E_lynEGFP.xml",
-          "s3store": "images/remote/membrane-4CFD671A2E_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-4CFD671A2E_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-4CFD671A2E_lynEGFP.xml"
+          }
         }
       }
     },
     "4CFD671A2E_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-4CFD671A2E_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-4CFD671A2E_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-4CFD671A2E_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-4CFD671A2E_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-4CFD671A2E_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-4CFD671A2E_lynEGFP_seg"
+          }
+        }
       }
     },
     "4CFD671A2E_lysotrackerdeepred": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/lysosomes-4CFD671A2E_lysotrackerdeepred.xml",
-          "s3store": "images/remote/lysosomes-4CFD671A2E_lysotrackerdeepred.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/lysosomes-4CFD671A2E_lysotrackerdeepred.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/lysosomes-4CFD671A2E_lysotrackerdeepred.xml"
+          }
         }
       }
     },
     "5485505C8F_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-5485505C8F_lynEGFP.xml",
-          "s3store": "images/remote/membrane-5485505C8F_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-5485505C8F_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-5485505C8F_lynEGFP.xml"
+          }
         }
       }
     },
     "5485505C8F_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-5485505C8F_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-5485505C8F_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-5485505C8F_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-5485505C8F_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-5485505C8F_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-5485505C8F_lynEGFP_seg"
+          }
+        }
       }
     },
     "5485505C8F_lysotrackerdeepred": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/lysosomes-5485505C8F_lysotrackerdeepred.xml",
-          "s3store": "images/remote/lysosomes-5485505C8F_lysotrackerdeepred.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/lysosomes-5485505C8F_lysotrackerdeepred.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/lysosomes-5485505C8F_lysotrackerdeepred.xml"
+          }
         }
       }
     },
     "63BC284B28_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-63BC284B28_lynEGFP.xml",
-          "s3store": "images/remote/membrane-63BC284B28_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-63BC284B28_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-63BC284B28_lynEGFP.xml"
+          }
         }
       }
     },
     "63BC284B28_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-63BC284B28_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-63BC284B28_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-63BC284B28_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-63BC284B28_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-63BC284B28_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-63BC284B28_lynEGFP_seg"
+          }
+        }
       }
     },
     "63BC284B28_lysotrackerdeepred": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/lysosomes-63BC284B28_lysotrackerdeepred.xml",
-          "s3store": "images/remote/lysosomes-63BC284B28_lysotrackerdeepred.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/lysosomes-63BC284B28_lysotrackerdeepred.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/lysosomes-63BC284B28_lysotrackerdeepred.xml"
+          }
         }
       }
     },
     "65B83F355D_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-65B83F355D_lynEGFP.xml",
-          "s3store": "images/remote/membrane-65B83F355D_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-65B83F355D_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-65B83F355D_lynEGFP.xml"
+          }
         }
       }
     },
     "65B83F355D_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-65B83F355D_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-65B83F355D_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-65B83F355D_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-65B83F355D_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-65B83F355D_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-65B83F355D_lynEGFP_seg"
+          }
+        }
       }
     },
     "65B83F355D_lysotrackerdeepred": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/lysosomes-65B83F355D_lysotrackerdeepred.xml",
-          "s3store": "images/remote/lysosomes-65B83F355D_lysotrackerdeepred.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/lysosomes-65B83F355D_lysotrackerdeepred.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/lysosomes-65B83F355D_lysotrackerdeepred.xml"
+          }
         }
       }
     },
     "69DCD8A8EA_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-69DCD8A8EA_lynEGFP.xml",
-          "s3store": "images/remote/membrane-69DCD8A8EA_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-69DCD8A8EA_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-69DCD8A8EA_lynEGFP.xml"
+          }
         }
       }
     },
     "69DCD8A8EA_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-69DCD8A8EA_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-69DCD8A8EA_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-69DCD8A8EA_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-69DCD8A8EA_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-69DCD8A8EA_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-69DCD8A8EA_lynEGFP_seg"
+          }
+        }
       }
     },
     "69DCD8A8EA_lysotrackerdeepred": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/lysosomes-69DCD8A8EA_lysotrackerdeepred.xml",
-          "s3store": "images/remote/lysosomes-69DCD8A8EA_lysotrackerdeepred.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/lysosomes-69DCD8A8EA_lysotrackerdeepred.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/lysosomes-69DCD8A8EA_lysotrackerdeepred.xml"
+          }
         }
       }
     },
     "6B76772EDD_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-6B76772EDD_lynEGFP.xml",
-          "s3store": "images/remote/membrane-6B76772EDD_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-6B76772EDD_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-6B76772EDD_lynEGFP.xml"
+          }
         }
       }
     },
     "6B76772EDD_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-6B76772EDD_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-6B76772EDD_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-6B76772EDD_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-6B76772EDD_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-6B76772EDD_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-6B76772EDD_lynEGFP_seg"
+          }
+        }
       }
     },
     "6B76772EDD_lysotrackerdeepred": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/lysosomes-6B76772EDD_lysotrackerdeepred.xml",
-          "s3store": "images/remote/lysosomes-6B76772EDD_lysotrackerdeepred.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/lysosomes-6B76772EDD_lysotrackerdeepred.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/lysosomes-6B76772EDD_lysotrackerdeepred.xml"
+          }
         }
       }
     },
     "72966B3C13_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-72966B3C13_lynEGFP.xml",
-          "s3store": "images/remote/membrane-72966B3C13_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-72966B3C13_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-72966B3C13_lynEGFP.xml"
+          }
         }
       }
     },
     "72966B3C13_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-72966B3C13_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-72966B3C13_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-72966B3C13_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-72966B3C13_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-72966B3C13_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-72966B3C13_lynEGFP_seg"
+          }
+        }
       }
     },
     "72966B3C13_lysotrackerdeepred": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/lysosomes-72966B3C13_lysotrackerdeepred.xml",
-          "s3store": "images/remote/lysosomes-72966B3C13_lysotrackerdeepred.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/lysosomes-72966B3C13_lysotrackerdeepred.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/lysosomes-72966B3C13_lysotrackerdeepred.xml"
+          }
         }
       }
     },
     "87AA6901DC_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-87AA6901DC_lynEGFP.xml",
-          "s3store": "images/remote/membrane-87AA6901DC_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-87AA6901DC_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-87AA6901DC_lynEGFP.xml"
+          }
         }
       }
     },
     "87AA6901DC_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-87AA6901DC_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-87AA6901DC_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-87AA6901DC_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-87AA6901DC_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-87AA6901DC_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-87AA6901DC_lynEGFP_seg"
+          }
+        }
       }
     },
     "87AA6901DC_lysotrackerdeepred": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/lysosomes-87AA6901DC_lysotrackerdeepred.xml",
-          "s3store": "images/remote/lysosomes-87AA6901DC_lysotrackerdeepred.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/lysosomes-87AA6901DC_lysotrackerdeepred.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/lysosomes-87AA6901DC_lysotrackerdeepred.xml"
+          }
         }
       }
     },
     "8E0B101116_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-8E0B101116_lynEGFP.xml",
-          "s3store": "images/remote/membrane-8E0B101116_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-8E0B101116_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-8E0B101116_lynEGFP.xml"
+          }
         }
       }
     },
     "8E0B101116_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-8E0B101116_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-8E0B101116_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-8E0B101116_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-8E0B101116_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-8E0B101116_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-8E0B101116_lynEGFP_seg"
+          }
+        }
       }
     },
     "8E0B101116_lysotrackerdeepred": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/lysosomes-8E0B101116_lysotrackerdeepred.xml",
-          "s3store": "images/remote/lysosomes-8E0B101116_lysotrackerdeepred.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/lysosomes-8E0B101116_lysotrackerdeepred.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/lysosomes-8E0B101116_lysotrackerdeepred.xml"
+          }
         }
       }
     },
     "9134C9CCA6_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-9134C9CCA6_lynEGFP.xml",
-          "s3store": "images/remote/membrane-9134C9CCA6_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-9134C9CCA6_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-9134C9CCA6_lynEGFP.xml"
+          }
         }
       }
     },
     "9134C9CCA6_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-9134C9CCA6_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-9134C9CCA6_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-9134C9CCA6_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-9134C9CCA6_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-9134C9CCA6_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-9134C9CCA6_lynEGFP_seg"
+          }
+        }
       }
     },
     "9134C9CCA6_lysotrackerdeepred": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/lysosomes-9134C9CCA6_lysotrackerdeepred.xml",
-          "s3store": "images/remote/lysosomes-9134C9CCA6_lysotrackerdeepred.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/lysosomes-9134C9CCA6_lysotrackerdeepred.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/lysosomes-9134C9CCA6_lysotrackerdeepred.xml"
+          }
         }
       }
     },
     "91C50915A3_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-91C50915A3_lynEGFP.xml",
-          "s3store": "images/remote/membrane-91C50915A3_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-91C50915A3_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-91C50915A3_lynEGFP.xml"
+          }
         }
       }
     },
     "91C50915A3_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-91C50915A3_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-91C50915A3_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-91C50915A3_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-91C50915A3_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-91C50915A3_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-91C50915A3_lynEGFP_seg"
+          }
+        }
       }
     },
     "91C50915A3_lysotrackerdeepred": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/lysosomes-91C50915A3_lysotrackerdeepred.xml",
-          "s3store": "images/remote/lysosomes-91C50915A3_lysotrackerdeepred.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/lysosomes-91C50915A3_lysotrackerdeepred.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/lysosomes-91C50915A3_lysotrackerdeepred.xml"
+          }
         }
       }
     },
     "DA5B48D528_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-DA5B48D528_lynEGFP.xml",
-          "s3store": "images/remote/membrane-DA5B48D528_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-DA5B48D528_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-DA5B48D528_lynEGFP.xml"
+          }
         }
       }
     },
     "DA5B48D528_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-DA5B48D528_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-DA5B48D528_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-DA5B48D528_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-DA5B48D528_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-DA5B48D528_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-DA5B48D528_lynEGFP_seg"
+          }
+        }
       }
     },
     "DA5B48D528_lysotrackerdeepred": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/lysosomes-DA5B48D528_lysotrackerdeepred.xml",
-          "s3store": "images/remote/lysosomes-DA5B48D528_lysotrackerdeepred.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/lysosomes-DA5B48D528_lysotrackerdeepred.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/lysosomes-DA5B48D528_lysotrackerdeepred.xml"
+          }
         }
       }
     },
     "E536464063_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-E536464063_lynEGFP.xml",
-          "s3store": "images/remote/membrane-E536464063_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-E536464063_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-E536464063_lynEGFP.xml"
+          }
         }
       }
     },
     "E536464063_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-E536464063_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-E536464063_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-E536464063_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-E536464063_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-E536464063_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-E536464063_lynEGFP_seg"
+          }
+        }
       }
     },
     "E536464063_lysotrackerdeepred": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/lysosomes-E536464063_lysotrackerdeepred.xml",
-          "s3store": "images/remote/lysosomes-E536464063_lysotrackerdeepred.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/lysosomes-E536464063_lysotrackerdeepred.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/lysosomes-E536464063_lysotrackerdeepred.xml"
+          }
         }
       }
     },
     "E5821032EA_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-E5821032EA_lynEGFP.xml",
-          "s3store": "images/remote/membrane-E5821032EA_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-E5821032EA_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-E5821032EA_lynEGFP.xml"
+          }
         }
       }
     },
     "E5821032EA_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-E5821032EA_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-E5821032EA_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-E5821032EA_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-E5821032EA_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-E5821032EA_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-E5821032EA_lynEGFP_seg"
+          }
+        }
       }
     },
     "E5821032EA_lysotrackerdeepred": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/lysosomes-E5821032EA_lysotrackerdeepred.xml",
-          "s3store": "images/remote/lysosomes-E5821032EA_lysotrackerdeepred.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/lysosomes-E5821032EA_lysotrackerdeepred.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/lysosomes-E5821032EA_lysotrackerdeepred.xml"
+          }
         }
       }
     },
     "E641CD81AC_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-E641CD81AC_lynEGFP.xml",
-          "s3store": "images/remote/membrane-E641CD81AC_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-E641CD81AC_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-E641CD81AC_lynEGFP.xml"
+          }
         }
       }
     },
     "E641CD81AC_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-E641CD81AC_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-E641CD81AC_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-E641CD81AC_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-E641CD81AC_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-E641CD81AC_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-E641CD81AC_lynEGFP_seg"
+          }
+        }
       }
     },
     "E641CD81AC_lysotrackerdeepred": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/lysosomes-E641CD81AC_lysotrackerdeepred.xml",
-          "s3store": "images/remote/lysosomes-E641CD81AC_lysotrackerdeepred.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/lysosomes-E641CD81AC_lysotrackerdeepred.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/lysosomes-E641CD81AC_lysotrackerdeepred.xml"
+          }
         }
       }
     },
     "F6B5B972FB_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-F6B5B972FB_lynEGFP.xml",
-          "s3store": "images/remote/membrane-F6B5B972FB_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-F6B5B972FB_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-F6B5B972FB_lynEGFP.xml"
+          }
         }
       }
     },
     "F6B5B972FB_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-F6B5B972FB_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-F6B5B972FB_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-F6B5B972FB_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-F6B5B972FB_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-F6B5B972FB_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-F6B5B972FB_lynEGFP_seg"
+          }
+        }
       }
     },
     "F6B5B972FB_lysotrackerdeepred": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/lysosomes-F6B5B972FB_lysotrackerdeepred.xml",
-          "s3store": "images/remote/lysosomes-F6B5B972FB_lysotrackerdeepred.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/lysosomes-F6B5B972FB_lysotrackerdeepred.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/lysosomes-F6B5B972FB_lysotrackerdeepred.xml"
+          }
         }
       }
     },
     "FEE47C8063_lynEGFP": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-FEE47C8063_lynEGFP.xml",
-          "s3store": "images/remote/membrane-FEE47C8063_lynEGFP.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-FEE47C8063_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-FEE47C8063_lynEGFP.xml"
+          }
         }
       }
     },
     "FEE47C8063_lynEGFP_seg": {
       "segmentation": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/membrane-FEE47C8063_lynEGFP_seg.xml",
-          "s3store": "images/remote/membrane-FEE47C8063_lynEGFP_seg.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-FEE47C8063_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-FEE47C8063_lynEGFP_seg.xml"
+          }
         },
-        "tableDataLocation": "tables/membrane-FEE47C8063_lynEGFP_seg"
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-FEE47C8063_lynEGFP_seg"
+          }
+        }
       }
     },
     "FEE47C8063_lysotrackerdeepred": {
       "image": {
-        "imageDataLocations": {
-          "fileSystem": "images/local/lysosomes-FEE47C8063_lysotrackerdeepred.xml",
-          "s3store": "images/remote/lysosomes-FEE47C8063_lysotrackerdeepred.xml"
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/lysosomes-FEE47C8063_lysotrackerdeepred.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/lysosomes-FEE47C8063_lysotrackerdeepred.xml"
+          }
         }
       }
     }
@@ -1936,7 +2272,11 @@
                 "FEE47C8063_lysotrackerdeepred"
               ]
             ],
-            "tableDataLocation": "tables/grid-view"
+            "tableData": {
+              "tsv": {
+                "relativePath": "tables/grid-view"
+              }
+            }
           }
         }
       ],
@@ -2002,7 +2342,11 @@
                 "17F755A430_lysotrackerdeepred"
               ]
             ],
-            "tableDataLocation": "tables/small-grid-view"
+            "tableData": {
+              "tsv": {
+                "relativePath": "tables/small-grid-view"
+              }
+            }
           }
         }
       ],
