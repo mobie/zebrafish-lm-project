@@ -1796,8 +1796,8 @@
               "08B96BE794_lynEGFP_seg"
             ],
             "tables": [
-                "shape_CFOR_pca_measured",
-                "shape_TFOR_pca_measured"
+                "shape_CFOR_pca_measured.tsv",
+                "shape_TFOR_pca_measured.tsv"
             ]
           }
         }
