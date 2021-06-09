@@ -55,7 +55,8 @@
                 "0E48AB134C_lynEGFP_seg"
               ]
             ],
-            "tableDataLocation": "tables/medium-grid-view"
+            "tableData": {"tsv": {"relativePath": "tables/medium-grid-view"}},
+            "tables": ["default.tsv"]
           }
         }
       ],
