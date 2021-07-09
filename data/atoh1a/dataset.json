@@ -1505,83 +1505,84 @@
               "default.tsv"
             ]
           }
-        }
-      ],
-      "sourceTransforms": [
+        },
         {
-          "grid": {
-            "sources": [
-              [
+          "sourceAnnotationDisplay": {
+            "lut": "glasbey",
+            "name": "grid-view",
+            "opacity": 0.5,
+            "sources": {
+              "0": [
                 "119F60A8CE_atoh1a",
                 "119F60A8CE_lynEGFP",
                 "119F60A8CE_lynEGFP_seg"
               ],
-              [
+              "1": [
                 "464E37847A_atoh1a",
                 "464E37847A_lynEGFP",
                 "464E37847A_lynEGFP_seg"
               ],
-              [
+              "2": [
                 "4CDB5D1964_atoh1a",
                 "4CDB5D1964_lynEGFP",
                 "4CDB5D1964_lynEGFP_seg"
               ],
-              [
+              "3": [
                 "6525AAE2D9_atoh1a",
                 "6525AAE2D9_lynEGFP",
                 "6525AAE2D9_lynEGFP_seg"
               ],
-              [
+              "4": [
                 "66A939E038_atoh1a",
                 "66A939E038_lynEGFP",
                 "66A939E038_lynEGFP_seg"
               ],
-              [
+              "5": [
                 "6EA948A72F_atoh1a",
                 "6EA948A72F_lynEGFP",
                 "6EA948A72F_lynEGFP_seg"
               ],
-              [
+              "6": [
                 "762D43C95A_atoh1a",
                 "762D43C95A_lynEGFP",
                 "762D43C95A_lynEGFP_seg"
               ],
-              [
+              "7": [
                 "7B241168C9_atoh1a",
                 "7B241168C9_lynEGFP",
                 "7B241168C9_lynEGFP_seg"
               ],
-              [
+              "8": [
                 "7FBF9F8ABD_atoh1a",
                 "7FBF9F8ABD_lynEGFP",
                 "7FBF9F8ABD_lynEGFP_seg"
               ],
-              [
+              "9": [
                 "88B2F980DC_atoh1a",
                 "88B2F980DC_lynEGFP",
                 "88B2F980DC_lynEGFP_seg"
               ],
-              [
+              "10": [
                 "8B697371A1_atoh1a",
                 "8B697371A1_lynEGFP",
                 "8B697371A1_lynEGFP_seg"
               ],
-              [
+              "11": [
                 "9AEE3FC822_atoh1a",
                 "9AEE3FC822_lynEGFP",
                 "9AEE3FC822_lynEGFP_seg"
               ],
-              [
+              "12": [
                 "C477F10711_atoh1a",
                 "C477F10711_lynEGFP",
                 "C477F10711_lynEGFP_seg"
               ],
-              [
+              "13": [
                 "D995B41047_atoh1a",
                 "D995B41047_lynEGFP",
                 "D995B41047_lynEGFP_seg"
               ]
-            ],
+            },
             "tableData": {
               "tsv": {
                 "relativePath": "tables/grid-view"
@@ -1590,6 +1591,84 @@
             "tables": [
               "default.tsv"
             ]
+          }
+        }
+      ],
+      "sourceTransforms": [
+        {
+          "grid": {
+            "sources": {
+              "0": [
+                "119F60A8CE_atoh1a",
+                "119F60A8CE_lynEGFP",
+                "119F60A8CE_lynEGFP_seg"
+              ],
+              "1": [
+                "464E37847A_atoh1a",
+                "464E37847A_lynEGFP",
+                "464E37847A_lynEGFP_seg"
+              ],
+              "2": [
+                "4CDB5D1964_atoh1a",
+                "4CDB5D1964_lynEGFP",
+                "4CDB5D1964_lynEGFP_seg"
+              ],
+              "3": [
+                "6525AAE2D9_atoh1a",
+                "6525AAE2D9_lynEGFP",
+                "6525AAE2D9_lynEGFP_seg"
+              ],
+              "4": [
+                "66A939E038_atoh1a",
+                "66A939E038_lynEGFP",
+                "66A939E038_lynEGFP_seg"
+              ],
+              "5": [
+                "6EA948A72F_atoh1a",
+                "6EA948A72F_lynEGFP",
+                "6EA948A72F_lynEGFP_seg"
+              ],
+              "6": [
+                "762D43C95A_atoh1a",
+                "762D43C95A_lynEGFP",
+                "762D43C95A_lynEGFP_seg"
+              ],
+              "7": [
+                "7B241168C9_atoh1a",
+                "7B241168C9_lynEGFP",
+                "7B241168C9_lynEGFP_seg"
+              ],
+              "8": [
+                "7FBF9F8ABD_atoh1a",
+                "7FBF9F8ABD_lynEGFP",
+                "7FBF9F8ABD_lynEGFP_seg"
+              ],
+              "9": [
+                "88B2F980DC_atoh1a",
+                "88B2F980DC_lynEGFP",
+                "88B2F980DC_lynEGFP_seg"
+              ],
+              "10": [
+                "8B697371A1_atoh1a",
+                "8B697371A1_lynEGFP",
+                "8B697371A1_lynEGFP_seg"
+              ],
+              "11": [
+                "9AEE3FC822_atoh1a",
+                "9AEE3FC822_lynEGFP",
+                "9AEE3FC822_lynEGFP_seg"
+              ],
+              "12": [
+                "C477F10711_atoh1a",
+                "C477F10711_lynEGFP",
+                "C477F10711_lynEGFP_seg"
+              ],
+              "13": [
+                "D995B41047_atoh1a",
+                "D995B41047_lynEGFP",
+                "D995B41047_lynEGFP_seg"
+              ]
+            }
           }
         }
       ],
@@ -1641,23 +1720,24 @@
               "default.tsv"
             ]
           }
-        }
-      ],
-      "sourceTransforms": [
+        },
         {
-          "grid": {
-            "sources": [
-              [
+          "sourceAnnotationDisplay": {
+            "lut": "glasbey",
+            "name": "small-grid-view",
+            "opacity": 0.5,
+            "sources": {
+              "0": [
                 "119F60A8CE_atoh1a",
                 "119F60A8CE_lynEGFP",
                 "119F60A8CE_lynEGFP_seg"
               ],
-              [
+              "1": [
                 "464E37847A_atoh1a",
                 "464E37847A_lynEGFP",
                 "464E37847A_lynEGFP_seg"
               ]
-            ],
+            },
             "tableData": {
               "tsv": {
                 "relativePath": "tables/small-grid-view"
@@ -1666,6 +1746,24 @@
             "tables": [
               "default.tsv"
             ]
+          }
+        }
+      ],
+      "sourceTransforms": [
+        {
+          "grid": {
+            "sources": {
+              "0": [
+                "119F60A8CE_atoh1a",
+                "119F60A8CE_lynEGFP",
+                "119F60A8CE_lynEGFP_seg"
+              ],
+              "1": [
+                "464E37847A_atoh1a",
+                "464E37847A_lynEGFP",
+                "464E37847A_lynEGFP_seg"
+              ]
+            }
           }
         }
       ],

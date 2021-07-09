@@ -1402,78 +1402,79 @@
               "default.tsv"
             ]
           }
-        }
-      ],
-      "sourceTransforms": [
+        },
         {
-          "grid": {
-            "sources": [
-              [
+          "sourceAnnotationDisplay": {
+            "lut": "glasbey",
+            "name": "grid-view",
+            "opacity": 0.5,
+            "sources": {
+              "0": [
                 "09034FB7F0_CDMPRtagRFPt",
                 "09034FB7F0_lynEGFP",
                 "09034FB7F0_lynEGFP_seg"
               ],
-              [
+              "1": [
                 "13BE29A615_CDMPRtagRFPt",
                 "13BE29A615_lynEGFP",
                 "13BE29A615_lynEGFP_seg"
               ],
-              [
+              "2": [
                 "321DEF59FC_CDMPRtagRFPt",
                 "321DEF59FC_lynEGFP",
                 "321DEF59FC_lynEGFP_seg"
               ],
-              [
+              "3": [
                 "32FF7CB088_CDMPRtagRFPt",
                 "32FF7CB088_lynEGFP",
                 "32FF7CB088_lynEGFP_seg"
               ],
-              [
+              "4": [
                 "3CAACDE565_CDMPRtagRFPt",
                 "3CAACDE565_lynEGFP",
                 "3CAACDE565_lynEGFP_seg"
               ],
-              [
+              "5": [
                 "597E83AEEE_CDMPRtagRFPt",
                 "597E83AEEE_lynEGFP",
                 "597E83AEEE_lynEGFP_seg"
               ],
-              [
+              "6": [
                 "622ABBE65A_CDMPRtagRFPt",
                 "622ABBE65A_lynEGFP",
                 "622ABBE65A_lynEGFP_seg"
               ],
-              [
+              "7": [
                 "6E3DAA637E_CDMPRtagRFPt",
                 "6E3DAA637E_lynEGFP",
                 "6E3DAA637E_lynEGFP_seg"
               ],
-              [
+              "8": [
                 "7A19015670_CDMPRtagRFPt",
                 "7A19015670_lynEGFP",
                 "7A19015670_lynEGFP_seg"
               ],
-              [
+              "9": [
                 "C0FBC841C5_CDMPRtagRFPt",
                 "C0FBC841C5_lynEGFP",
                 "C0FBC841C5_lynEGFP_seg"
               ],
-              [
+              "10": [
                 "D7313FE224_CDMPRtagRFPt",
                 "D7313FE224_lynEGFP",
                 "D7313FE224_lynEGFP_seg"
               ],
-              [
+              "11": [
                 "D738F5D435_CDMPRtagRFPt",
                 "D738F5D435_lynEGFP",
                 "D738F5D435_lynEGFP_seg"
               ],
-              [
+              "12": [
                 "FC76253BAE_CDMPRtagRFPt",
                 "FC76253BAE_lynEGFP",
                 "FC76253BAE_lynEGFP_seg"
               ]
-            ],
+            },
             "tableData": {
               "tsv": {
                 "relativePath": "tables/grid-view"
@@ -1482,6 +1483,79 @@
             "tables": [
               "default.tsv"
             ]
+          }
+        }
+      ],
+      "sourceTransforms": [
+        {
+          "grid": {
+            "sources": {
+              "0": [
+                "09034FB7F0_CDMPRtagRFPt",
+                "09034FB7F0_lynEGFP",
+                "09034FB7F0_lynEGFP_seg"
+              ],
+              "1": [
+                "13BE29A615_CDMPRtagRFPt",
+                "13BE29A615_lynEGFP",
+                "13BE29A615_lynEGFP_seg"
+              ],
+              "2": [
+                "321DEF59FC_CDMPRtagRFPt",
+                "321DEF59FC_lynEGFP",
+                "321DEF59FC_lynEGFP_seg"
+              ],
+              "3": [
+                "32FF7CB088_CDMPRtagRFPt",
+                "32FF7CB088_lynEGFP",
+                "32FF7CB088_lynEGFP_seg"
+              ],
+              "4": [
+                "3CAACDE565_CDMPRtagRFPt",
+                "3CAACDE565_lynEGFP",
+                "3CAACDE565_lynEGFP_seg"
+              ],
+              "5": [
+                "597E83AEEE_CDMPRtagRFPt",
+                "597E83AEEE_lynEGFP",
+                "597E83AEEE_lynEGFP_seg"
+              ],
+              "6": [
+                "622ABBE65A_CDMPRtagRFPt",
+                "622ABBE65A_lynEGFP",
+                "622ABBE65A_lynEGFP_seg"
+              ],
+              "7": [
+                "6E3DAA637E_CDMPRtagRFPt",
+                "6E3DAA637E_lynEGFP",
+                "6E3DAA637E_lynEGFP_seg"
+              ],
+              "8": [
+                "7A19015670_CDMPRtagRFPt",
+                "7A19015670_lynEGFP",
+                "7A19015670_lynEGFP_seg"
+              ],
+              "9": [
+                "C0FBC841C5_CDMPRtagRFPt",
+                "C0FBC841C5_lynEGFP",
+                "C0FBC841C5_lynEGFP_seg"
+              ],
+              "10": [
+                "D7313FE224_CDMPRtagRFPt",
+                "D7313FE224_lynEGFP",
+                "D7313FE224_lynEGFP_seg"
+              ],
+              "11": [
+                "D738F5D435_CDMPRtagRFPt",
+                "D738F5D435_lynEGFP",
+                "D738F5D435_lynEGFP_seg"
+              ],
+              "12": [
+                "FC76253BAE_CDMPRtagRFPt",
+                "FC76253BAE_lynEGFP",
+                "FC76253BAE_lynEGFP_seg"
+              ]
+            }
           }
         }
       ],
@@ -1533,23 +1607,24 @@
               "default.tsv"
             ]
           }
-        }
-      ],
-      "sourceTransforms": [
+        },
         {
-          "grid": {
-            "sources": [
-              [
+          "sourceAnnotationDisplay": {
+            "lut": "glasbey",
+            "name": "small-grid-view",
+            "opacity": 0.5,
+            "sources": {
+              "0": [
                 "09034FB7F0_CDMPRtagRFPt",
                 "09034FB7F0_lynEGFP",
                 "09034FB7F0_lynEGFP_seg"
               ],
-              [
+              "1": [
                 "13BE29A615_CDMPRtagRFPt",
                 "13BE29A615_lynEGFP",
                 "13BE29A615_lynEGFP_seg"
               ]
-            ],
+            },
             "tableData": {
               "tsv": {
                 "relativePath": "tables/small-grid-view"
@@ -1558,6 +1633,24 @@
             "tables": [
               "default.tsv"
             ]
+          }
+        }
+      ],
+      "sourceTransforms": [
+        {
+          "grid": {
+            "sources": {
+              "0": [
+                "09034FB7F0_CDMPRtagRFPt",
+                "09034FB7F0_lynEGFP",
+                "09034FB7F0_lynEGFP_seg"
+              ],
+              "1": [
+                "13BE29A615_CDMPRtagRFPt",
+                "13BE29A615_lynEGFP",
+                "13BE29A615_lynEGFP_seg"
+              ]
+            }
           }
         }
       ],

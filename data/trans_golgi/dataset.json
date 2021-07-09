@@ -1093,63 +1093,64 @@
               "default.tsv"
             ]
           }
-        }
-      ],
-      "sourceTransforms": [
+        },
         {
-          "grid": {
-            "sources": [
-              [
+          "sourceAnnotationDisplay": {
+            "lut": "glasbey",
+            "name": "grid-view",
+            "opacity": 0.5,
+            "sources": {
+              "0": [
                 "0AF10D7E72_b4galT1tagRFPt",
                 "0AF10D7E72_lynEGFP",
                 "0AF10D7E72_lynEGFP_seg"
               ],
-              [
+              "1": [
                 "0BC19C020F_b4galT1tagRFPt",
                 "0BC19C020F_lynEGFP",
                 "0BC19C020F_lynEGFP_seg"
               ],
-              [
+              "2": [
                 "1648A8CC34_b4galT1tagRFPt",
                 "1648A8CC34_lynEGFP",
                 "1648A8CC34_lynEGFP_seg"
               ],
-              [
+              "3": [
                 "32DC08CA03_b4galT1tagRFPt",
                 "32DC08CA03_lynEGFP",
                 "32DC08CA03_lynEGFP_seg"
               ],
-              [
+              "4": [
                 "43665D3AE9_b4galT1tagRFPt",
                 "43665D3AE9_lynEGFP",
                 "43665D3AE9_lynEGFP_seg"
               ],
-              [
+              "5": [
                 "67FD8A06DA_b4galT1tagRFPt",
                 "67FD8A06DA_lynEGFP",
                 "67FD8A06DA_lynEGFP_seg"
               ],
-              [
+              "6": [
                 "9169ADF9A0_b4galT1tagRFPt",
                 "9169ADF9A0_lynEGFP",
                 "9169ADF9A0_lynEGFP_seg"
               ],
-              [
+              "7": [
                 "9B3C4C613D_b4galT1tagRFPt",
                 "9B3C4C613D_lynEGFP",
                 "9B3C4C613D_lynEGFP_seg"
               ],
-              [
+              "8": [
                 "C11B3A3777_b4galT1tagRFPt",
                 "C11B3A3777_lynEGFP",
                 "C11B3A3777_lynEGFP_seg"
               ],
-              [
+              "9": [
                 "DE267BC41F_b4galT1tagRFPt",
                 "DE267BC41F_lynEGFP",
                 "DE267BC41F_lynEGFP_seg"
               ]
-            ],
+            },
             "tableData": {
               "tsv": {
                 "relativePath": "tables/grid-view"
@@ -1158,6 +1159,64 @@
             "tables": [
               "default.tsv"
             ]
+          }
+        }
+      ],
+      "sourceTransforms": [
+        {
+          "grid": {
+            "sources": {
+              "0": [
+                "0AF10D7E72_b4galT1tagRFPt",
+                "0AF10D7E72_lynEGFP",
+                "0AF10D7E72_lynEGFP_seg"
+              ],
+              "1": [
+                "0BC19C020F_b4galT1tagRFPt",
+                "0BC19C020F_lynEGFP",
+                "0BC19C020F_lynEGFP_seg"
+              ],
+              "2": [
+                "1648A8CC34_b4galT1tagRFPt",
+                "1648A8CC34_lynEGFP",
+                "1648A8CC34_lynEGFP_seg"
+              ],
+              "3": [
+                "32DC08CA03_b4galT1tagRFPt",
+                "32DC08CA03_lynEGFP",
+                "32DC08CA03_lynEGFP_seg"
+              ],
+              "4": [
+                "43665D3AE9_b4galT1tagRFPt",
+                "43665D3AE9_lynEGFP",
+                "43665D3AE9_lynEGFP_seg"
+              ],
+              "5": [
+                "67FD8A06DA_b4galT1tagRFPt",
+                "67FD8A06DA_lynEGFP",
+                "67FD8A06DA_lynEGFP_seg"
+              ],
+              "6": [
+                "9169ADF9A0_b4galT1tagRFPt",
+                "9169ADF9A0_lynEGFP",
+                "9169ADF9A0_lynEGFP_seg"
+              ],
+              "7": [
+                "9B3C4C613D_b4galT1tagRFPt",
+                "9B3C4C613D_lynEGFP",
+                "9B3C4C613D_lynEGFP_seg"
+              ],
+              "8": [
+                "C11B3A3777_b4galT1tagRFPt",
+                "C11B3A3777_lynEGFP",
+                "C11B3A3777_lynEGFP_seg"
+              ],
+              "9": [
+                "DE267BC41F_b4galT1tagRFPt",
+                "DE267BC41F_lynEGFP",
+                "DE267BC41F_lynEGFP_seg"
+              ]
+            }
           }
         }
       ],
@@ -1209,23 +1268,24 @@
               "default.tsv"
             ]
           }
-        }
-      ],
-      "sourceTransforms": [
+        },
         {
-          "grid": {
-            "sources": [
-              [
+          "sourceAnnotationDisplay": {
+            "lut": "glasbey",
+            "name": "small-grid-view",
+            "opacity": 0.5,
+            "sources": {
+              "0": [
                 "0AF10D7E72_b4galT1tagRFPt",
                 "0AF10D7E72_lynEGFP",
                 "0AF10D7E72_lynEGFP_seg"
               ],
-              [
+              "1": [
                 "0BC19C020F_b4galT1tagRFPt",
                 "0BC19C020F_lynEGFP",
                 "0BC19C020F_lynEGFP_seg"
               ]
-            ],
+            },
             "tableData": {
               "tsv": {
                 "relativePath": "tables/small-grid-view"
@@ -1234,6 +1294,24 @@
             "tables": [
               "default.tsv"
             ]
+          }
+        }
+      ],
+      "sourceTransforms": [
+        {
+          "grid": {
+            "sources": {
+              "0": [
+                "0AF10D7E72_b4galT1tagRFPt",
+                "0AF10D7E72_lynEGFP",
+                "0AF10D7E72_lynEGFP_seg"
+              ],
+              "1": [
+                "0BC19C020F_b4galT1tagRFPt",
+                "0BC19C020F_lynEGFP",
+                "0BC19C020F_lynEGFP_seg"
+              ]
+            }
           }
         }
       ],

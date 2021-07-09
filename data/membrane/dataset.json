@@ -1730,109 +1730,110 @@
               "default.tsv"
             ]
           }
-        }
-      ],
-      "sourceTransforms": [
+        },
         {
-          "grid": {
-            "sources": [
-              [
+          "sourceAnnotationDisplay": {
+            "lut": "glasbey",
+            "name": "grid-view",
+            "opacity": 0.5,
+            "sources": {
+              "0": [
                 "056F63395C_lynEGFP",
                 "056F63395C_lynEGFP_seg"
               ],
-              [
+              "1": [
                 "08B96BE794_lynEGFP",
                 "08B96BE794_lynEGFP_seg"
               ],
-              [
+              "2": [
                 "0B51F8B46C_lynEGFP",
                 "0B51F8B46C_lynEGFP_seg"
               ],
-              [
+              "3": [
                 "0E48AB134C_lynEGFP",
                 "0E48AB134C_lynEGFP_seg"
               ],
-              [
+              "4": [
                 "1C43D83E9A_lynEGFP",
                 "1C43D83E9A_lynEGFP_seg"
               ],
-              [
+              "5": [
                 "22DF2AE1A0_lynEGFP",
                 "22DF2AE1A0_lynEGFP_seg"
               ],
-              [
+              "6": [
                 "2902E38204_lynEGFP",
                 "2902E38204_lynEGFP_seg"
               ],
-              [
+              "7": [
                 "2B23352582_lynEGFP",
                 "2B23352582_lynEGFP_seg"
               ],
-              [
+              "8": [
                 "3612A6CEF5_lynEGFP",
                 "3612A6CEF5_lynEGFP_seg"
               ],
-              [
+              "9": [
                 "4DC24FC301_lynEGFP",
                 "4DC24FC301_lynEGFP_seg"
               ],
-              [
+              "10": [
                 "673A65D087_lynEGFP",
                 "673A65D087_lynEGFP_seg"
               ],
-              [
+              "11": [
                 "6F18162F4C_lynEGFP",
                 "6F18162F4C_lynEGFP_seg"
               ],
-              [
+              "12": [
                 "8713481504_lynEGFP",
                 "8713481504_lynEGFP_seg"
               ],
-              [
+              "13": [
                 "8C633380D2_lynEGFP",
                 "8C633380D2_lynEGFP_seg"
               ],
-              [
+              "14": [
                 "8C83D4387F_lynEGFP",
                 "8C83D4387F_lynEGFP_seg"
               ],
-              [
+              "15": [
                 "8CA33561B5_lynEGFP",
                 "8CA33561B5_lynEGFP_seg"
               ],
-              [
+              "16": [
                 "AB98466077_lynEGFP",
                 "AB98466077_lynEGFP_seg"
               ],
-              [
+              "17": [
                 "B95A4F6D95_lynEGFP",
                 "B95A4F6D95_lynEGFP_seg"
               ],
-              [
+              "18": [
                 "C95F528559_lynEGFP",
                 "C95F528559_lynEGFP_seg"
               ],
-              [
+              "19": [
                 "CB87D7CBC9_lynEGFP",
                 "CB87D7CBC9_lynEGFP_seg"
               ],
-              [
+              "20": [
                 "E013272A99_lynEGFP",
                 "E013272A99_lynEGFP_seg"
               ],
-              [
+              "21": [
                 "E6E56C3F42_lynEGFP",
                 "E6E56C3F42_lynEGFP_seg"
               ],
-              [
+              "22": [
                 "EC77708A51_lynEGFP",
                 "EC77708A51_lynEGFP_seg"
               ],
-              [
+              "23": [
                 "FC90367714_lynEGFP",
                 "FC90367714_lynEGFP_seg"
               ]
-            ],
+            },
             "tableData": {
               "tsv": {
                 "relativePath": "tables/grid-view"
@@ -1841,6 +1842,110 @@
             "tables": [
               "default.tsv"
             ]
+          }
+        }
+      ],
+      "sourceTransforms": [
+        {
+          "grid": {
+            "sources": {
+              "0": [
+                "056F63395C_lynEGFP",
+                "056F63395C_lynEGFP_seg"
+              ],
+              "1": [
+                "08B96BE794_lynEGFP",
+                "08B96BE794_lynEGFP_seg"
+              ],
+              "2": [
+                "0B51F8B46C_lynEGFP",
+                "0B51F8B46C_lynEGFP_seg"
+              ],
+              "3": [
+                "0E48AB134C_lynEGFP",
+                "0E48AB134C_lynEGFP_seg"
+              ],
+              "4": [
+                "1C43D83E9A_lynEGFP",
+                "1C43D83E9A_lynEGFP_seg"
+              ],
+              "5": [
+                "22DF2AE1A0_lynEGFP",
+                "22DF2AE1A0_lynEGFP_seg"
+              ],
+              "6": [
+                "2902E38204_lynEGFP",
+                "2902E38204_lynEGFP_seg"
+              ],
+              "7": [
+                "2B23352582_lynEGFP",
+                "2B23352582_lynEGFP_seg"
+              ],
+              "8": [
+                "3612A6CEF5_lynEGFP",
+                "3612A6CEF5_lynEGFP_seg"
+              ],
+              "9": [
+                "4DC24FC301_lynEGFP",
+                "4DC24FC301_lynEGFP_seg"
+              ],
+              "10": [
+                "673A65D087_lynEGFP",
+                "673A65D087_lynEGFP_seg"
+              ],
+              "11": [
+                "6F18162F4C_lynEGFP",
+                "6F18162F4C_lynEGFP_seg"
+              ],
+              "12": [
+                "8713481504_lynEGFP",
+                "8713481504_lynEGFP_seg"
+              ],
+              "13": [
+                "8C633380D2_lynEGFP",
+                "8C633380D2_lynEGFP_seg"
+              ],
+              "14": [
+                "8C83D4387F_lynEGFP",
+                "8C83D4387F_lynEGFP_seg"
+              ],
+              "15": [
+                "8CA33561B5_lynEGFP",
+                "8CA33561B5_lynEGFP_seg"
+              ],
+              "16": [
+                "AB98466077_lynEGFP",
+                "AB98466077_lynEGFP_seg"
+              ],
+              "17": [
+                "B95A4F6D95_lynEGFP",
+                "B95A4F6D95_lynEGFP_seg"
+              ],
+              "18": [
+                "C95F528559_lynEGFP",
+                "C95F528559_lynEGFP_seg"
+              ],
+              "19": [
+                "CB87D7CBC9_lynEGFP",
+                "CB87D7CBC9_lynEGFP_seg"
+              ],
+              "20": [
+                "E013272A99_lynEGFP",
+                "E013272A99_lynEGFP_seg"
+              ],
+              "21": [
+                "E6E56C3F42_lynEGFP",
+                "E6E56C3F42_lynEGFP_seg"
+              ],
+              "22": [
+                "EC77708A51_lynEGFP",
+                "EC77708A51_lynEGFP_seg"
+              ],
+              "23": [
+                "FC90367714_lynEGFP",
+                "FC90367714_lynEGFP_seg"
+              ]
+            }
           }
         }
       ],
@@ -1879,21 +1984,22 @@
               "shape_TFOR_pca_measured.tsv"
             ]
           }
-        }
-      ],
-      "sourceTransforms": [
+        },
         {
-          "grid": {
-            "sources": [
-              [
+          "sourceAnnotationDisplay": {
+            "lut": "glasbey",
+            "name": "small-grid-view",
+            "opacity": 0.5,
+            "sources": {
+              "0": [
                 "056F63395C_lynEGFP",
                 "056F63395C_lynEGFP_seg"
               ],
-              [
+              "1": [
                 "08B96BE794_lynEGFP",
                 "08B96BE794_lynEGFP_seg"
               ]
-            ],
+            },
             "tableData": {
               "tsv": {
                 "relativePath": "tables/small-grid-view"
@@ -1902,6 +2008,22 @@
             "tables": [
               "default.tsv"
             ]
+          }
+        }
+      ],
+      "sourceTransforms": [
+        {
+          "grid": {
+            "sources": {
+              "0": [
+                "056F63395C_lynEGFP",
+                "056F63395C_lynEGFP_seg"
+              ],
+              "1": [
+                "08B96BE794_lynEGFP",
+                "08B96BE794_lynEGFP_seg"
+              ]
+            }
           }
         }
       ],
