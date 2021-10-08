@@ -1213,6 +1213,11 @@
                 "544D6C59FD_lynEGFP_seg",
                 "544D6C59FD_mKate2GM130"
               ],
+              "10": [
+                "EE11691237_lynEGFP",
+                "EE11691237_lynEGFP_seg",
+                "EE11691237_mKate2GM130"
+              ],
               "2": [
                 "655E9D7D39_lynEGFP",
                 "655E9D7D39_lynEGFP_seg",
@@ -1252,11 +1257,6 @@
                 "E99A87B085_lynEGFP",
                 "E99A87B085_lynEGFP_seg",
                 "E99A87B085_mKate2GM130"
-              ],
-              "10": [
-                "EE11691237_lynEGFP",
-                "EE11691237_lynEGFP_seg",
-                "EE11691237_mKate2GM130"
               ]
             },
             "tableData": {
@@ -1272,64 +1272,64 @@
       ],
       "sourceTransforms": [
         {
-          "grid": {
-            "sources": {
-              "0": [
+          "transformedGrid": {
+            "sources": [
+              [
                 "1A3F9F428A_lynEGFP",
                 "1A3F9F428A_lynEGFP_seg",
                 "1A3F9F428A_mKate2GM130"
               ],
-              "1": [
+              [
                 "544D6C59FD_lynEGFP",
                 "544D6C59FD_lynEGFP_seg",
                 "544D6C59FD_mKate2GM130"
               ],
-              "2": [
+              [
                 "655E9D7D39_lynEGFP",
                 "655E9D7D39_lynEGFP_seg",
                 "655E9D7D39_mKate2GM130"
               ],
-              "3": [
+              [
                 "6565C3193C_lynEGFP",
                 "6565C3193C_lynEGFP_seg",
                 "6565C3193C_mKate2GM130"
               ],
-              "4": [
+              [
                 "8494E67C25_lynEGFP",
                 "8494E67C25_lynEGFP_seg",
                 "8494E67C25_mKate2GM130"
               ],
-              "5": [
+              [
                 "BACFB0475A_lynEGFP",
                 "BACFB0475A_lynEGFP_seg",
                 "BACFB0475A_mKate2GM130"
               ],
-              "6": [
+              [
                 "D6B1A93BDE_lynEGFP",
                 "D6B1A93BDE_lynEGFP_seg",
                 "D6B1A93BDE_mKate2GM130"
               ],
-              "7": [
+              [
                 "DBD0449625_lynEGFP",
                 "DBD0449625_lynEGFP_seg",
                 "DBD0449625_mKate2GM130"
               ],
-              "8": [
+              [
                 "E63DB08265_lynEGFP",
                 "E63DB08265_lynEGFP_seg",
                 "E63DB08265_mKate2GM130"
               ],
-              "9": [
+              [
                 "E99A87B085_lynEGFP",
                 "E99A87B085_lynEGFP_seg",
                 "E99A87B085_mKate2GM130"
               ],
-              "10": [
+              [
                 "EE11691237_lynEGFP",
                 "EE11691237_lynEGFP_seg",
                 "EE11691237_mKate2GM130"
               ]
-            }
+            ]
           }
         }
       ],
@@ -1412,19 +1412,19 @@
       ],
       "sourceTransforms": [
         {
-          "grid": {
-            "sources": {
-              "0": [
+          "transformedGrid": {
+            "sources": [
+              [
                 "1A3F9F428A_lynEGFP",
                 "1A3F9F428A_lynEGFP_seg",
                 "1A3F9F428A_mKate2GM130"
               ],
-              "1": [
+              [
                 "544D6C59FD_lynEGFP",
                 "544D6C59FD_lynEGFP_seg",
                 "544D6C59FD_mKate2GM130"
               ]
-            }
+            ]
           }
         }
       ],

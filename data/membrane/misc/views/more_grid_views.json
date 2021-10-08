@@ -69,25 +69,25 @@
       ],
       "sourceTransforms": [
         {
-          "grid": {
-            "sources": {
-              "0": [
+          "transformedGrid": {
+            "sources": [
+              [
                 "056F63395C_lynEGFP",
                 "056F63395C_lynEGFP_seg"
               ],
-              "1": [
+              [
                 "08B96BE794_lynEGFP",
                 "08B96BE794_lynEGFP_seg"
               ],
-              "2": [
+              [
                 "0B51F8B46C_lynEGFP",
                 "0B51F8B46C_lynEGFP_seg"
               ],
-              "3": [
+              [
                 "0E48AB134C_lynEGFP",
                 "0E48AB134C_lynEGFP_seg"
               ]
-            }
+            ]
           }
         }
       ],

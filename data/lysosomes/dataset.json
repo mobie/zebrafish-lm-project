@@ -2243,46 +2243,6 @@
                 "17F755A430_lynEGFP_seg",
                 "17F755A430_lysotrackerdeepred"
               ],
-              "2": [
-                "2140A358CC_lynEGFP",
-                "2140A358CC_lynEGFP_seg",
-                "2140A358CC_lysotrackerdeepred"
-              ],
-              "3": [
-                "23BA70245C_lynEGFP",
-                "23BA70245C_lynEGFP_seg",
-                "23BA70245C_lysotrackerdeepred"
-              ],
-              "4": [
-                "4CFD671A2E_lynEGFP",
-                "4CFD671A2E_lynEGFP_seg",
-                "4CFD671A2E_lysotrackerdeepred"
-              ],
-              "5": [
-                "5485505C8F_lynEGFP",
-                "5485505C8F_lynEGFP_seg",
-                "5485505C8F_lysotrackerdeepred"
-              ],
-              "6": [
-                "63BC284B28_lynEGFP",
-                "63BC284B28_lynEGFP_seg",
-                "63BC284B28_lysotrackerdeepred"
-              ],
-              "7": [
-                "65B83F355D_lynEGFP",
-                "65B83F355D_lynEGFP_seg",
-                "65B83F355D_lysotrackerdeepred"
-              ],
-              "8": [
-                "69DCD8A8EA_lynEGFP",
-                "69DCD8A8EA_lynEGFP_seg",
-                "69DCD8A8EA_lysotrackerdeepred"
-              ],
-              "9": [
-                "6B76772EDD_lynEGFP",
-                "6B76772EDD_lynEGFP_seg",
-                "6B76772EDD_lysotrackerdeepred"
-              ],
               "10": [
                 "72966B3C13_lynEGFP",
                 "72966B3C13_lynEGFP_seg",
@@ -2333,10 +2293,50 @@
                 "F6B5B972FB_lynEGFP_seg",
                 "F6B5B972FB_lysotrackerdeepred"
               ],
+              "2": [
+                "2140A358CC_lynEGFP",
+                "2140A358CC_lynEGFP_seg",
+                "2140A358CC_lysotrackerdeepred"
+              ],
               "20": [
                 "FEE47C8063_lynEGFP",
                 "FEE47C8063_lynEGFP_seg",
                 "FEE47C8063_lysotrackerdeepred"
+              ],
+              "3": [
+                "23BA70245C_lynEGFP",
+                "23BA70245C_lynEGFP_seg",
+                "23BA70245C_lysotrackerdeepred"
+              ],
+              "4": [
+                "4CFD671A2E_lynEGFP",
+                "4CFD671A2E_lynEGFP_seg",
+                "4CFD671A2E_lysotrackerdeepred"
+              ],
+              "5": [
+                "5485505C8F_lynEGFP",
+                "5485505C8F_lynEGFP_seg",
+                "5485505C8F_lysotrackerdeepred"
+              ],
+              "6": [
+                "63BC284B28_lynEGFP",
+                "63BC284B28_lynEGFP_seg",
+                "63BC284B28_lysotrackerdeepred"
+              ],
+              "7": [
+                "65B83F355D_lynEGFP",
+                "65B83F355D_lynEGFP_seg",
+                "65B83F355D_lysotrackerdeepred"
+              ],
+              "8": [
+                "69DCD8A8EA_lynEGFP",
+                "69DCD8A8EA_lynEGFP_seg",
+                "69DCD8A8EA_lysotrackerdeepred"
+              ],
+              "9": [
+                "6B76772EDD_lynEGFP",
+                "6B76772EDD_lynEGFP_seg",
+                "6B76772EDD_lysotrackerdeepred"
               ]
             },
             "tableData": {
@@ -2352,114 +2352,114 @@
       ],
       "sourceTransforms": [
         {
-          "grid": {
-            "sources": {
-              "0": [
+          "transformedGrid": {
+            "sources": [
+              [
                 "128F6F3122_lynEGFP",
                 "128F6F3122_lynEGFP_seg",
                 "128F6F3122_lysotrackerdeepred"
               ],
-              "1": [
+              [
                 "17F755A430_lynEGFP",
                 "17F755A430_lynEGFP_seg",
                 "17F755A430_lysotrackerdeepred"
               ],
-              "2": [
+              [
                 "2140A358CC_lynEGFP",
                 "2140A358CC_lynEGFP_seg",
                 "2140A358CC_lysotrackerdeepred"
               ],
-              "3": [
+              [
                 "23BA70245C_lynEGFP",
                 "23BA70245C_lynEGFP_seg",
                 "23BA70245C_lysotrackerdeepred"
               ],
-              "4": [
+              [
                 "4CFD671A2E_lynEGFP",
                 "4CFD671A2E_lynEGFP_seg",
                 "4CFD671A2E_lysotrackerdeepred"
               ],
-              "5": [
+              [
                 "5485505C8F_lynEGFP",
                 "5485505C8F_lynEGFP_seg",
                 "5485505C8F_lysotrackerdeepred"
               ],
-              "6": [
+              [
                 "63BC284B28_lynEGFP",
                 "63BC284B28_lynEGFP_seg",
                 "63BC284B28_lysotrackerdeepred"
               ],
-              "7": [
+              [
                 "65B83F355D_lynEGFP",
                 "65B83F355D_lynEGFP_seg",
                 "65B83F355D_lysotrackerdeepred"
               ],
-              "8": [
+              [
                 "69DCD8A8EA_lynEGFP",
                 "69DCD8A8EA_lynEGFP_seg",
                 "69DCD8A8EA_lysotrackerdeepred"
               ],
-              "9": [
+              [
                 "6B76772EDD_lynEGFP",
                 "6B76772EDD_lynEGFP_seg",
                 "6B76772EDD_lysotrackerdeepred"
               ],
-              "10": [
+              [
                 "72966B3C13_lynEGFP",
                 "72966B3C13_lynEGFP_seg",
                 "72966B3C13_lysotrackerdeepred"
               ],
-              "11": [
+              [
                 "87AA6901DC_lynEGFP",
                 "87AA6901DC_lynEGFP_seg",
                 "87AA6901DC_lysotrackerdeepred"
               ],
-              "12": [
+              [
                 "8E0B101116_lynEGFP",
                 "8E0B101116_lynEGFP_seg",
                 "8E0B101116_lysotrackerdeepred"
               ],
-              "13": [
+              [
                 "9134C9CCA6_lynEGFP",
                 "9134C9CCA6_lynEGFP_seg",
                 "9134C9CCA6_lysotrackerdeepred"
               ],
-              "14": [
+              [
                 "91C50915A3_lynEGFP",
                 "91C50915A3_lynEGFP_seg",
                 "91C50915A3_lysotrackerdeepred"
               ],
-              "15": [
+              [
                 "DA5B48D528_lynEGFP",
                 "DA5B48D528_lynEGFP_seg",
                 "DA5B48D528_lysotrackerdeepred"
               ],
-              "16": [
+              [
                 "E536464063_lynEGFP",
                 "E536464063_lynEGFP_seg",
                 "E536464063_lysotrackerdeepred"
               ],
-              "17": [
+              [
                 "E5821032EA_lynEGFP",
                 "E5821032EA_lynEGFP_seg",
                 "E5821032EA_lysotrackerdeepred"
               ],
-              "18": [
+              [
                 "E641CD81AC_lynEGFP",
                 "E641CD81AC_lynEGFP_seg",
                 "E641CD81AC_lysotrackerdeepred"
               ],
-              "19": [
+              [
                 "F6B5B972FB_lynEGFP",
                 "F6B5B972FB_lynEGFP_seg",
                 "F6B5B972FB_lysotrackerdeepred"
               ],
-              "20": [
+              [
                 "FEE47C8063_lynEGFP",
                 "FEE47C8063_lynEGFP_seg",
                 "FEE47C8063_lysotrackerdeepred"
               ]
-            }
+            ]
           }
         }
       ],
@@ -2542,19 +2542,19 @@
       ],
       "sourceTransforms": [
         {
-          "grid": {
-            "sources": {
-              "0": [
+          "transformedGrid": {
+            "sources": [
+              [
                 "128F6F3122_lynEGFP",
                 "128F6F3122_lynEGFP_seg",
                 "128F6F3122_lysotrackerdeepred"
               ],
-              "1": [
+              [
                 "17F755A430_lynEGFP",
                 "17F755A430_lynEGFP_seg",
                 "17F755A430_lysotrackerdeepred"
               ]
-            }
+            ]
           }
         }
       ],
