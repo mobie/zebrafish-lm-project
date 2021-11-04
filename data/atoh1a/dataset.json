@@ -1,0 +1,1773 @@
+{
+  "is2D": false,
+  "sources": {
+    "119F60A8CE_atoh1a": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/atoh1a-119F60A8CE_atoh1a.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/atoh1a-119F60A8CE_atoh1a.xml"
+          }
+        }
+      }
+    },
+    "119F60A8CE_lynEGFP": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-119F60A8CE_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-119F60A8CE_lynEGFP.xml"
+          }
+        }
+      }
+    },
+    "119F60A8CE_lynEGFP_seg": {
+      "segmentation": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-119F60A8CE_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-119F60A8CE_lynEGFP_seg.xml"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-119F60A8CE_lynEGFP_seg"
+          }
+        }
+      }
+    },
+    "464E37847A_atoh1a": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/atoh1a-464E37847A_atoh1a.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/atoh1a-464E37847A_atoh1a.xml"
+          }
+        }
+      }
+    },
+    "464E37847A_lynEGFP": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-464E37847A_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-464E37847A_lynEGFP.xml"
+          }
+        }
+      }
+    },
+    "464E37847A_lynEGFP_seg": {
+      "segmentation": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-464E37847A_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-464E37847A_lynEGFP_seg.xml"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-464E37847A_lynEGFP_seg"
+          }
+        }
+      }
+    },
+    "4CDB5D1964_atoh1a": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/atoh1a-4CDB5D1964_atoh1a.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/atoh1a-4CDB5D1964_atoh1a.xml"
+          }
+        }
+      }
+    },
+    "4CDB5D1964_lynEGFP": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-4CDB5D1964_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-4CDB5D1964_lynEGFP.xml"
+          }
+        }
+      }
+    },
+    "4CDB5D1964_lynEGFP_seg": {
+      "segmentation": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-4CDB5D1964_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-4CDB5D1964_lynEGFP_seg.xml"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-4CDB5D1964_lynEGFP_seg"
+          }
+        }
+      }
+    },
+    "6525AAE2D9_atoh1a": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/atoh1a-6525AAE2D9_atoh1a.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/atoh1a-6525AAE2D9_atoh1a.xml"
+          }
+        }
+      }
+    },
+    "6525AAE2D9_lynEGFP": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-6525AAE2D9_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-6525AAE2D9_lynEGFP.xml"
+          }
+        }
+      }
+    },
+    "6525AAE2D9_lynEGFP_seg": {
+      "segmentation": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-6525AAE2D9_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-6525AAE2D9_lynEGFP_seg.xml"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-6525AAE2D9_lynEGFP_seg"
+          }
+        }
+      }
+    },
+    "66A939E038_atoh1a": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/atoh1a-66A939E038_atoh1a.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/atoh1a-66A939E038_atoh1a.xml"
+          }
+        }
+      }
+    },
+    "66A939E038_lynEGFP": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-66A939E038_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-66A939E038_lynEGFP.xml"
+          }
+        }
+      }
+    },
+    "66A939E038_lynEGFP_seg": {
+      "segmentation": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-66A939E038_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-66A939E038_lynEGFP_seg.xml"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-66A939E038_lynEGFP_seg"
+          }
+        }
+      }
+    },
+    "6EA948A72F_atoh1a": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/atoh1a-6EA948A72F_atoh1a.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/atoh1a-6EA948A72F_atoh1a.xml"
+          }
+        }
+      }
+    },
+    "6EA948A72F_lynEGFP": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-6EA948A72F_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-6EA948A72F_lynEGFP.xml"
+          }
+        }
+      }
+    },
+    "6EA948A72F_lynEGFP_seg": {
+      "segmentation": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-6EA948A72F_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-6EA948A72F_lynEGFP_seg.xml"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-6EA948A72F_lynEGFP_seg"
+          }
+        }
+      }
+    },
+    "762D43C95A_atoh1a": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/atoh1a-762D43C95A_atoh1a.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/atoh1a-762D43C95A_atoh1a.xml"
+          }
+        }
+      }
+    },
+    "762D43C95A_lynEGFP": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-762D43C95A_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-762D43C95A_lynEGFP.xml"
+          }
+        }
+      }
+    },
+    "762D43C95A_lynEGFP_seg": {
+      "segmentation": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-762D43C95A_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-762D43C95A_lynEGFP_seg.xml"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-762D43C95A_lynEGFP_seg"
+          }
+        }
+      }
+    },
+    "7B241168C9_atoh1a": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/atoh1a-7B241168C9_atoh1a.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/atoh1a-7B241168C9_atoh1a.xml"
+          }
+        }
+      }
+    },
+    "7B241168C9_lynEGFP": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-7B241168C9_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-7B241168C9_lynEGFP.xml"
+          }
+        }
+      }
+    },
+    "7B241168C9_lynEGFP_seg": {
+      "segmentation": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-7B241168C9_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-7B241168C9_lynEGFP_seg.xml"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-7B241168C9_lynEGFP_seg"
+          }
+        }
+      }
+    },
+    "7FBF9F8ABD_atoh1a": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/atoh1a-7FBF9F8ABD_atoh1a.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/atoh1a-7FBF9F8ABD_atoh1a.xml"
+          }
+        }
+      }
+    },
+    "7FBF9F8ABD_lynEGFP": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-7FBF9F8ABD_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-7FBF9F8ABD_lynEGFP.xml"
+          }
+        }
+      }
+    },
+    "7FBF9F8ABD_lynEGFP_seg": {
+      "segmentation": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-7FBF9F8ABD_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-7FBF9F8ABD_lynEGFP_seg.xml"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-7FBF9F8ABD_lynEGFP_seg"
+          }
+        }
+      }
+    },
+    "88B2F980DC_atoh1a": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/atoh1a-88B2F980DC_atoh1a.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/atoh1a-88B2F980DC_atoh1a.xml"
+          }
+        }
+      }
+    },
+    "88B2F980DC_lynEGFP": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-88B2F980DC_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-88B2F980DC_lynEGFP.xml"
+          }
+        }
+      }
+    },
+    "88B2F980DC_lynEGFP_seg": {
+      "segmentation": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-88B2F980DC_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-88B2F980DC_lynEGFP_seg.xml"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-88B2F980DC_lynEGFP_seg"
+          }
+        }
+      }
+    },
+    "8B697371A1_atoh1a": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/atoh1a-8B697371A1_atoh1a.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/atoh1a-8B697371A1_atoh1a.xml"
+          }
+        }
+      }
+    },
+    "8B697371A1_lynEGFP": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-8B697371A1_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-8B697371A1_lynEGFP.xml"
+          }
+        }
+      }
+    },
+    "8B697371A1_lynEGFP_seg": {
+      "segmentation": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-8B697371A1_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-8B697371A1_lynEGFP_seg.xml"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-8B697371A1_lynEGFP_seg"
+          }
+        }
+      }
+    },
+    "9AEE3FC822_atoh1a": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/atoh1a-9AEE3FC822_atoh1a.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/atoh1a-9AEE3FC822_atoh1a.xml"
+          }
+        }
+      }
+    },
+    "9AEE3FC822_lynEGFP": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-9AEE3FC822_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-9AEE3FC822_lynEGFP.xml"
+          }
+        }
+      }
+    },
+    "9AEE3FC822_lynEGFP_seg": {
+      "segmentation": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-9AEE3FC822_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-9AEE3FC822_lynEGFP_seg.xml"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-9AEE3FC822_lynEGFP_seg"
+          }
+        }
+      }
+    },
+    "C477F10711_atoh1a": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/atoh1a-C477F10711_atoh1a.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/atoh1a-C477F10711_atoh1a.xml"
+          }
+        }
+      }
+    },
+    "C477F10711_lynEGFP": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-C477F10711_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-C477F10711_lynEGFP.xml"
+          }
+        }
+      }
+    },
+    "C477F10711_lynEGFP_seg": {
+      "segmentation": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-C477F10711_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-C477F10711_lynEGFP_seg.xml"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-C477F10711_lynEGFP_seg"
+          }
+        }
+      }
+    },
+    "D995B41047_atoh1a": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/atoh1a-D995B41047_atoh1a.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/atoh1a-D995B41047_atoh1a.xml"
+          }
+        }
+      }
+    },
+    "D995B41047_lynEGFP": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-D995B41047_lynEGFP.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-D995B41047_lynEGFP.xml"
+          }
+        }
+      }
+    },
+    "D995B41047_lynEGFP_seg": {
+      "segmentation": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/membrane-D995B41047_lynEGFP_seg.xml"
+          },
+          "bdv.n5.s3": {
+            "relativePath": "images/remote/membrane-D995B41047_lynEGFP_seg.xml"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/membrane-D995B41047_lynEGFP_seg"
+          }
+        }
+      }
+    }
+  },
+  "views": {
+    "119F60A8CE_atoh1a": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "119F60A8CE_atoh1a",
+            "opacity": 1.0,
+            "sources": [
+              "119F60A8CE_atoh1a"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "atoh1a"
+    },
+    "119F60A8CE_lynEGFP": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "119F60A8CE_lynEGFP",
+            "opacity": 1.0,
+            "sources": [
+              "119F60A8CE_lynEGFP"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "119F60A8CE_lynEGFP_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "119F60A8CE_lynEGFP_seg",
+            "opacity": 0.5,
+            "sources": [
+              "119F60A8CE_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "464E37847A_atoh1a": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "464E37847A_atoh1a",
+            "opacity": 1.0,
+            "sources": [
+              "464E37847A_atoh1a"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "atoh1a"
+    },
+    "464E37847A_lynEGFP": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "464E37847A_lynEGFP",
+            "opacity": 1.0,
+            "sources": [
+              "464E37847A_lynEGFP"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "464E37847A_lynEGFP_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "464E37847A_lynEGFP_seg",
+            "opacity": 0.5,
+            "sources": [
+              "464E37847A_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "4CDB5D1964_atoh1a": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "4CDB5D1964_atoh1a",
+            "opacity": 1.0,
+            "sources": [
+              "4CDB5D1964_atoh1a"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "atoh1a"
+    },
+    "4CDB5D1964_lynEGFP": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "4CDB5D1964_lynEGFP",
+            "opacity": 1.0,
+            "sources": [
+              "4CDB5D1964_lynEGFP"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "4CDB5D1964_lynEGFP_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "4CDB5D1964_lynEGFP_seg",
+            "opacity": 0.5,
+            "sources": [
+              "4CDB5D1964_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "6525AAE2D9_atoh1a": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "6525AAE2D9_atoh1a",
+            "opacity": 1.0,
+            "sources": [
+              "6525AAE2D9_atoh1a"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "atoh1a"
+    },
+    "6525AAE2D9_lynEGFP": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "6525AAE2D9_lynEGFP",
+            "opacity": 1.0,
+            "sources": [
+              "6525AAE2D9_lynEGFP"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "6525AAE2D9_lynEGFP_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "6525AAE2D9_lynEGFP_seg",
+            "opacity": 0.5,
+            "sources": [
+              "6525AAE2D9_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "66A939E038_atoh1a": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "66A939E038_atoh1a",
+            "opacity": 1.0,
+            "sources": [
+              "66A939E038_atoh1a"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "atoh1a"
+    },
+    "66A939E038_lynEGFP": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "66A939E038_lynEGFP",
+            "opacity": 1.0,
+            "sources": [
+              "66A939E038_lynEGFP"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "66A939E038_lynEGFP_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "66A939E038_lynEGFP_seg",
+            "opacity": 0.5,
+            "sources": [
+              "66A939E038_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "6EA948A72F_atoh1a": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "6EA948A72F_atoh1a",
+            "opacity": 1.0,
+            "sources": [
+              "6EA948A72F_atoh1a"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "atoh1a"
+    },
+    "6EA948A72F_lynEGFP": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "6EA948A72F_lynEGFP",
+            "opacity": 1.0,
+            "sources": [
+              "6EA948A72F_lynEGFP"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "6EA948A72F_lynEGFP_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "6EA948A72F_lynEGFP_seg",
+            "opacity": 0.5,
+            "sources": [
+              "6EA948A72F_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "762D43C95A_atoh1a": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "762D43C95A_atoh1a",
+            "opacity": 1.0,
+            "sources": [
+              "762D43C95A_atoh1a"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "atoh1a"
+    },
+    "762D43C95A_lynEGFP": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "762D43C95A_lynEGFP",
+            "opacity": 1.0,
+            "sources": [
+              "762D43C95A_lynEGFP"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "762D43C95A_lynEGFP_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "762D43C95A_lynEGFP_seg",
+            "opacity": 0.5,
+            "sources": [
+              "762D43C95A_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "7B241168C9_atoh1a": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "7B241168C9_atoh1a",
+            "opacity": 1.0,
+            "sources": [
+              "7B241168C9_atoh1a"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "atoh1a"
+    },
+    "7B241168C9_lynEGFP": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "7B241168C9_lynEGFP",
+            "opacity": 1.0,
+            "sources": [
+              "7B241168C9_lynEGFP"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "7B241168C9_lynEGFP_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "7B241168C9_lynEGFP_seg",
+            "opacity": 0.5,
+            "sources": [
+              "7B241168C9_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "7FBF9F8ABD_atoh1a": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "7FBF9F8ABD_atoh1a",
+            "opacity": 1.0,
+            "sources": [
+              "7FBF9F8ABD_atoh1a"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "atoh1a"
+    },
+    "7FBF9F8ABD_lynEGFP": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "7FBF9F8ABD_lynEGFP",
+            "opacity": 1.0,
+            "sources": [
+              "7FBF9F8ABD_lynEGFP"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "7FBF9F8ABD_lynEGFP_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "7FBF9F8ABD_lynEGFP_seg",
+            "opacity": 0.5,
+            "sources": [
+              "7FBF9F8ABD_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "88B2F980DC_atoh1a": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "88B2F980DC_atoh1a",
+            "opacity": 1.0,
+            "sources": [
+              "88B2F980DC_atoh1a"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "atoh1a"
+    },
+    "88B2F980DC_lynEGFP": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "88B2F980DC_lynEGFP",
+            "opacity": 1.0,
+            "sources": [
+              "88B2F980DC_lynEGFP"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "88B2F980DC_lynEGFP_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "88B2F980DC_lynEGFP_seg",
+            "opacity": 0.5,
+            "sources": [
+              "88B2F980DC_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "8B697371A1_atoh1a": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "8B697371A1_atoh1a",
+            "opacity": 1.0,
+            "sources": [
+              "8B697371A1_atoh1a"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "atoh1a"
+    },
+    "8B697371A1_lynEGFP": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "8B697371A1_lynEGFP",
+            "opacity": 1.0,
+            "sources": [
+              "8B697371A1_lynEGFP"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "8B697371A1_lynEGFP_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "8B697371A1_lynEGFP_seg",
+            "opacity": 0.5,
+            "sources": [
+              "8B697371A1_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "9AEE3FC822_atoh1a": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "9AEE3FC822_atoh1a",
+            "opacity": 1.0,
+            "sources": [
+              "9AEE3FC822_atoh1a"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "atoh1a"
+    },
+    "9AEE3FC822_lynEGFP": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "9AEE3FC822_lynEGFP",
+            "opacity": 1.0,
+            "sources": [
+              "9AEE3FC822_lynEGFP"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "9AEE3FC822_lynEGFP_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "9AEE3FC822_lynEGFP_seg",
+            "opacity": 0.5,
+            "sources": [
+              "9AEE3FC822_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "C477F10711_atoh1a": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "C477F10711_atoh1a",
+            "opacity": 1.0,
+            "sources": [
+              "C477F10711_atoh1a"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "atoh1a"
+    },
+    "C477F10711_lynEGFP": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "C477F10711_lynEGFP",
+            "opacity": 1.0,
+            "sources": [
+              "C477F10711_lynEGFP"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "C477F10711_lynEGFP_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "C477F10711_lynEGFP_seg",
+            "opacity": 0.5,
+            "sources": [
+              "C477F10711_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "D995B41047_atoh1a": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "D995B41047_atoh1a",
+            "opacity": 1.0,
+            "sources": [
+              "D995B41047_atoh1a"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "atoh1a"
+    },
+    "D995B41047_lynEGFP": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "D995B41047_lynEGFP",
+            "opacity": 1.0,
+            "sources": [
+              "D995B41047_lynEGFP"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane"
+    },
+    "D995B41047_lynEGFP_seg": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "D995B41047_lynEGFP_seg",
+            "opacity": 0.5,
+            "sources": [
+              "D995B41047_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "membrane-segmentation"
+    },
+    "default": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "119F60A8CE_lynEGFP",
+            "opacity": 1.0,
+            "sources": [
+              "119F60A8CE_lynEGFP"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark"
+    },
+    "grid-view": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "green",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "atoh1a",
+            "opacity": 1.0,
+            "sources": [
+              "119F60A8CE_atoh1a",
+              "464E37847A_atoh1a",
+              "4CDB5D1964_atoh1a",
+              "6525AAE2D9_atoh1a",
+              "66A939E038_atoh1a",
+              "6EA948A72F_atoh1a",
+              "762D43C95A_atoh1a",
+              "7B241168C9_atoh1a",
+              "7FBF9F8ABD_atoh1a",
+              "88B2F980DC_atoh1a",
+              "8B697371A1_atoh1a",
+              "9AEE3FC822_atoh1a",
+              "C477F10711_atoh1a",
+              "D995B41047_atoh1a"
+            ]
+          }
+        },
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "membrane",
+            "opacity": 1.0,
+            "sources": [
+              "119F60A8CE_lynEGFP",
+              "464E37847A_lynEGFP",
+              "4CDB5D1964_lynEGFP",
+              "6525AAE2D9_lynEGFP",
+              "66A939E038_lynEGFP",
+              "6EA948A72F_lynEGFP",
+              "762D43C95A_lynEGFP",
+              "7B241168C9_lynEGFP",
+              "7FBF9F8ABD_lynEGFP",
+              "88B2F980DC_lynEGFP",
+              "8B697371A1_lynEGFP",
+              "9AEE3FC822_lynEGFP",
+              "C477F10711_lynEGFP",
+              "D995B41047_lynEGFP"
+            ]
+          }
+        },
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "membrane-segmentation",
+            "opacity": 0.5,
+            "sources": [
+              "119F60A8CE_lynEGFP_seg",
+              "464E37847A_lynEGFP_seg",
+              "4CDB5D1964_lynEGFP_seg",
+              "6525AAE2D9_lynEGFP_seg",
+              "66A939E038_lynEGFP_seg",
+              "6EA948A72F_lynEGFP_seg",
+              "762D43C95A_lynEGFP_seg",
+              "7B241168C9_lynEGFP_seg",
+              "7FBF9F8ABD_lynEGFP_seg",
+              "88B2F980DC_lynEGFP_seg",
+              "8B697371A1_lynEGFP_seg",
+              "9AEE3FC822_lynEGFP_seg",
+              "C477F10711_lynEGFP_seg",
+              "D995B41047_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
+            ]
+          }
+        },
+        {
+          "sourceAnnotationDisplay": {
+            "lut": "glasbey",
+            "name": "grid-view",
+            "opacity": 0.5,
+            "sources": {
+              "0": [
+                "119F60A8CE_atoh1a",
+                "119F60A8CE_lynEGFP",
+                "119F60A8CE_lynEGFP_seg"
+              ],
+              "1": [
+                "464E37847A_atoh1a",
+                "464E37847A_lynEGFP",
+                "464E37847A_lynEGFP_seg"
+              ],
+              "10": [
+                "8B697371A1_atoh1a",
+                "8B697371A1_lynEGFP",
+                "8B697371A1_lynEGFP_seg"
+              ],
+              "11": [
+                "9AEE3FC822_atoh1a",
+                "9AEE3FC822_lynEGFP",
+                "9AEE3FC822_lynEGFP_seg"
+              ],
+              "12": [
+                "C477F10711_atoh1a",
+                "C477F10711_lynEGFP",
+                "C477F10711_lynEGFP_seg"
+              ],
+              "13": [
+                "D995B41047_atoh1a",
+                "D995B41047_lynEGFP",
+                "D995B41047_lynEGFP_seg"
+              ],
+              "2": [
+                "4CDB5D1964_atoh1a",
+                "4CDB5D1964_lynEGFP",
+                "4CDB5D1964_lynEGFP_seg"
+              ],
+              "3": [
+                "6525AAE2D9_atoh1a",
+                "6525AAE2D9_lynEGFP",
+                "6525AAE2D9_lynEGFP_seg"
+              ],
+              "4": [
+                "66A939E038_atoh1a",
+                "66A939E038_lynEGFP",
+                "66A939E038_lynEGFP_seg"
+              ],
+              "5": [
+                "6EA948A72F_atoh1a",
+                "6EA948A72F_lynEGFP",
+                "6EA948A72F_lynEGFP_seg"
+              ],
+              "6": [
+                "762D43C95A_atoh1a",
+                "762D43C95A_lynEGFP",
+                "762D43C95A_lynEGFP_seg"
+              ],
+              "7": [
+                "7B241168C9_atoh1a",
+                "7B241168C9_lynEGFP",
+                "7B241168C9_lynEGFP_seg"
+              ],
+              "8": [
+                "7FBF9F8ABD_atoh1a",
+                "7FBF9F8ABD_lynEGFP",
+                "7FBF9F8ABD_lynEGFP_seg"
+              ],
+              "9": [
+                "88B2F980DC_atoh1a",
+                "88B2F980DC_lynEGFP",
+                "88B2F980DC_lynEGFP_seg"
+              ]
+            },
+            "tableData": {
+              "tsv": {
+                "relativePath": "tables/grid-view"
+              }
+            },
+            "tables": [
+              "default.tsv"
+            ]
+          }
+        }
+      ],
+      "sourceTransforms": [
+        {
+          "transformedGrid": {
+            "sources": [
+              [
+                "119F60A8CE_atoh1a",
+                "119F60A8CE_lynEGFP",
+                "119F60A8CE_lynEGFP_seg"
+              ],
+              [
+                "464E37847A_atoh1a",
+                "464E37847A_lynEGFP",
+                "464E37847A_lynEGFP_seg"
+              ],
+              [
+                "4CDB5D1964_atoh1a",
+                "4CDB5D1964_lynEGFP",
+                "4CDB5D1964_lynEGFP_seg"
+              ],
+              [
+                "6525AAE2D9_atoh1a",
+                "6525AAE2D9_lynEGFP",
+                "6525AAE2D9_lynEGFP_seg"
+              ],
+              [
+                "66A939E038_atoh1a",
+                "66A939E038_lynEGFP",
+                "66A939E038_lynEGFP_seg"
+              ],
+              [
+                "6EA948A72F_atoh1a",
+                "6EA948A72F_lynEGFP",
+                "6EA948A72F_lynEGFP_seg"
+              ],
+              [
+                "762D43C95A_atoh1a",
+                "762D43C95A_lynEGFP",
+                "762D43C95A_lynEGFP_seg"
+              ],
+              [
+                "7B241168C9_atoh1a",
+                "7B241168C9_lynEGFP",
+                "7B241168C9_lynEGFP_seg"
+              ],
+              [
+                "7FBF9F8ABD_atoh1a",
+                "7FBF9F8ABD_lynEGFP",
+                "7FBF9F8ABD_lynEGFP_seg"
+              ],
+              [
+                "88B2F980DC_atoh1a",
+                "88B2F980DC_lynEGFP",
+                "88B2F980DC_lynEGFP_seg"
+              ],
+              [
+                "8B697371A1_atoh1a",
+                "8B697371A1_lynEGFP",
+                "8B697371A1_lynEGFP_seg"
+              ],
+              [
+                "9AEE3FC822_atoh1a",
+                "9AEE3FC822_lynEGFP",
+                "9AEE3FC822_lynEGFP_seg"
+              ],
+              [
+                "C477F10711_atoh1a",
+                "C477F10711_lynEGFP",
+                "C477F10711_lynEGFP_seg"
+              ],
+              [
+                "D995B41047_atoh1a",
+                "D995B41047_lynEGFP",
+                "D995B41047_lynEGFP_seg"
+              ]
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark"
+    },
+    "small-grid-view": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "green",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "atoh1a",
+            "opacity": 1.0,
+            "sources": [
+              "119F60A8CE_atoh1a",
+              "464E37847A_atoh1a"
+            ]
+          }
+        },
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "membrane",
+            "opacity": 1.0,
+            "sources": [
+              "119F60A8CE_lynEGFP",
+              "464E37847A_lynEGFP"
+            ]
+          }
+        },
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "membrane-segmentation",
+            "opacity": 0.5,
+            "sources": [
+              "119F60A8CE_lynEGFP_seg",
+              "464E37847A_lynEGFP_seg"
+            ],
+            "tables": [
+              "default.tsv"
+            ]
+          }
+        },
+        {
+          "sourceAnnotationDisplay": {
+            "lut": "glasbey",
+            "name": "small-grid-view",
+            "opacity": 0.5,
+            "sources": {
+              "0": [
+                "119F60A8CE_atoh1a",
+                "119F60A8CE_lynEGFP",
+                "119F60A8CE_lynEGFP_seg"
+              ],
+              "1": [
+                "464E37847A_atoh1a",
+                "464E37847A_lynEGFP",
+                "464E37847A_lynEGFP_seg"
+              ]
+            },
+            "tableData": {
+              "tsv": {
+                "relativePath": "tables/small-grid-view"
+              }
+            },
+            "tables": [
+              "default.tsv"
+            ]
+          }
+        }
+      ],
+      "sourceTransforms": [
+        {
+          "transformedGrid": {
+            "sources": [
+              [
+                "119F60A8CE_atoh1a",
+                "119F60A8CE_lynEGFP",
+                "119F60A8CE_lynEGFP_seg"
+              ],
+              [
+                "464E37847A_atoh1a",
+                "464E37847A_lynEGFP",
+                "464E37847A_lynEGFP_seg"
+              ]
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark"
+    }
+  }
+}

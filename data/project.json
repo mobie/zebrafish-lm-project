@@ -1,0 +1,20 @@
+{
+  "datasets": [
+    "membrane",
+    "nuclei",
+    "actin",
+    "atoh1a",
+    "cisgolgi",
+    "early_endosomes",
+    "lysosomes",
+    "recycling_endosomes",
+    "tgn_and_late_endosomes",
+    "trans_golgi"
+  ],
+  "defaultDataset": "membrane",
+  "imageDataFormats": [
+    "bdv.n5.s3",
+    "bdv.n5"
+  ],
+  "specVersion": "0.2.0"
+}
