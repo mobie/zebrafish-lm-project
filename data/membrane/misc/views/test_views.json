@@ -10,26 +10,20 @@
               0.0,
               255.0
             ],
-            "name": "merged-grid_images",
+            "name": "images",
             "opacity": 1.0,
             "sources": [
-              "056F63395C_lynEGFP",
-              "08B96BE794_lynEGFP",
-              "0B51F8B46C_lynEGFP",
-              "0E48AB134C_lynEGFP"
+              "all-images"
             ]
           }
         },
         {
           "segmentationDisplay": {
             "lut": "glasbey",
-            "name": "merged-grid_segmentations",
+            "name": "segmentations",
             "opacity": 0.5,
             "sources": [
-              "056F63395C_lynEGFP_seg",
-              "08B96BE794_lynEGFP_seg",
-              "0B51F8B46C_lynEGFP_seg",
-              "0E48AB134C_lynEGFP_seg"
+              "all-segs"
             ],
             "tables": [
               "default.tsv"
@@ -39,29 +33,54 @@
         {
           "sourceAnnotationDisplay": {
             "lut": "glasbey",
-            "name": "merged-grid",
+            "name": "sites",
             "opacity": 0.5,
             "sources": {
-              "0": [
+              "well1_0": [
                 "056F63395C_lynEGFP",
                 "056F63395C_lynEGFP_seg"
               ],
-              "1": [
+              "well1_1": [
                 "08B96BE794_lynEGFP",
                 "08B96BE794_lynEGFP_seg"
               ],
-              "2": [
+              "well2_0": [
                 "0B51F8B46C_lynEGFP",
                 "0B51F8B46C_lynEGFP_seg"
               ],
-              "3": [
+              "well2_1": [
                 "0E48AB134C_lynEGFP",
                 "0E48AB134C_lynEGFP_seg"
               ]
             },
             "tableData": {
               "tsv": {
-                "relativePath": "tables/merged-grid"
+                "relativePath": "tables/sites"
+              }
+            },
+            "tables": [
+              "default.tsv"
+            ]
+          }
+        },
+        {
+          "sourceAnnotationDisplay": {
+            "lut": "glasbey",
+            "name": "wells",
+            "opacity": 0.5,
+            "sources": {
+              "well1": [
+                "images-well1",
+                "segs-well1"
+              ],
+              "well2": [
+                "images-well2",
+                "segs-well2"
+              ]
+            },
+            "tableData": {
+              "tsv": {
+                "relativePath": "tables/wells"
               }
             },
             "tables": [
@@ -73,10 +92,29 @@
       "sourceTransforms": [
         {
           "mergedGrid": {
-            "mergedGridSourceName": "merged-grid-0",
+            "mergedGridSourceName": "images-well1",
+            "name": "well1-images",
             "sources": [
               "056F63395C_lynEGFP",
-              "08B96BE794_lynEGFP",
+              "08B96BE794_lynEGFP"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "segs-well1",
+            "name": "well1-segmentations",
+            "sources": [
+              "056F63395C_lynEGFP_seg",
+              "08B96BE794_lynEGFP_seg"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "images-well2",
+            "name": "well2-images",
+            "sources": [
               "0B51F8B46C_lynEGFP",
               "0E48AB134C_lynEGFP"
             ]
@@ -84,12 +122,31 @@
         },
         {
           "mergedGrid": {
-            "mergedGridSourceName": "merged-grid-1",
+            "mergedGridSourceName": "segs-well2",
+            "name": "well2-segmentations",
             "sources": [
-              "056F63395C_lynEGFP_seg",
-              "08B96BE794_lynEGFP_seg",
               "0B51F8B46C_lynEGFP_seg",
               "0E48AB134C_lynEGFP_seg"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "all-images",
+            "name": "images",
+            "sources": [
+              "images-well1",
+              "images-well2"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "all-segs",
+            "name": "segmentations",
+            "sources": [
+              "segs-well1",
+              "segs-well2"
             ]
           }
         }
