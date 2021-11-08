@@ -19,9 +19,9 @@ def add_merged_grid():
     mobie.metadata.add_view_to_dataset(DS, view_name, view, bookmark_file_name="test_views")
 
 
-def get_crops(n_sources=4):
+def get_crops(source_type, n_sources=4):
     metadata = mobie.metadata.read_dataset_metadata(DS)
-    sources = [name for name, source in metadata["sources"].items() if list(source.keys())[0] == "segmentation"]
+    sources = [name for name, source in metadata["sources"].items() if list(source.keys())[0] == source_type]
     sources = sources[:n_sources]
     names_after_trafo = [source + "_cropped" for source in sources]
 
@@ -32,19 +32,19 @@ def get_crops(n_sources=4):
     min_ = [sh // 2 - ha for sh, ha in zip(shape, halo)]
     max_ = [sh // 2 + ha for sh, ha in zip(shape, halo)]
 
-    trafos = [
-        mobie.metadata.get_crop_source_transform(sources, min_, max_, name="crop-trafo",
-                                                 source_names_after_transform=names_after_trafo,
-                                                 center_at_origin=True)
-    ]
-    return trafos
+    return mobie.metadata.get_crop_source_transform(sources, min_, max_, name=f"crops-{source_type}",
+                                                    source_names_after_transform=names_after_trafo,
+                                                    center_at_origin=True)
 
 
 def add_transformed_grid():
     view_name = "transformed-grid"
     sources = get_sources()
-    crops = get_crops()
-    view = mobie.metadata.get_grid_view(DS, view_name, sources, use_transformed_grid=True, menu_name="test",
+    crops = [get_crops("image"), get_crops("segmentation")]
+    grid_sources = [[name + "_cropped" for name in names] for names in sources]
+    view = mobie.metadata.get_grid_view(DS, view_name, sources,
+                                        use_transformed_grid=True, menu_name="test",
+                                        grid_sources=grid_sources,
                                         additional_source_transforms=crops)
     mobie.metadata.add_view_to_dataset(DS, view_name, view, bookmark_file_name="test_views")
 

@@ -109,10 +109,10 @@
             "name": "transformed-grid_images",
             "opacity": 1.0,
             "sources": [
-              "056F63395C_lynEGFP",
-              "08B96BE794_lynEGFP",
-              "0B51F8B46C_lynEGFP",
-              "0E48AB134C_lynEGFP"
+              "056F63395C_lynEGFP_cropped",
+              "08B96BE794_lynEGFP_cropped",
+              "0B51F8B46C_lynEGFP_cropped",
+              "0E48AB134C_lynEGFP_cropped"
             ]
           }
         },
@@ -122,10 +122,10 @@
             "name": "transformed-grid_segmentations",
             "opacity": 0.5,
             "sources": [
-              "056F63395C_lynEGFP_seg",
-              "08B96BE794_lynEGFP_seg",
-              "0B51F8B46C_lynEGFP_seg",
-              "0E48AB134C_lynEGFP_seg"
+              "056F63395C_lynEGFP_seg_cropped",
+              "08B96BE794_lynEGFP_seg_cropped",
+              "0B51F8B46C_lynEGFP_seg_cropped",
+              "0E48AB134C_lynEGFP_seg_cropped"
             ],
             "tables": [
               "default.tsv"
@@ -139,20 +139,20 @@
             "opacity": 0.5,
             "sources": {
               "0": [
-                "056F63395C_lynEGFP",
-                "056F63395C_lynEGFP_seg"
+                "056F63395C_lynEGFP_cropped",
+                "056F63395C_lynEGFP_seg_cropped"
               ],
               "1": [
-                "08B96BE794_lynEGFP",
-                "08B96BE794_lynEGFP_seg"
+                "08B96BE794_lynEGFP_cropped",
+                "08B96BE794_lynEGFP_seg_cropped"
               ],
               "2": [
-                "0B51F8B46C_lynEGFP",
-                "0B51F8B46C_lynEGFP_seg"
+                "0B51F8B46C_lynEGFP_cropped",
+                "0B51F8B46C_lynEGFP_seg_cropped"
               ],
               "3": [
-                "0E48AB134C_lynEGFP",
-                "0E48AB134C_lynEGFP_seg"
+                "0E48AB134C_lynEGFP_cropped",
+                "0E48AB134C_lynEGFP_seg_cropped"
               ]
             },
             "tableData": {
@@ -180,7 +180,35 @@
               28.0,
               69.0
             ],
-            "name": "crop-trafo",
+            "name": "crops-image",
+            "sourceNamesAfterTransform": [
+              "056F63395C_lynEGFP_cropped",
+              "08B96BE794_lynEGFP_cropped",
+              "0B51F8B46C_lynEGFP_cropped",
+              "0E48AB134C_lynEGFP_cropped"
+            ],
+            "sources": [
+              "056F63395C_lynEGFP",
+              "08B96BE794_lynEGFP",
+              "0B51F8B46C_lynEGFP",
+              "0E48AB134C_lynEGFP"
+            ]
+          }
+        },
+        {
+          "crop": {
+            "centerAtOrigin": true,
+            "max": [
+              18.0,
+              52.0,
+              93.0
+            ],
+            "min": [
+              10.0,
+              28.0,
+              69.0
+            ],
+            "name": "crops-segmentation",
             "sourceNamesAfterTransform": [
               "056F63395C_lynEGFP_seg_cropped",
               "08B96BE794_lynEGFP_seg_cropped",
@@ -199,20 +227,20 @@
           "transformedGrid": {
             "sources": [
               [
-                "056F63395C_lynEGFP",
-                "056F63395C_lynEGFP_seg"
+                "056F63395C_lynEGFP_cropped",
+                "056F63395C_lynEGFP_seg_cropped"
               ],
               [
-                "08B96BE794_lynEGFP",
-                "08B96BE794_lynEGFP_seg"
+                "08B96BE794_lynEGFP_cropped",
+                "08B96BE794_lynEGFP_seg_cropped"
               ],
               [
-                "0B51F8B46C_lynEGFP",
-                "0B51F8B46C_lynEGFP_seg"
+                "0B51F8B46C_lynEGFP_cropped",
+                "0B51F8B46C_lynEGFP_seg_cropped"
               ],
               [
-                "0E48AB134C_lynEGFP",
-                "0E48AB134C_lynEGFP_seg"
+                "0E48AB134C_lynEGFP_cropped",
+                "0E48AB134C_lynEGFP_seg_cropped"
               ]
             ]
           }
