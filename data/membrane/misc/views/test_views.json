@@ -1,6 +1,6 @@
 {
   "views": {
-    "merged-grid": {
+    "test-merged-grid": {
       "isExclusive": true,
       "sourceDisplays": [
         {
@@ -153,7 +153,7 @@
       ],
       "uiSelectionGroup": "test"
     },
-    "transformed-grid": {
+    "test-transformed-grid": {
       "isExclusive": true,
       "sourceDisplays": [
         {

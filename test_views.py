@@ -13,7 +13,7 @@ def get_split_sources(n_sources=4):
 
 
 def add_merged_grid():
-    view_name = "merged-grid"
+    view_name = "test-merged-grid"
     im_sources, seg_sources = get_split_sources()
 
     trafos = [
@@ -101,7 +101,7 @@ def get_crops(source_type, n_sources=4):
 
 
 def add_transformed_grid():
-    view_name = "transformed-grid"
+    view_name = "test-transformed-grid"
     sources = get_sources()
     crops = [get_crops("image"), get_crops("segmentation")]
     grid_sources = [[name + "_cropped" for name in names] for names in sources]
