@@ -10,26 +10,26 @@
               0.0,
               255.0
             ],
-            "name": "transformed-grid_images",
+            "name": "test-transformed-grid_images",
             "opacity": 1.0,
             "sources": [
-              "056F63395C_lynEGFP_cropped",
-              "08B96BE794_lynEGFP_cropped",
-              "0B51F8B46C_lynEGFP_cropped",
-              "0E48AB134C_lynEGFP_cropped"
+              "056F63395C_lynEGFP_transformed",
+              "08B96BE794_lynEGFP_transformed",
+              "0B51F8B46C_lynEGFP_transformed",
+              "0E48AB134C_lynEGFP_transformed"
             ]
           }
         },
         {
           "segmentationDisplay": {
             "lut": "glasbey",
-            "name": "transformed-grid_segmentations",
+            "name": "test-transformed-grid_segmentations",
             "opacity": 0.5,
             "sources": [
-              "056F63395C_lynEGFP_seg_cropped",
-              "08B96BE794_lynEGFP_seg_cropped",
-              "0B51F8B46C_lynEGFP_seg_cropped",
-              "0E48AB134C_lynEGFP_seg_cropped"
+              "056F63395C_lynEGFP_seg_transformed",
+              "08B96BE794_lynEGFP_seg_transformed",
+              "0B51F8B46C_lynEGFP_seg_transformed",
+              "0E48AB134C_lynEGFP_seg_transformed"
             ],
             "tables": [
               "default.tsv"
@@ -39,29 +39,29 @@
         {
           "sourceAnnotationDisplay": {
             "lut": "glasbey",
-            "name": "transformed-grid",
+            "name": "test-transformed-grid",
             "opacity": 0.5,
             "sources": {
               "0": [
-                "056F63395C_lynEGFP_cropped",
-                "056F63395C_lynEGFP_seg_cropped"
+                "056F63395C_lynEGFP_transformed",
+                "056F63395C_lynEGFP_seg_transformed"
               ],
               "1": [
-                "08B96BE794_lynEGFP_cropped",
-                "08B96BE794_lynEGFP_seg_cropped"
+                "08B96BE794_lynEGFP_transformed",
+                "08B96BE794_lynEGFP_seg_transformed"
               ],
               "2": [
-                "0B51F8B46C_lynEGFP_cropped",
-                "0B51F8B46C_lynEGFP_seg_cropped"
+                "0B51F8B46C_lynEGFP_transformed",
+                "0B51F8B46C_lynEGFP_seg_transformed"
               ],
               "3": [
-                "0E48AB134C_lynEGFP_cropped",
-                "0E48AB134C_lynEGFP_seg_cropped"
+                "0E48AB134C_lynEGFP_transformed",
+                "0E48AB134C_lynEGFP_seg_transformed"
               ]
             },
             "tableData": {
               "tsv": {
-                "relativePath": "tables/transformed-grid"
+                "relativePath": "tables/test-transformed-grid"
               }
             },
             "tables": [
@@ -72,24 +72,27 @@
       ],
       "sourceTransforms": [
         {
-          "crop": {
-            "centerAtOrigin": true,
-            "max": [
-              18.0,
-              52.0,
-              93.0
+          "affine": {
+            "name": "trafos-image",
+            "parameters": [
+              1.414213562373095,
+              0.0,
+              0.0,
+              0.0,
+              1.4142135623730947,
+              1.414213562373095,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0
             ],
-            "min": [
-              10.0,
-              28.0,
-              69.0
-            ],
-            "name": "crops-image",
             "sourceNamesAfterTransform": [
-              "056F63395C_lynEGFP_cropped",
-              "08B96BE794_lynEGFP_cropped",
-              "0B51F8B46C_lynEGFP_cropped",
-              "0E48AB134C_lynEGFP_cropped"
+              "056F63395C_lynEGFP_transformed",
+              "08B96BE794_lynEGFP_transformed",
+              "0B51F8B46C_lynEGFP_transformed",
+              "0E48AB134C_lynEGFP_transformed"
             ],
             "sources": [
               "056F63395C_lynEGFP",
@@ -100,24 +103,27 @@
           }
         },
         {
-          "crop": {
-            "centerAtOrigin": true,
-            "max": [
-              18.0,
-              52.0,
-              93.0
+          "affine": {
+            "name": "trafos-segmentation",
+            "parameters": [
+              1.414213562373095,
+              0.0,
+              0.0,
+              0.0,
+              1.4142135623730947,
+              1.414213562373095,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0
             ],
-            "min": [
-              10.0,
-              28.0,
-              69.0
-            ],
-            "name": "crops-segmentation",
             "sourceNamesAfterTransform": [
-              "056F63395C_lynEGFP_seg_cropped",
-              "08B96BE794_lynEGFP_seg_cropped",
-              "0B51F8B46C_lynEGFP_seg_cropped",
-              "0E48AB134C_lynEGFP_seg_cropped"
+              "056F63395C_lynEGFP_seg_transformed",
+              "08B96BE794_lynEGFP_seg_transformed",
+              "0B51F8B46C_lynEGFP_seg_transformed",
+              "0E48AB134C_lynEGFP_seg_transformed"
             ],
             "sources": [
               "056F63395C_lynEGFP_seg",
@@ -131,20 +137,20 @@
           "transformedGrid": {
             "sources": [
               [
-                "056F63395C_lynEGFP_cropped",
-                "056F63395C_lynEGFP_seg_cropped"
+                "056F63395C_lynEGFP_transformed",
+                "056F63395C_lynEGFP_seg_transformed"
               ],
               [
-                "08B96BE794_lynEGFP_cropped",
-                "08B96BE794_lynEGFP_seg_cropped"
+                "08B96BE794_lynEGFP_transformed",
+                "08B96BE794_lynEGFP_seg_transformed"
               ],
               [
-                "0B51F8B46C_lynEGFP_cropped",
-                "0B51F8B46C_lynEGFP_seg_cropped"
+                "0B51F8B46C_lynEGFP_transformed",
+                "0B51F8B46C_lynEGFP_seg_transformed"
               ],
               [
-                "0E48AB134C_lynEGFP_cropped",
-                "0E48AB134C_lynEGFP_seg_cropped"
+                "0E48AB134C_lynEGFP_transformed",
+                "0E48AB134C_lynEGFP_seg_transformed"
               ]
             ]
           }

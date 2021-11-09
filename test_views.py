@@ -12,33 +12,32 @@ def get_sources(n_sources=4):
     return sources
 
 
-def get_crops(source_type, n_sources=4):
+def get_trafos(source_type, n_sources=4):
+    from elf.transformation import affine_matrix_3d, native_to_bdv
+
     metadata = mobie.metadata.read_dataset_metadata(DS)
     sources = [name for name, source in metadata["sources"].items() if list(source.keys())[0] == source_type]
     sources = sources[:n_sources]
-    names_after_trafo = [source + "_cropped" for source in sources]
+    names_after_trafo = [source + "_transformed" for source in sources]
 
-    shape = (130, 816, 1636)
-    resolution = (0.22, 0.1, 0.1)
-    shape = tuple(sh * re for sh, re in zip(shape, resolution))
-    halo = (4.0, 12.0, 12.0)
-    min_ = [sh // 2 - ha for sh, ha in zip(shape, halo)]
-    max_ = [sh // 2 + ha for sh, ha in zip(shape, halo)]
+    params = affine_matrix_3d(rotation=(45.0, 0.0, 0.0))
+    params = native_to_bdv(params)
 
-    return mobie.metadata.get_crop_source_transform(sources, min_, max_, name=f"crops-{source_type}",
-                                                    source_names_after_transform=names_after_trafo,
-                                                    center_at_origin=True)
+    return mobie.metadata.get_affine_source_transform(
+        sources, params, name=f"trafos-{source_type}",
+        source_names_after_transform=names_after_trafo
+    )
 
 
 def add_transformed_grid():
     view_name = "test-transformed-grid"
     sources = get_sources()
-    crops = [get_crops("image"), get_crops("segmentation")]
-    grid_sources = [[name + "_cropped" for name in names] for names in sources]
+    trafos = [get_trafos("image"), get_trafos("segmentation")]
+    grid_sources = [[name + "_transformed" for name in names] for names in sources]
     view = mobie.metadata.get_grid_view(DS, view_name, sources,
                                         use_transformed_grid=True, menu_name="test",
                                         grid_sources=grid_sources,
-                                        additional_source_transforms=crops)
+                                        additional_source_transforms=trafos)
     mobie.metadata.add_view_to_dataset(DS, view_name, view, bookmark_file_name="test_views")
 
 
