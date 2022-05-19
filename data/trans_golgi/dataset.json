@@ -1095,7 +1095,7 @@
           }
         },
         {
-          "sourceAnnotationDisplay": {
+          "regionDisplay": {
             "lut": "glasbey",
             "name": "grid-view",
             "opacity": 0.5,
@@ -1165,7 +1165,7 @@
       "sourceTransforms": [
         {
           "transformedGrid": {
-            "sources": [
+            "nestedSources": [
               [
                 "0AF10D7E72_b4galT1tagRFPt",
                 "0AF10D7E72_lynEGFP",
@@ -1270,7 +1270,7 @@
           }
         },
         {
-          "sourceAnnotationDisplay": {
+          "regionDisplay": {
             "lut": "glasbey",
             "name": "small-grid-view",
             "opacity": 0.5,
@@ -1300,7 +1300,7 @@
       "sourceTransforms": [
         {
           "transformedGrid": {
-            "sources": [
+            "nestedSources": [
               [
                 "0AF10D7E72_b4galT1tagRFPt",
                 "0AF10D7E72_lynEGFP",
