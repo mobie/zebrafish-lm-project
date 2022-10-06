@@ -1,1 +1,152 @@
-{"views": {"test-transformed-grid": {"isExclusive": true, "sourceDisplays": [{"imageDisplay": {"color": "white", "contrastLimits": [0.0, 255.0], "name": "test-transformed-grid_images", "opacity": 1.0, "sources": ["056F63395C_lynEGFP_transformed", "08B96BE794_lynEGFP_transformed", "0B51F8B46C_lynEGFP_transformed", "0E48AB134C_lynEGFP_transformed"]}}, {"segmentationDisplay": {"lut": "glasbey", "name": "test-transformed-grid_segmentations", "opacity": 0.5, "sources": ["056F63395C_lynEGFP_seg_transformed", "08B96BE794_lynEGFP_seg_transformed", "0B51F8B46C_lynEGFP_seg_transformed", "0E48AB134C_lynEGFP_seg_transformed"], "tables": ["default.tsv"]}}, {"regionDisplay": {"lut": "glasbey", "name": "test-transformed-grid", "opacity": 0.5, "sources": {"0": ["056F63395C_lynEGFP_transformed", "056F63395C_lynEGFP_seg_transformed"], "1": ["08B96BE794_lynEGFP_transformed", "08B96BE794_lynEGFP_seg_transformed"], "2": ["0B51F8B46C_lynEGFP_transformed", "0B51F8B46C_lynEGFP_seg_transformed"], "3": ["0E48AB134C_lynEGFP_transformed", "0E48AB134C_lynEGFP_seg_transformed"]}, "tableData": {"tsv": {"relativePath": "tables/test-transformed-grid"}}, "tables": ["default.tsv"]}}], "sourceTransforms": [{"affine": {"name": "trafos-image", "parameters": [1.414213562373095, 0.0, 0.0, 0.0, 1.4142135623730947, 1.414213562373095, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0], "sourceNamesAfterTransform": ["056F63395C_lynEGFP_transformed", "08B96BE794_lynEGFP_transformed", "0B51F8B46C_lynEGFP_transformed", "0E48AB134C_lynEGFP_transformed"], "sources": ["056F63395C_lynEGFP", "08B96BE794_lynEGFP", "0B51F8B46C_lynEGFP", "0E48AB134C_lynEGFP"]}}, {"affine": {"name": "trafos-segmentation", "parameters": [1.414213562373095, 0.0, 0.0, 0.0, 1.4142135623730947, 1.414213562373095, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0], "sourceNamesAfterTransform": ["056F63395C_lynEGFP_seg_transformed", "08B96BE794_lynEGFP_seg_transformed", "0B51F8B46C_lynEGFP_seg_transformed", "0E48AB134C_lynEGFP_seg_transformed"], "sources": ["056F63395C_lynEGFP_seg", "08B96BE794_lynEGFP_seg", "0B51F8B46C_lynEGFP_seg", "0E48AB134C_lynEGFP_seg"]}}, {"transformedGrid": {"nestedSources": [["056F63395C_lynEGFP_transformed", "056F63395C_lynEGFP_seg_transformed"], ["08B96BE794_lynEGFP_transformed", "08B96BE794_lynEGFP_seg_transformed"], ["0B51F8B46C_lynEGFP_transformed", "0B51F8B46C_lynEGFP_seg_transformed"], ["0E48AB134C_lynEGFP_transformed", "0E48AB134C_lynEGFP_seg_transformed"]]}}], "uiSelectionGroup": "test"}}}
+{
+  "views": {
+    "test-transformed-grid": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "test-transformed-grid_images",
+            "opacity": 1.0,
+            "sources": [
+              "056F63395C_lynEGFP_transformed",
+              "08B96BE794_lynEGFP_transformed",
+              "0B51F8B46C_lynEGFP_transformed",
+              "0E48AB134C_lynEGFP_transformed"
+            ]
+          }
+        },
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "test-transformed-grid_segmentations",
+            "opacity": 0.5,
+            "sources": [
+              "056F63395C_lynEGFP_seg_transformed",
+              "08B96BE794_lynEGFP_seg_transformed",
+              "0B51F8B46C_lynEGFP_seg_transformed",
+              "0E48AB134C_lynEGFP_seg_transformed"
+            ]
+          }
+        },
+        {
+          "regionDisplay": {
+            "lut": "glasbey",
+            "name": "test-transformed-grid",
+            "opacity": 0.5,
+            "sources": {
+              "0": [
+                "056F63395C_lynEGFP_transformed",
+                "056F63395C_lynEGFP_seg_transformed"
+              ],
+              "1": [
+                "08B96BE794_lynEGFP_transformed",
+                "08B96BE794_lynEGFP_seg_transformed"
+              ],
+              "2": [
+                "0B51F8B46C_lynEGFP_transformed",
+                "0B51F8B46C_lynEGFP_seg_transformed"
+              ],
+              "3": [
+                "0E48AB134C_lynEGFP_transformed",
+                "0E48AB134C_lynEGFP_seg_transformed"
+              ]
+            },
+            "tableSource": "test-transformed-grid"
+          }
+        }
+      ],
+      "sourceTransforms": [
+        {
+          "affine": {
+            "name": "trafos-image",
+            "parameters": [
+              1.414213562373095,
+              0.0,
+              0.0,
+              0.0,
+              1.4142135623730947,
+              1.414213562373095,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            "sourceNamesAfterTransform": [
+              "056F63395C_lynEGFP_transformed",
+              "08B96BE794_lynEGFP_transformed",
+              "0B51F8B46C_lynEGFP_transformed",
+              "0E48AB134C_lynEGFP_transformed"
+            ],
+            "sources": [
+              "056F63395C_lynEGFP",
+              "08B96BE794_lynEGFP",
+              "0B51F8B46C_lynEGFP",
+              "0E48AB134C_lynEGFP"
+            ]
+          }
+        },
+        {
+          "affine": {
+            "name": "trafos-segmentation",
+            "parameters": [
+              1.414213562373095,
+              0.0,
+              0.0,
+              0.0,
+              1.4142135623730947,
+              1.414213562373095,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            "sourceNamesAfterTransform": [
+              "056F63395C_lynEGFP_seg_transformed",
+              "08B96BE794_lynEGFP_seg_transformed",
+              "0B51F8B46C_lynEGFP_seg_transformed",
+              "0E48AB134C_lynEGFP_seg_transformed"
+            ],
+            "sources": [
+              "056F63395C_lynEGFP_seg",
+              "08B96BE794_lynEGFP_seg",
+              "0B51F8B46C_lynEGFP_seg",
+              "0E48AB134C_lynEGFP_seg"
+            ]
+          }
+        },
+        {
+          "transformedGrid": {
+            "nestedSources": [
+              [
+                "056F63395C_lynEGFP_transformed",
+                "056F63395C_lynEGFP_seg_transformed"
+              ],
+              [
+                "08B96BE794_lynEGFP_transformed",
+                "08B96BE794_lynEGFP_seg_transformed"
+              ],
+              [
+                "0B51F8B46C_lynEGFP_transformed",
+                "0B51F8B46C_lynEGFP_seg_transformed"
+              ],
+              [
+                "0E48AB134C_lynEGFP_transformed",
+                "0E48AB134C_lynEGFP_seg_transformed"
+              ]
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "test"
+    }
+  }
+}

@@ -451,6 +451,24 @@
           }
         }
       }
+    },
+    "grid-view": {
+      "regions": {
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/grid-view"
+          }
+        }
+      }
+    },
+    "small-grid-view": {
+      "regions": {
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/small-grid-view"
+          }
+        }
+      }
     }
   },
   "views": {
@@ -484,9 +502,6 @@
             "opacity": 0.5,
             "sources": [
               "1A3F9F428A_lynEGFP_seg"
-            ],
-            "tables": [
-              "default.tsv"
             ]
           }
         }
@@ -543,9 +558,6 @@
             "opacity": 0.5,
             "sources": [
               "544D6C59FD_lynEGFP_seg"
-            ],
-            "tables": [
-              "default.tsv"
             ]
           }
         }
@@ -602,9 +614,6 @@
             "opacity": 0.5,
             "sources": [
               "655E9D7D39_lynEGFP_seg"
-            ],
-            "tables": [
-              "default.tsv"
             ]
           }
         }
@@ -661,9 +670,6 @@
             "opacity": 0.5,
             "sources": [
               "6565C3193C_lynEGFP_seg"
-            ],
-            "tables": [
-              "default.tsv"
             ]
           }
         }
@@ -720,9 +726,6 @@
             "opacity": 0.5,
             "sources": [
               "8494E67C25_lynEGFP_seg"
-            ],
-            "tables": [
-              "default.tsv"
             ]
           }
         }
@@ -779,9 +782,6 @@
             "opacity": 0.5,
             "sources": [
               "BACFB0475A_lynEGFP_seg"
-            ],
-            "tables": [
-              "default.tsv"
             ]
           }
         }
@@ -838,9 +838,6 @@
             "opacity": 0.5,
             "sources": [
               "D6B1A93BDE_lynEGFP_seg"
-            ],
-            "tables": [
-              "default.tsv"
             ]
           }
         }
@@ -897,9 +894,6 @@
             "opacity": 0.5,
             "sources": [
               "DBD0449625_lynEGFP_seg"
-            ],
-            "tables": [
-              "default.tsv"
             ]
           }
         }
@@ -956,9 +950,6 @@
             "opacity": 0.5,
             "sources": [
               "E63DB08265_lynEGFP_seg"
-            ],
-            "tables": [
-              "default.tsv"
             ]
           }
         }
@@ -1015,9 +1006,6 @@
             "opacity": 0.5,
             "sources": [
               "E99A87B085_lynEGFP_seg"
-            ],
-            "tables": [
-              "default.tsv"
             ]
           }
         }
@@ -1074,9 +1062,6 @@
             "opacity": 0.5,
             "sources": [
               "EE11691237_lynEGFP_seg"
-            ],
-            "tables": [
-              "default.tsv"
             ]
           }
         }
@@ -1167,9 +1152,6 @@
               "E63DB08265_lynEGFP_seg",
               "E99A87B085_lynEGFP_seg",
               "EE11691237_lynEGFP_seg"
-            ],
-            "tables": [
-              "default.tsv"
             ]
           }
         },
@@ -1259,14 +1241,7 @@
                 "E99A87B085_mKate2GM130"
               ]
             },
-            "tableData": {
-              "tsv": {
-                "relativePath": "tables/grid-view"
-              }
-            },
-            "tables": [
-              "default.tsv"
-            ]
+            "tableSource": "grid-view"
           }
         }
       ],
@@ -1361,9 +1336,6 @@
             "sources": [
               "1A3F9F428A_lynEGFP_seg",
               "544D6C59FD_lynEGFP_seg"
-            ],
-            "tables": [
-              "default.tsv"
             ]
           }
         },
@@ -1399,14 +1371,7 @@
                 "544D6C59FD_mKate2GM130"
               ]
             },
-            "tableData": {
-              "tsv": {
-                "relativePath": "tables/small-grid-view"
-              }
-            },
-            "tables": [
-              "default.tsv"
-            ]
+            "tableSource": "small-grid-view"
           }
         }
       ],
